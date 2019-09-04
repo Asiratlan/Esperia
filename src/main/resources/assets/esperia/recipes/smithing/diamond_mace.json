@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EKW",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "K": {
+            "item": "esperia:steel_mace_head"
+        },
+        "W": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:shaft"
+        }
+    },
+    "result": {
+        "item": "esperia:diamond_mace",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        " / ",
+        "PEP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dye",
+            "data": 4
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "E": {
+            "item": "esperia:candle_off_item"
+        }
+    },
+    "result": {
+        "item": "esperia:paper_lantern_blue_off",
+        "count": 1
+    }
+}

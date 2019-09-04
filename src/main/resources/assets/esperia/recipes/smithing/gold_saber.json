@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EFK",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "F": {
+            "item": "esperia:gold_saber_head"
+        },
+        "K": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "esperia:gold_saber",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "OS",
+        "LK"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:rabbit_hide"
+        },
+		        "O": {
+        "item": "esperia:tanning_oil",
+		 "data": 32767
+        },
+		        "S": {
+            "item": "esperia:salt"
+        },
+        "K": {
+                    "type": "forge:ore_dict",
+            "ore": "knifeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:tanned_leather",
+        "count": 2
+    }
+}

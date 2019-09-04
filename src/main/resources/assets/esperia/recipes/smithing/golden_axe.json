@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "ENZ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "N": {
+            "item": "esperia:gold_axe_head"
+        },
+        "Z": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:shaft"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_axe",
+        "count": 1
+    }
+}

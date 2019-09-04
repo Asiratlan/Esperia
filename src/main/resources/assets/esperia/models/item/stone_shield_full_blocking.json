@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:item/shield_blocking",
+    "textures": {
+        "layer0": "esperia:items/stone_shield_full"
+    }
+}

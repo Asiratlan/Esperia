@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:quartz_ore/quartz_ore1"
+            }, {
+                "model": "esperia:quartz_ore/quartz_ore2"
+            }, {
+                "model": "esperia:quartz_ore/quartz_ore3"
+            }, {
+                "model": "esperia:quartz_ore/quartz_ore4"
+            }, {
+                "model": "esperia:quartz_ore/quartz_ore5"
+            }, {
+                "model": "esperia:quartz_ore/quartz_ore6"
+            }]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "esperia:block/door_top_rh",
+    "textures": {
+        "bottom": "esperia:blocks/brown_window_lower",
+        "top": "esperia:blocks/brown_window_upper"
+    }
+}

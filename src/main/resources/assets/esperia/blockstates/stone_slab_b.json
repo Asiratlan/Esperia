@@ -1,0 +1,40 @@
+{
+    "variants": {
+        "color=diorite,half=bottom": {
+            "model": "esperia:slab_diorite_b_half"
+        },
+        "color=diorite,half=top": {
+            "model": "esperia:slab_diorite_b_upper"
+        },
+        "color=andesite,half=bottom": {
+            "model": "esperia:slab_andesite_b_half"
+        },
+        "color=andesite,half=top": {
+            "model": "esperia:slab_andesite_b_upper"
+        },
+        "color=granite,half=bottom": {
+            "model": "esperia:slab_granite_b_half"
+        },
+        "color=granite,half=top": {
+            "model": "esperia:slab_granite_b_upper"
+        },
+        "color=blue_slate,half=bottom": {
+            "model": "esperia:slab_blue_slate_b_half"
+        },
+        "color=blue_slate,half=top": {
+            "model": "esperia:slab_blue_slate_b_upper"
+        },
+        "color=clay,half=bottom": {
+            "model": "esperia:hardened_clay_slab_half"
+        },
+        "color=clay,half=top": {
+            "model": "esperia:hardened_clay_slab_upper"
+        },
+        "color=clay_slate,half=bottom": {
+            "model": "esperia:slab_clay_slate_b_half"
+        },
+        "color=clay_slate,half=top": {
+            "model": "esperia:slab_clay_slate_b_upper"
+        }  
+    }
+}

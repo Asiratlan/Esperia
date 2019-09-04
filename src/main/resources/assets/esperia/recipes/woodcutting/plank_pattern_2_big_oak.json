@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "EXF",
+        " Q "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "X": {
+            "item": "esperia:plank_big_oak"
+        },
+        "F": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "Q": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:planks_big_oak_pattern_2",
+        "count": 1
+    }
+}

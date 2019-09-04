@@ -1,0 +1,7 @@
+{
+    "parent": "esperia:item/handheld_middle",
+    "textures": {
+        "layer0": "esperia:items/broom"
+    }
+}
+

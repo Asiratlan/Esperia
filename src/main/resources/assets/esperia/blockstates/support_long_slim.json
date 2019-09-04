@@ -1,0 +1,42 @@
+{
+    "variants": {
+        "facing=west,hold=true": {
+            "model": "esperia:support_long_slim_2",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=east,hold=true": {
+            "model": "esperia:support_long_slim_2",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north,hold=true": {
+            "model": "esperia:support_long_slim_2",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=south,hold=true": {
+            "model": "esperia:support_long_slim_2",
+            "uvlock": false
+        },
+        "facing=west,hold=false": {
+            "model": "esperia:support_long_slim_1",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=east,hold=false": {
+            "model": "esperia:support_long_slim_1",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north,hold=false": {
+            "model": "esperia:support_long_slim_1",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=south,hold=false": {
+            "model": "esperia:support_long_slim_1",
+            "uvlock": false
+        }     
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "esperia:items/pipe_ornate"
+    },
+	"display": {
+    "thirdperson_righthand": {
+        "rotation": [ 22, 78, 0 ],
+        "translation": [ -1.25, 4.00, 5.25 ],
+        "scale": [ 1.22, 0.70, 0.90 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 22, 258, 0 ],
+        "translation": [ -1.25, 4.00, 5.25 ],
+        "scale": [ 1.22, 0.70, 0.90 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 55, 90, 290 ],
+        "translation": [ -4.12, 2.95, 1.38 ],
+        "scale": [ 1.16, 0.68, 0.68 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 345, 266, 0 ],
+        "translation": [ -4.12, 2.95, 1.38 ],
+        "scale": [ 1.16, 0.68, 0.68 ]
+    },
+    "gui": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0.00, 0.00, 0.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    },
+    "head": {
+        "rotation": [ -180, -0, -180 ],
+        "translation": [ -0.00, 13.00, 7.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    },
+    "fixed": {
+        "rotation": [ -180, -0, -180 ],
+        "translation": [ -0.00, 0.00, 0.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    },
+    "ground": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0.00, 2.00, 0.00 ],
+        "scale": [ 1.00, 1.00, 1.00 ]
+    }
+}
+}
+

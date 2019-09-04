@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "color=white,half=bottom": {
+            "model": "esperia:wool_slab_half_white"
+        },
+        "color=white,half=top": {
+            "model": "esperia:wool_slab_upper_white"
+        },
+        "color=gray,half=bottom": {
+            "model": "esperia:wool_slab_half_gray"
+        },
+        "color=gray,half=top": {
+            "model": "esperia:wool_slab_upper_gray"
+        },
+        "color=light_BlockWoolSlab_bblue,half=bottom": {
+            "model": "esperia:wool_slab_half_light_blue"
+        },
+        "color=light_blue,half=top": {
+            "model": "esperia:wool_slab_upper_light_blue"
+        },
+        "color=lime,half=bottom": {
+            "model": "esperia:wool_slab_half_lime"
+        },
+        "color=lime,half=top": {
+            "model": "esperia:wool_slab_upper_lime"
+        },
+        "color=magenta,half=bottom": {
+            "model": "esperia:wool_slab_half_magenta"
+        },
+        "color=magenta,half=top": {
+            "model": "esperia:wool_slab_upper_magenta"
+        },
+        "color=orange,half=bottom": {
+            "model": "esperia:wool_slab_half_orange"
+        },
+        "color=orange,half=top": {
+            "model": "esperia:wool_slab_upper_orange"
+        },
+        "color=pink,half=bottom": {
+            "model": "esperia:wool_slab_half_pink"
+        },
+        "color=pink,half=top": {
+            "model": "esperia:wool_slab_upper_pink"
+        },       
+        "color=yellow,half=bottom": {
+            "model": "esperia:wool_slab_half_yellow"
+        },
+        "color=yellow,half=top": {
+            "model": "esperia:wool_slab_upper_yellow"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside",
+    "textures": {
+        "pane": "esperia:blocks/wooden_bars"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PP ",
+        "PI ",
+        "NH "
+    ],
+    "key": {
+        "N": {
+            "item": "esperia:nails"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "P": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "I": {
+            "item": "esperia:support_long_slim"
+        }
+    },
+    "result": {
+        "item": "esperia:support_long_fat",
+        "count": 1
+    }
+}

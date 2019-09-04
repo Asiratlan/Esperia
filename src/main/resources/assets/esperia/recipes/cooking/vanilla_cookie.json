@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " E ",
+        "SFB"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "F": {
+            "item": "esperia:flour"
+        },
+        "B": {
+            "item": "esperia:butter"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:cookie",
+		"count": 6
+    }
+}		

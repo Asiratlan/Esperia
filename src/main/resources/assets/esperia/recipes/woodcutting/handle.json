@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "TST"
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "T": {
+            "type": "forge:ore_dict",
+            "ore": "strap"
+        }
+    },
+    "result": {
+        "item": "esperia:handle",
+        "count": 2
+    }
+}

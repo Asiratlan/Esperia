@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "OOO"
+    ],
+    "key": {
+		  "O": {
+            "item": "esperia:old_hay_block"
+        }
+    },
+    "result": {
+        "item": "esperia:hay_slab",
+		"data": 1,
+        "count": 6
+    }
+}

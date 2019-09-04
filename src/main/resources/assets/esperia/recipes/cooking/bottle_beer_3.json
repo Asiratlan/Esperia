@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "bucket_beer"
+        },
+        {
+            "item": "esperia:glass_bottle_rum_empty"
+        },
+        {
+            "item": "esperia:glass_bottle_rum_empty"
+        },
+        {
+            "item": "esperia:glass_bottle_rum_empty"
+        }
+    ],
+    "result": {
+        "item": "esperia:glass_bottle_beer",
+		"count": 3
+    }
+}

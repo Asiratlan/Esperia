@@ -1,0 +1,46 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#ER",
+        "ZQB",
+        "ONg"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "R": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "Z": {
+            "item": "esperia:molten_glass"
+        },
+        "Q": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "O": {
+            "item": "esperia:sophisticated_mecanism"
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "g": {
+            "type": "forge:ore_dict",
+            "ore": "ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:daylight_detector",
+        "count": 1
+    }
+}

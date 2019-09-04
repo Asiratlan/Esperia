@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "  #",
+        " I ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:fox_fur"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:brush",
+        "count": 1
+    }
+}

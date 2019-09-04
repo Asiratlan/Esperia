@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "  #",
+        " / ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "knife"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:pointed_stick",
+        "count": 1
+    }
+}

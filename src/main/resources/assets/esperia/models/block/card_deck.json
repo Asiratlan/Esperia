@@ -1,0 +1,63 @@
+{
+	"__comment": "Designed by Gauchiste with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "esperia:items/cards/card_recto",
+		"texture": "esperia:items/cards/card_recto"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneY1",
+			"from": [ 4, 0, 4 ],
+			"to": [ 12, 0.09999999, 12 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneY1",
+			"from": [ 4, 0.5, 4 ],
+			"to": [ 12, 0.6, 12 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneY1",
+			"from": [ 4, 1, 4 ],
+			"to": [ 12, 1.1, 12 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneY1",
+			"from": [ 4, 1.5, 4 ],
+			"to": [ 12, 1.6, 12 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneY1",
+			"from": [ 4, 2, 4 ],
+			"to": [ 12, 2.1, 12 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "PlaneY1",
+			"from": [ 4, 2.5, 4 ],
+			"to": [ 12, 2.6, 12 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

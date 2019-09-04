@@ -1,0 +1,33 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "# H",
+        " B ",
+        "G Q"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "B": {
+            "item": "esperia:bronze_nugget"
+        },
+        "H": {
+            "item": "esperia:magnifying_glass",
+			"data": 32767        
+		},
+        "G": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "Q": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:cog",
+        "count": 1
+    }
+}

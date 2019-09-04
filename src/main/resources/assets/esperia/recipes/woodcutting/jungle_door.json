@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##I",
+        "//H",
+        "##i"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_jungle"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "metal_nugget"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "i": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_door",
+        "count": 1
+    }
+}

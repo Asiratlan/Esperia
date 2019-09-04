@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EUT",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "U": {
+            "item": "esperia:steel_hammer_head"
+        },
+        "T": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:shaft"
+        }
+    },
+    "result": {
+        "item": "esperia:diamond_hammer",
+        "count": 1
+    }
+}

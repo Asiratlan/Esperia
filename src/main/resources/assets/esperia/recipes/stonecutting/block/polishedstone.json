@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E"
+    ],
+    "key": {
+        "#": {
+           "item": "minecraft:stonebrick",
+		   "data":0
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_slab_top",
+        "count": 1
+    }
+}

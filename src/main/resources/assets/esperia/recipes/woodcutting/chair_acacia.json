@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "OS ",
+        "BG#",
+        "EC "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_acacia"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "B": {
+            "item": "esperia:nails"
+        },
+        "C": {
+            "item": "esperia:acacia_stool"
+        },
+        "G": {
+            "item": "esperia:wooden_bars"
+        },
+        "S": {
+            "item": "esperia:stick_acacia"
+        }
+    },
+    "result": {
+        "item": "esperia:acacia_chair",
+        "count": 1
+    }
+}

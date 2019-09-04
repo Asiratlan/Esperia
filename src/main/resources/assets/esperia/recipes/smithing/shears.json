@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "E  ",
+        "DVD"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "D": {
+            "item": "esperia:iron_knife_head"
+        },
+        "V": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:shears",
+        "count": 1
+    }
+}

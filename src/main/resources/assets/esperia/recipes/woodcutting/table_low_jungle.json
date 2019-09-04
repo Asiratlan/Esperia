@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "SBS",
+        "EBO"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_jungle"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "S": {
+            "item": "esperia:stick_jungle"
+        },
+        "B": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:jungle_table_low",
+        "count": 1
+    }
+}

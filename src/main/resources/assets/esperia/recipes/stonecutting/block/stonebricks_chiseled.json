@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E"
+    ],
+    "key": {
+        "#": {
+           "item": "minecraft:stonebrick"
+		   "data": 0
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:stonebrick",
+		"data": 3,
+        "count": 1
+    }
+}

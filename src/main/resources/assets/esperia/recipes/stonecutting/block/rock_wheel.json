@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "SCS",
+		"IRI",
+        "SCS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:sand",
+            "data" : 0
+        },
+        "C": {
+            "item": "minecraft:clay"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "R": {
+            "item": "esperia:cog"
+        }
+    },
+    "result": {
+        "item": "esperia:rock_wheel",
+        "count": 1
+    }
+}

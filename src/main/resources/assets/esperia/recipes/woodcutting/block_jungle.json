@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+		" P ",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+		"P": {
+            "item": "esperia:plank_jungle"
+        }
+    },
+    "result": {
+        "item": "esperia:jungle_block",
+        "count": 6
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "esperia:container_hrp"
+        },
+        "facing=south": {
+            "model": "esperia:container_hrp",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:container_hrp",
+            "y": 180
+        },
+        "facing=north": {
+            "model": "esperia:container_hrp",
+            "y": -90
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "esperia:blocks/log_mossy_acacia_top",
+        "side": "esperia:blocks/log_mossy_acacia"
+    }
+}

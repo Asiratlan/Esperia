@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:vine"
+        },
+        {
+            "item": "esperia:stone_wall_granite"
+        }
+    ],
+    "result": {
+        "item": "minecraft:stone_wall_granite_mossy",
+        "count": 1
+    }
+}

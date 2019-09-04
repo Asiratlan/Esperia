@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+		"HPL",
+        "   "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+		"P": {
+            "item": "esperia:bronze_nugget"
+        }
+    },
+    "result": {
+        "item": "esperia:petanque_bronze_ball",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+﻿{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "minecraft:blocks/leaves_spruce",
+        "top": "minecraft:blocks/leaves_spruce",
+        "side": "minecraft:blocks/leaves_spruce"
+    }
+}

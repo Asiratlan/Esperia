@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/table_low_side",
+    "textures": {
+        "0": "esperia:blocks/table_low_dark_oak"
+    }
+}

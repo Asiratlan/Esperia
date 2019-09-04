@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [      
+        "  J",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:hardened_clay"
+        },
+        "J": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_slab_b",
+        "data": 3,
+        "count": 6
+    }
+}

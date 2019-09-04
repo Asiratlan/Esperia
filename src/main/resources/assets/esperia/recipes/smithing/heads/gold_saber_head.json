@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "  H",
+        " PE",
+		"   "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"E": {
+            "item": "esperia:gold_sword_head"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:gold_saber_head",
+        "count": 1
+    }
+}

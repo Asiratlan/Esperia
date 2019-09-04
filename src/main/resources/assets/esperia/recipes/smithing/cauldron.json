@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PCP",
+        "PHP",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plate_iron"
+        },
+        "C": {
+            "item": "esperia:chain"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:cauldron",
+        "count": 1
+    }
+}

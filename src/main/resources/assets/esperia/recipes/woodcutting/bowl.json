@@ -1,0 +1,26 @@
+﻿{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "H L",
+        "P P",
+        " P "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "P": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        }
+    },
+    "result": {
+        "item": "minecraft:bowl",
+        "count": 4
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/farming/cep",
+    "textures": {
+        "crop": "esperia:blocks/farming/grapes_stage_3"
+    }
+}

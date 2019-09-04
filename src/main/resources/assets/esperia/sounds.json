@@ -1,0 +1,12 @@
+{
+    "random.bell": {
+        "category": "ambient",
+        "subtitle": "mymod.subtitle.openChest",
+        "sounds": [
+            "esperia:random/bell1",
+            "esperia:random/bell2",
+            "esperia:random/bell3",
+            "esperia:random/bell4"
+        ]
+    }
+}

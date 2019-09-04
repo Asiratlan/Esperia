@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#I"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:log2",
+            "data": 1
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        }
+    },
+    "result": {
+        "item": "esperia:plank_big_oak",
+        "count": 16
+    }
+}

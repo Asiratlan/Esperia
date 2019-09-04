@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "EBO"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_big_oak"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "B": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:big_oak_table",
+        "count": 1
+    }
+}

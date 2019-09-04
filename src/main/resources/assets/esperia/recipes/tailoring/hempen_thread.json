@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "TTT",
+        "TST",
+		"TTT"
+    ],
+    "key": {
+        "T": {
+            "item": "esperia:hemp"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:hempen_thread",
+        "count": 32
+    }
+}

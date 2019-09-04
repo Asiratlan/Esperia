@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#ER",
+        "I H",
+        "V  "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "R": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "nugget"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "V": {
+            "type": "forge:ore_dict",
+            "ore": "thread"
+        }
+    },
+    "result": {
+        "item": "minecraft:redstone",
+        "count": 16
+    }
+}

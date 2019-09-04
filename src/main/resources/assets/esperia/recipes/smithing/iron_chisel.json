@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EIA",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "I": {
+            "item": "esperia:iron_chisel_head"
+        },
+        "A": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "esperia:iron_chisel",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "esperia:blocks/timbered_block_right"
+    }
+}

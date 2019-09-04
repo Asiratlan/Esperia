@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "MSB"
+    ],
+    "key": {
+        "B": {
+            "item":"minecraft:glass_pane"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+        "item": "esperia:cupboard",
+        "count": 1
+    }
+}

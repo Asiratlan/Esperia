@@ -1,0 +1,42 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EC",
+        "RNO",
+        "YX "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "C": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "R": {
+            "item": "minecraft:rail"
+        },
+        "N": {
+            "item": "esperia:simple_mecanism"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "Y": {
+            "item": "esperia:nails"
+        },
+        "X": {
+            "type": "forge:ore_dict",
+            "ore": "rod"
+        }
+    },
+    "result": {
+        "item": "minecraft:activator_rail",
+        "count": 1
+    }
+}

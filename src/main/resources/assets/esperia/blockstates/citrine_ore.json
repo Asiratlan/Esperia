@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:citrine_ore/citrine_ore1"
+            }, {
+                "model": "esperia:citrine_ore/citrine_ore2"
+            }, {
+                "model": "esperia:citrine_ore/citrine_ore3"
+            }, {
+                "model": "esperia:citrine_ore/citrine_ore4"
+            }, {
+                "model": "esperia:citrine_ore/citrine_ore5"
+            }, {
+                "model": "esperia:citrine_ore/citrine_ore6"
+            }]
+    }
+}

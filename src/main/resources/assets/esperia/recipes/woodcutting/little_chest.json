@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+        "F##",
+        "EBO"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "F": {
+            "item": "esperia:stick_iron"
+        },
+        "B": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:little_chest",
+        "count": 1
+    }
+}

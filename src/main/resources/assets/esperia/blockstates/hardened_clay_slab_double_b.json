@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "color=white": {
+            "model": "hardened_clay_white"
+        },
+        "color=black": {
+            "model": "hardened_clay_black"
+        },
+        "color=blue": {
+            "model": "hardened_clay_blue"
+        },
+        "color=brown": {
+            "model": "hardened_clay_brown"
+        },
+        "color=cyan": {
+            "model": "hardened_clay_cyan"
+        },
+        "color=gray": {
+            "model": "hardened_clay_gray"
+        },
+        "color=green": {
+            "model": "hardened_clay_green"
+        },
+        "color=light_blue": {
+            "model": "hardened_clay_light_blue"
+        },
+        "color=lime": {
+            "model": "hardened_clay_lime"
+        },
+        "color=magenta": {
+            "model": "hardened_clay_magenta"
+        },
+        "color=orange": {
+            "model": "hardened_clay_orange"
+        },
+        "color=pink": {
+            "model": "hardened_clay_pink"
+        },
+        "color=purple": {
+            "model": "hardened_clay_purple"
+        },
+        "color=red": {
+            "model": "hardened_clay_red"
+        },
+        "color=silver": {
+            "model": "hardened_clay_silver"
+        },
+        "color=yellow": {
+            "model": "hardened_clay_yellow"
+        }
+    }
+}

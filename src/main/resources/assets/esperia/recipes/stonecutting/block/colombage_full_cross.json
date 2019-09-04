@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "EDI",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "D": {
+            "item": "esperia:timber_block_vertical"
+        },
+        "I": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:timber_block_crossed",
+        "count": 1
+    }
+}

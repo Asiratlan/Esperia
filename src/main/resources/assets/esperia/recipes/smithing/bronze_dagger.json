@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EJY",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "J": {
+            "item": "esperia:bronze_dagger_head"
+        },
+        "Y": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "esperia:bronze_dagger",
+        "count": 1
+    }
+}

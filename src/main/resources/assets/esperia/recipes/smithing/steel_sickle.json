@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "ESZ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "S": {
+            "item": "esperia:steel_sickle_head"
+        },
+        "Z": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "esperia:steel_sickle",
+        "count": 1
+    }
+}

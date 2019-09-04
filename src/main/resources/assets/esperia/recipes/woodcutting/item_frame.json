@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " / ",
+        "/O/",
+        "i/I"
+    ],
+    "key": {
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "i": {
+            "item": "esperia:nails"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:item_frame",
+        "count": 1
+    }
+}

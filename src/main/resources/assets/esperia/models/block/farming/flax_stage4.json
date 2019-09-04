@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "esperia:blocks/farming/flax_stage_5"
+    }
+}

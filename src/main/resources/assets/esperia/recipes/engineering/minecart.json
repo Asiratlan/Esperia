@@ -1,0 +1,39 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EB",
+        "PQP",
+        "IAI"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "A": {
+            "item": "esperia:plate_iron"
+        },
+        "Q": {
+            "item": "esperia:nails"
+        },
+        "I": {
+            "item": "esperia:cog"
+        },
+		"P": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        }
+    },
+    "result": {
+        "item": "minecraft:minecart",
+        "count": 1
+    }
+}

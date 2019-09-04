@@ -1,0 +1,34 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "FOF",
+		"BBB",
+        "WSK"
+    ],
+    "key": {
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        },
+        "W": {
+            "type": "forge:ore_dict",
+            "ore": "water_medium"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        },
+        "F": {
+            "item": "esperia:fish_herring_raw"
+        },
+        "S": {
+            "item": "esperia:salt"
+        },
+        "O": {
+            "item": "esperia:onion"
+        }
+    },
+    "result": {
+        "item": "esperia:fish_soup",
+        "count": 3
+    }
+}

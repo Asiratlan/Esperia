@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "eee",
+        "eee",
+        "eee"
+    ],
+    "key": {
+        "e": {
+            "item": "esperia:ingot_silver"
+        }
+    },
+    "result": {
+        "item": "esperia:silver_block",
+        "count": 1
+    }
+}

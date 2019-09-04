@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        "#Z#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:fox_fur"
+        },
+        "E": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "Z": {
+            "item": "esperia:leather_scrap"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_coat",
+        "count": 1
+    }
+}

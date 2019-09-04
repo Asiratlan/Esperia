@@ -1,0 +1,36 @@
+{
+    "textures": {
+        "particle": "esperia:blocks/bluecheese_wheel_side",
+        "bottom": "esperia:blocks/bluecheese_wheel_bottom",
+        "top": "esperia:blocks/bluecheese_wheel_top",
+        "side": "esperia:blocks/bluecheese_wheel_side",
+        "inside": "esperia:blocks/bluecheese_wheel_inner"
+    },
+    "elements": [
+        {
+            "from": [11, 0, 1],
+            "to": [15, 8, 15],
+            "faces": {
+                "down": {
+                    "texture": "#bottom",
+                    "cullface": "down"
+                },
+                "up": {
+                    "texture": "#top"
+                },
+                "north": {
+                    "texture": "#side"
+                },
+                "south": {
+                    "texture": "#side"
+                },
+                "west": {
+                    "texture": "#inside"
+                },
+                "east": {
+                    "texture": "#side"
+                }
+            }
+        }
+    ]
+}

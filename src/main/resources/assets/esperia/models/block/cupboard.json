@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/cupboard_base",
+    "textures": {
+        "0": "esperia:blocks/cupboard_front"
+    }
+}

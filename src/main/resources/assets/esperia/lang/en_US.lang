@@ -1,0 +1,1648 @@
+menu.esperia.wakeup=Se réveiller
+
+key.decrease_walkspeed=Réduire la vitesse de marche
+key.increase_walkSpeed=Augmenter la vitesse de marche
+key.facedown=Se mettre à plat ventre
+key.lay=Se coucher
+key.sit=S'asseoir
+key.open_bag=Ouvrir son sac
+tile.esperia.stuc.name=Stuc
+
+tile.esperia.decal_water_puddle.name=Flaque d'eau
+
+tile.esperia.stone_slab.SLATE.name=Dalle d'ardoise
+tile.esperia.hay_slab.HAY.name=Dalle de paille
+tile.esperia.hay_slab.OLDHAY.name=Dalle de chaume
+tile.esperia.stone_slab.DIORITE.name=Dalle de pavés de diorite
+tile.esperia.stone_slab.ANDESITE.name=Dalle de pavés d'andésite
+tile.esperia.stone_slab.GRANITE.name=Dalle de pavés de granite
+tile.esperia.stone_slab.DIOBRICK.name=Dalle de briques de diorite
+tile.esperia.stone_slab.ANDEBRICK.name=Dalle de briques d'andésite
+tile.esperia.stone_slab.GRABRICK.name=Dalle de briques de granite
+tile.esperia.stone_slab_b.DIORITE.name=Dalle de diorite polie
+tile.esperia.stone_slab_b.ANDESITE.name=Dalle d'andésite polie
+tile.esperia.stone_slab_b.GRANITE.name=Dalle de granite poli
+
+
+tile.esperia.stonebrick_andesite_stairs.name=Escaliers de briques d'andésite
+tile.esperia.stonebrick_diorite_stairs.name=Escaliers de briques de diorite
+tile.esperia.stonebrick_granite_stairs.name=Escaliers de briques de granite
+tile.esperia.stone_andesite_stairs.name=Escaliers de pavés d'andésite
+tile.esperia.stone_diorite_stairs.name=Escaliers de pavés de diorite
+tile.esperia.stone_granite_stairs.name=Escaliers de pavés de granite
+tile.esperia.smooth_andesite_stairs.name=Escaliers d'andésite polie
+tile.esperia.smooth_granite_stairs.name=Escaliers de granite poli
+tile.esperia.smooth_diorite_stairs.name=Escaliers de diorite polie
+tile.esperia.smooth_stone_stairs.name=Escaliers de pierre polie
+tile.esperia.old_hay_stairs.name=Escaliers de chaume
+
+tile.esperia.old_hay_ball.name=Ballot de chaume
+tile.esperia.old_hay_block.name=Chaume
+tile.esperia.old_hay_layer.name=Couche de chaume
+
+tile.esperia.wool_colored_white_stairs.name=Escaliers de laine blanche
+tile.esperia.wool_colored_orange_stairs.name=Escaliers de laine orange
+tile.esperia.wool_colored_magenta_stairs.name=Escaliers de laine magenta
+tile.esperia.wool_colored_light_blue_stairs.name=Escaliers de laine bleu clair
+tile.esperia.wool_colored_yellow_stairs.name=Escaliers de laine jaune
+tile.esperia.wool_colored_lime_stairs.name=Escaliers de laine vert clair
+tile.esperia.wool_colored_pink_stairs.name=Escaliers de laine rose
+tile.esperia.wool_colored_gray_stairs.name=Escaliers de laine grise
+tile.esperia.wool_colored_silver_stairs.name=Escaliers de laine gris clair
+tile.esperia.wool_colored_cyan_stairs.name=Escaliers de laine cyan
+tile.esperia.wool_colored_purple_stairs.name=Escaliers de laine violette
+tile.esperia.wool_colored_blue_stairs.name=Escaliers de laine bleue
+tile.esperia.wool_colored_brown_stairs.name=Escaliers de laine marron
+tile.esperia.wool_colored_green_stairs.name=Escaliers de laine verte
+tile.esperia.wool_colored_red_stairs.name=Escaliers de laine rouge
+tile.esperia.wool_colored_black_stairs.name=Escaliers de laine noire
+
+tile.esperia.concrete_colored_white_stairs.name=Escaliers de pierre blanche
+tile.esperia.concrete_colored_orange_stairs.name=Escaliers de pierre orange
+tile.esperia.concrete_colored_magenta_stairs.name=Escaliers de pierre magenta
+tile.esperia.concrete_colored_light_blue_stairs.name=Escaliers de pierre bleu clair
+tile.esperia.concrete_colored_yellow_stairs.name=Escaliers de pierre jaune
+tile.esperia.concrete_colored_lime_stairs.name=Escaliers de pierre vert clair
+tile.esperia.concrete_colored_pink_stairs.name=Escaliers de pierre rose
+tile.esperia.concrete_colored_gray_stairs.name=Escaliers de pierre grise
+tile.esperia.concrete_colored_silver_stairs.name=Escaliers de pierre gris clair
+tile.esperia.concrete_colored_cyan_stairs.name=Escaliers de pierre cyan
+tile.esperia.concrete_colored_purple_stairs.name=Escaliers de pierre violette
+tile.esperia.concrete_colored_blue_stairs.name=Escaliers de pierre bleue
+tile.esperia.concrete_colored_brown_stairs.name=Escaliers de pierre marron
+tile.esperia.concrete_colored_green_stairs.name=Escaliers de pierre verte
+tile.esperia.concrete_colored_red_stairs.name=Escaliers de pierre rouge
+tile.esperia.concrete_colored_black_stairs.name=Escaliers de pierre noire
+
+tile.esperia.planks_acacia_varnish.name=Planches d'acacia cirées
+tile.esperia.planks_big_oak_varnish.name=Planches de chêne noir cirées
+tile.esperia.planks_birch_varnish.name=Planches de bouleau cirées
+tile.esperia.planks_jungle_varnish.name=Planches de daviel cirées
+tile.esperia.planks_oak_varnish.name=Planches de chêne cirées
+tile.esperia.planks_spruce_varnish.name=Planches de sapin cirées
+
+tile.esperia.planks_acacia_pattern_1.name=Planches d'acacia à motifs
+tile.esperia.planks_big_oak_pattern_1.name=Planches de chêne noir à motifs
+tile.esperia.planks_birch_pattern_1.name=Planches de bouleau à motifs
+tile.esperia.planks_jungle_pattern_1.name=Planches de daviel à motifs
+tile.esperia.planks_oak_pattern_1.name=Planches de chêne à motifs
+tile.esperia.planks_spruce_pattern_1.name=Planches de sapin à motifs
+
+tile.esperia.planks_acacia_pattern_2.name=Planches d'acacia à motifs croisés
+tile.esperia.planks_big_oak_pattern_2.name=Planches de chêne noir à motifs croisés
+tile.esperia.planks_birch_pattern_2.name=Planches de bouleau à motifs croisés
+tile.esperia.planks_jungle_pattern_2.name=Planches de daviel à motifs croisés
+tile.esperia.planks_oak_pattern_2.name=Planches de chêne à motifs croisés
+tile.esperia.planks_spruce_pattern_2.name=Planches de sapin à motifs croisés
+
+tile.esperia.hardened_clay_stained_white_stairs.name=Escaliers d'argile durcie blanche
+tile.esperia.hardened_clay_stained_orange_stairs.name=Escaliers d'argile durcie orange
+tile.esperia.hardened_clay_stained_magenta_stairs.name=Escaliers d'argile durcie magenta
+tile.esperia.hardened_clay_stained_light_blue_stairs.name=Escaliers d'argile durcie bleu clair
+tile.esperia.hardened_clay_stained_yellow_stairs.name=Escaliers d'argile durcie jaune
+tile.esperia.hardened_clay_stained_lime_stairs.name=Escaliers d'argile durcie vert clair
+tile.esperia.hardened_clay_stained_pink_stairs.name=Escaliers d'argile durcie rose
+tile.esperia.hardened_clay_stained_gray_stairs.name=Escaliers d'argile durcie grise
+tile.esperia.hardened_clay_stained_silver_stairs.name=Escaliers d'argile durcie gris clair
+tile.esperia.hardened_clay_stained_cyan_stairs.name=Escaliers d'argile durcie cyan
+tile.esperia.hardened_clay_stained_purple_stairs.name=Escaliers d'argile durcie violette
+tile.esperia.hardened_clay_stained_blue_stairs.name=Escaliers d'argile durcie bleue
+tile.esperia.hardened_clay_stained_brown_stairs.name=Escaliers d'argile durcie marron
+tile.esperia.hardened_clay_stained_green_stairs.name=Escaliers d'argile durcie verte
+tile.esperia.hardened_clay_stained_red_stairs.name=Escaliers d'argile durcie rouge
+tile.esperia.hardened_clay_stained_black_stairs.name=Escaliers d'argile durcie noire
+tile.esperia.hardened_clay_stairs.name=Escaliers d'argile durcie
+
+tile.esperia.stone_slab_top.name=Pierre polie
+tile.esperia.stone_granite_slab_top.name=Granite poli
+tile.esperia.stone_diorite_slab_top.name=Diorite polie
+tile.esperia.stone_andesite_slab_top.name=Andésite polie
+tile.esperia.stonebrick_granite.name=Briques de granite
+tile.esperia.stonebrick_diorite.name=Briques de diorite
+tile.esperia.stonebrick_andesite.name=Briques d'andésite
+tile.esperia.stonebrick_granite_cracked.name=Briques de granite craquelées
+tile.esperia.stonebrick_diorite_cracked.name=Briques de diorite craquelées
+tile.esperia.stonebrick_andesite_cracked.name=Briques d'andésite craquelées
+tile.esperia.cobblestone_cracked.name=Briques de pierre craquelées
+tile.esperia.stonebrick_granite_mossy.name=Briques de granite moussues
+tile.esperia.stonebrick_diorite_mossy.name=Briques de diorite moussues
+tile.esperia.stonebrick_andesite_mossy.name=Briques d'andésite moussues
+tile.esperia.stonebrick_granite_carved.name=granite sculpté
+tile.esperia.stonebrick_diorite_carved.name=diorite sculptée
+tile.esperia.stonebrick_andesite_carved.name=andésite sculptée
+tile.esperia.stone_granite_smooth_mossy.name=Pavés de granite moussus
+tile.esperia.stone_diorite_smooth_mossy.name=Pavés de diorite moussus
+tile.esperia.stone_andesite_smooth_mossy.name=Pavés d'andésite moussus
+
+tile.esperia.raw_slate.name=Ardoise brute
+tile.esperia.slate.name=Ardoise taillée
+tile.esperia.slate_stairs.name=Escaliers d'ardoise taillée
+
+tile.esperia.ash_block.name=Bloc de cendre
+tile.esperia.ash_layer.name=Couche de cendre
+
+tile.esperia.hay_block.name=Paille
+tile.esperia.hay_stairs.name=Escaliers de paille
+tile.esperia.hay_layer.name=Couche de paille
+
+tile.esperia.mud.name=Boue profonde
+
+tile.esperia.flower_violets.name=Violettes
+tile.esperia.flower_blue_hydrangea.name=Hortensias bleus
+tile.esperia.flower_bluebells.name=Jacinthe des bois
+tile.esperia.flower_bromeliad.name=Guzmanias
+tile.esperia.flower_daisy.name=Petites marguerites
+tile.esperia.flower_dandelion.name=Pissenlit
+tile.esperia.flower_goldenrod.name=Verge d'or
+tile.esperia.flower_iris.name=Iris
+tile.esperia.flower_lavender.name=Lavande
+tile.esperia.flower_lily.name=Lys
+tile.esperia.flower_orange_cosmos.name=Cosmos sulfureux
+tile.esperia.flower_pink_daffodil.name=Jonquille rose
+tile.esperia.flower_pink_hibiscus.name=Hibiscus rose
+tile.esperia.flower_swampflower.name=Myosotis des marais
+tile.esperia.flower_swampviolets.name=Consoude
+tile.esperia.flower_wildflower.name=Anémone
+tile.esperia.mushroom_blue_milk_cap.name=Lactarius indigo
+tile.esperia.mushroom_flat.name=Tricholome
+tile.esperia.mushroom_portobello.name=Portobello
+tile.esperia.mushroom_toadstool.name=Hygrophore
+tile.esperia.mushroom_strange.name=Bolet
+tile.esperia.plant_tea.name=Théier
+tile.esperia.salsola.name=Salsola
+
+tile.esperia.oak_stool.name=Tabouret en chêne
+tile.esperia.spruce_stool.name=Tabouret en sapin
+tile.esperia.birch_stool.name=Tabouret en bouleau
+tile.esperia.jungle_stool.name=Tabouret en daviel
+tile.esperia.big_oak_stool.name=Tabouret en chêne noir
+tile.esperia.acacia_stool.name=Tabouret en acacia
+
+tile.esperia.oak_chair.name=Chaise en chêne
+tile.esperia.spruce_chair.name=Chaise en sapin
+tile.esperia.birch_chair.name=Chaise en bouleau
+tile.esperia.jungle_chair.name=Chaise en daviel
+tile.esperia.big_oak_chair.name=Chaise en chêne noir
+tile.esperia.acacia_chair.name=Chaise en acacia
+
+tile.esperia.oak_table.name=Table solide en chêne
+tile.esperia.spruce_table.name=Table solide en sapin
+tile.esperia.birch_table.name=Table solide en bouleau
+tile.esperia.jungle_table.name=Table solide en daviel
+tile.esperia.big_oak_table.name=Table solide en chêne noir
+tile.esperia.acacia_table.name=Table solide en acacia
+
+tile.esperia.oak_table_low.name=Table de chevet en chêne
+tile.esperia.spruce_table_low.name=Table de chevet en sapin
+tile.esperia.birch_table_low.name=Table de chevet en bouleau
+tile.esperia.jungle_table_low.name=Table de chevet en daviel
+tile.esperia.big_oak_table_low.name=Table de chevet en chêne noir
+tile.esperia.acacia_table_low.name=Table de chevet en acacia
+
+tile.esperia.amethyst_ore.name=Minerai d'améthyste
+tile.esperia.aquamarine_ore.name=Minerai d'aigue-marine
+tile.esperia.charoite_ore.name=Minerai de charoïte
+tile.esperia.citrine_ore.name=Minerai de citrine
+tile.esperia.coraline_ore.name=Minerai de cornaline
+tile.esperia.hematite_ore.name=Minerai d'hématite
+tile.esperia.malachite_ore.name=Minerai de malachite
+tile.esperia.opale_ore.name=Minerai d'opale
+tile.esperia.quartz_ore.name=Minerai de quartz
+tile.esperia.quartzrose_ore.name=Minerai de quartz rose
+tile.esperia.ruby_ore.name=Minerai de rubis
+tile.esperia.tigereye_ore.name=Minerai d'oeil de charrin
+tile.esperia.tourmaline_ore.name=Minerai de tourmaline
+tile.esperia.turquoise_ore.name=Minerai de turquoise
+
+tile.esperia.silver_ore.name=Minerai d'argent
+tile.esperia.copper_ore.name=Minerai de cuivre
+tile.esperia.tin_ore.name=Minerai d'étain
+tile.esperia.lead_ore.name=Minerai de plomb
+
+tile.esperia.lantern_white_off.name=Lanterne ouvragée blanche
+tile.esperia.lantern_orange_off.name=Lanterne ouvragée orange
+tile.esperia.lantern_yellow_off.name=Lanterne ouvragée jaune
+tile.esperia.lantern_purple_off.name=Lanterne ouvragée violette
+tile.esperia.lantern_blue_off.name=Lanterne ouvragée bleue
+tile.esperia.lantern_green_off.name=Lanterne ouvragée verte
+tile.esperia.lantern_red_off.name=Lanterne ouvragée rouge
+tile.esperia.paper_lantern_white_off.name=Lampion blanc
+tile.esperia.paper_lantern_orange_off.name=Lampion orange
+tile.esperia.paper_lantern_yellow_off.name=Lampion jaune
+tile.esperia.paper_lantern_purple_off.name=Lampion violet
+tile.esperia.paper_lantern_blue_off.name=Lampion bleu
+tile.esperia.paper_lantern_green_off.name=Lampion vert
+tile.esperia.paper_lantern_red_off.name=Lampion rouge
+
+tile.esperia.hardened_clay_slab.WHITE.name=Dalle d'argile durcie blanche
+tile.esperia.hardened_clay_slab.ORANGE.name=Dalle d'argile durcie orange
+tile.esperia.hardened_clay_slab.MAGENTA.name=Dalle d'argile durcie magenta
+tile.esperia.hardened_clay_slab.LIGHT_BLUE.name=Dalle d'argile durcie bleu clair
+tile.esperia.hardened_clay_slab.YELLOW.name=Dalle d'argile durcie jaune
+tile.esperia.hardened_clay_slab.LIME.name=Dalle d'argile durcie vert clair
+tile.esperia.hardened_clay_slab.PINK.name=Dalle d'argile durcie rose
+tile.esperia.hardened_clay_slab.GRAY.name=Dalle d'argile durcie grise
+tile.esperia.hardened_clay_slab_b.SILVER.name=Dalle d'argile durcie gris clair
+tile.esperia.hardened_clay_slab_b.CYAN.name=Dalle d'argile durcie cyan
+tile.esperia.hardened_clay_slab_b.PURPLE.name=Dalle d'argile durcie violette
+tile.esperia.hardened_clay_slab_b.BLUE.name=Dalle d'argile durcie bleue
+tile.esperia.hardened_clay_slab_b.BROWN.name=Dalle d'argile durcie marron
+tile.esperia.hardened_clay_slab_b.GREEN.name=Dalle d'argile durcie verte
+tile.esperia.hardened_clay_slab_b.RED.name=Dalle d'argile durcie rouge
+tile.esperia.hardened_clay_slab_b.BLACK.name=Dalle d'argile durcie noire
+
+tile.esperia.wool_slab.WHITE.name=Dalle de laine blanche
+tile.esperia.wool_slab.ORANGE.name=Dalle de laine orange
+tile.esperia.wool_slab.MAGENTA.name=Dalle de laine magenta
+tile.esperia.wool_slab.LIGHT_BLUE.name=Dalle de laine bleu clair
+tile.esperia.wool_slab.YELLOW.name=Dalle de laine jaune
+tile.esperia.wool_slab.LIME.name=Dalle de laine vert clair
+tile.esperia.wool_slab.PINK.name=Dalle de laine rose
+tile.esperia.wool_slab.GRAY.name=Dalle de laine grise
+tile.esperia.wool_slab_b.SILVER.name=Dalle de laine gris clair
+tile.esperia.wool_slab_b.CYAN.name=Dalle de laine cyan
+tile.esperia.wool_slab_b.PURPLE.name=Dalle de laine violette
+tile.esperia.wool_slab_b.BLUE.name=Dalle de laine bleue
+tile.esperia.wool_slab_b.BROWN.name=Dalle de laine marron
+tile.esperia.wool_slab_b.GREEN.name=Dalle de laine verte
+tile.esperia.wool_slab_b.RED.name=Dalle de laine rouge
+tile.esperia.wool_slab_b.BLACK.name=Dalle de laine noire
+
+tile.esperia.concrete_slab.WHITE.name=Dalle de pierre blanche
+tile.esperia.concrete_slab.ORANGE.name=Dalle de pierre orange
+tile.esperia.concrete_slab.MAGENTA.name=Dalle de pierre magenta
+tile.esperia.concrete_slab.LIGHT_BLUE.name=Dalle de pierre bleu clair
+tile.esperia.concrete_slab.YELLOW.name=Dalle de pierre jaune
+tile.esperia.concrete_slab.LIME.name=Dalle de pierre vert clair
+tile.esperia.concrete_slab.PINK.name=Dalle de pierre rose
+tile.esperia.concrete_slab.GRAY.name=Dalle de pierre grise
+tile.esperia.concrete_slab_b.SILVER.name=Dalle de pierre gris clair
+tile.esperia.concrete_slab_b.CYAN.name=Dalle de pierre cyan
+tile.esperia.concrete_slab_b.PURPLE.name=Dalle de pierre violette
+tile.esperia.concrete_slab_b.BLUE.name=Dalle de pierre bleue
+tile.esperia.concrete_slab_b.BROWN.name=Dalle de pierre marron
+tile.esperia.concrete_slab_b.GREEN.name=Dalle de pierre verte
+tile.esperia.concrete_slab_b.RED.name=Dalle de pierre rouge
+tile.esperia.concrete_slab_b.BLACK.name=Dalle de pierre noire
+
+tile.wood_wall_spruce.normal.name=Muret de sapin
+tile.wood_wall_oak.normal.name=Muret de chêne
+tile.wood_wall_birch.normal.name=Muret de bouleau
+tile.wood_wall_jungle.normal.name=Muret de daviel
+tile.wood_wall_dark_oak.normal.name=Muret de chêne noir
+tile.wood_wall_acacia.normal.name=Muret d'acacia
+
+tile.esperia.candle_off.complete.name=Bougie neuve
+tile.esperia.candle_off.three-quarter.name=Bougie un peu consumée
+tile.esperia.candle_off.half.name=Bougie à moitié consumée
+tile.esperia.candle_off.quarter.name=Bougie presque consumée
+tile.esperia.candle.complete.name=Bougie neuve allumée
+tile.esperia.candle.three-quarter.name=Bougie un peu consumée allumée
+tile.esperia.candle.half.name=Bougie à moitié consumée allumée
+tile.esperia.candle.quarter.name=Bougie presque consumée allumée
+
+tile.esperia.timber_block_left.name=Colombage gauche
+tile.esperia.timber_block_right.name=Colombage droit
+tile.esperia.timber_block_vertical.name=Colombage vertical
+tile.esperia.timber_block.name=Colombage plein
+tile.esperia.timber_block_horizontal.name=Colombage horizontal
+tile.esperia.timber_block_crossed.name=Colombage croisé
+
+tile.esperia.hive.name=Ruche sauvage
+tile.esperia.hive_cube.name=Ruche en bois
+
+item.esperia.paper_paste.name=Pâte à papier
+item.esperia.cinder.name=Cendre
+
+item.esperia.amethyst_gemstone.name=Améthyste brute
+item.esperia.aquamarine_gemstone.name=Aigue-marine brute
+item.esperia.charoite_gemstone.name=Charoïte brute
+item.esperia.citrine_gemstone.name=Citrine brute
+item.esperia.coraline_gemstone.name=Cornaline brute
+item.esperia.hematite_gemstone.name=Hématite brute
+item.esperia.malachite_gemstone.name=Malachite brute
+item.esperia.opale_gemstone.name=Opale brute
+item.esperia.quartz_gemstone.name=Quartz brut
+item.esperia.quartzrose_gemstone.name=Quartz rose brut
+item.esperia.ruby_gemstone.name=Rubis brut
+item.esperia.tigereye_gemstone.name=Oeil de charrin brut
+item.esperia.tourmaline_gemstone.name=Tourmaline brute
+item.esperia.turquoise_gemstone.name=Turquoise brute
+
+item.esperia.key_iron.name=Clef en fer
+item.esperia.key_copper.name=Clef en cuivre
+item.esperia.key_steel.name=Clef en acier
+item.esperia.key_gold.name=Clef ouvragée
+
+item.esperia.nude_key_iron.name=Clef en fer vierge
+item.esperia.nude_key_copper.name=Clef en cuivre vierge
+item.esperia.nude_key_steel.name=Clef en acier vierge
+item.esperia.nude_key_gold.name=Clef ouvragée vierge
+
+tile.esperia.bibliotheque_oak.name=Bibliothèque en chêne
+tile.esperia.bibliotheque_birch.name=Bibliothèque en bouleau
+tile.esperia.bibliotheque_spruce.name=Bibliothèque en sapin
+tile.esperia.bibliotheque_jungle.name=Bibliothèque en daviel
+tile.esperia.bibliotheque_dark_oak.name=Bibliothèque en chêne noir
+tile.esperia.bibliotheque_acacia.name=Bibliothèque en acacia
+
+tile.esperia.chain.name=Chaîne
+tile.esperia.rope.name=Corde
+
+tile.esperia.cupboard.name=Placard
+
+tile.esperia.stone_stalactite.small.name=Petites stalactites de pierre
+tile.esperia.stone_stalactite.medium.name=Moyennes stalactites de pierre
+tile.esperia.stone_stalactite.big.name=Grandes stalactites de pierre
+tile.esperia.ice_stalactite.small.name=Petites stalactites de glace
+tile.esperia.ice_stalactite.medium.name=Moyennes stalactites de glace
+tile.esperia.ice_stalactite.big.name=Grandes stalactites de glace
+
+tile.esperia.button_birch.name=Bouton en bouleau
+tile.esperia.button_jungle.name=Bouton en daviel
+tile.esperia.button_acacia.name=Bouton en acacia
+tile.esperia.button_dark_oak.name=Bouton en chêne noir
+tile.esperia.button_spruce.name=Bouton en sapin
+tile.esperia.button_granite.name=Bouton en granite
+tile.esperia.button_andesite.name=Bouton en andésite
+tile.esperia.button_diorite.name=Bouton en diorite
+
+tile.esperia.pressure_plate_birch.name=Plaque de pression en bouleau
+tile.esperia.pressure_plate_jungle.name=Plaque de pression en daviel
+tile.esperia.pressure_plate_acacia.name=Plaque de pression en acacia
+tile.esperia.pressure_plate_dark_oak.name=Plaque de pression en chêne noir
+tile.esperia.pressure_plate_spruce.name=Plaque de pression en sapin
+tile.esperia.pressure_plate_granite.name=Plaque de pression en granite
+tile.esperia.pressure_plate_andesite.name=Plaque de pression en andésite
+tile.esperia.pressure_plate_diorite.name=Plaque de pression en diorite
+
+tile.esperia.decal_blood_puddle.name=Flaque de sang
+tile.esperia.decal_mud_puddle.name=Flaque de boue
+
+tile.esperia.water_barrel.name=Fût d'eau
+tile.esperia.milk_barrel.name=Fût de lait
+tile.esperia.cider_barrel.name=Fût de cidre
+tile.esperia.rhum_barrel.name=Fût de rhum
+tile.esperia.hydromel_barrel.name=Fût d'hydromel
+tile.esperia.beer_barrel.name=Fût de bière
+tile.esperia.empty_barrel.name=Fût
+tile.esperia.wine_barrel.name=Fût de vin
+
+tile.esperia.big_lantern.name=Grande lanterne allumée
+tile.esperia.big_lantern_off.name=Grande lanterne
+
+tile.esperia.log_oak_mossy.name=Bois de chêne moussu
+tile.esperia.log_spruce_mossy.name=Bois de sapin moussu
+tile.esperia.log_birch_mossy.name=Bois de bouleau moussu
+tile.esperia.log_jungle_mossy.name=Bois de daviel moussu
+tile.esperia.log_acacia_mossy.name=Bois d'acacia moussu
+tile.esperia.log_dark_oak_mossy.name=Bois de chêne noir moussu
+
+tile.esperia.planks_oak_mossy.name=Planches de chêne moussues
+tile.esperia.planks_spruce_mossy.name=Planches de sapin moussues
+tile.esperia.planks_birch_mossy.name=Planches de bouleau moussues
+tile.esperia.planks_jungle_mossy.name=Planches de daviel moussues
+tile.esperia.planks_acacia_mossy.name=Planches d'acacia moussues
+tile.esperia.planks_big_oak_mossy.name=Planches de chêne noir moussues
+
+tile.esperia.planks_oak_cracked.name=Planches de chêne pourries
+tile.esperia.planks_spruce_cracked.name=Planches de sapin pourries
+tile.esperia.planks_birch_cracked.name=Planches de bouleau pourries
+tile.esperia.planks_jungle_cracked.name=Planches de daviel pourries
+tile.esperia.planks_acacia_cracked.name=Planches d'acacia pourries
+tile.esperia.planks_big_oak_cracked.name=Planches de chêne noir pourries
+
+tile.esperia.oak_shelf.name=Étagère en chêne
+tile.esperia.spruce_shelf.name=Étagère en sapin
+tile.esperia.birch_shelf.name=Étagère en bouleau
+tile.esperia.jungle_shelf.name=Étagère en daviel
+tile.esperia.acacia_shelf.name=Étagère en acacia
+tile.esperia.big_oak_shelf.name=Étagère en chêne noir
+
+tile.esperia.alun_ore.name=Minerai d'alun
+tile.esperia.salt_ore.name=Pierre de sel
+
+tile.esperia.bronze_block.name=Bloc de bronze
+tile.esperia.copper_block.name=Bloc de cuivre
+tile.esperia.lead_block.name=Bloc de plomb
+tile.esperia.steel_block.name=Bloc d'acier
+tile.esperia.silver_block.name=Bloc d'argent
+tile.esperia.tin_block.name=Bloc d'étain
+
+tile.esperia.robust_glass.name=Bloc de verre renforcé
+tile.esperia.robust_glass_white.name=Bloc de verre blanc renforcé
+tile.esperia.robust_glass_orange.name=Bloc de verre orange renforcé
+tile.esperia.robust_glass_magenta.name=Bloc de verre magenta renforcé
+tile.esperia.robust_glass_light_blue.name=Bloc de verre bleu clair renforcé
+tile.esperia.robust_glass_yellow.name=Bloc de verre jaune renforcé
+tile.esperia.robust_glass_lime.name=Bloc de verre vert clair renforcé
+tile.esperia.robust_glass_pink.name=Bloc de verre rose renforcé
+tile.esperia.robust_glass_gray.name=Bloc de verre gris renforcé
+tile.esperia.robust_glass_silver.name=Bloc de verre gris clair renforcé
+tile.esperia.robust_glass_cyan.name=Bloc de verre cyan renforcé
+tile.esperia.robust_glass_purple.name=Bloc de verre violet renforcé
+tile.esperia.robust_glass_blue.name=Bloc de verre bleu renforcé
+tile.esperia.robust_glass_brown.name=Bloc de verre marron renforcé
+tile.esperia.robust_glass_green.name=Bloc de verre vert renforcé
+tile.esperia.robust_glass_red.name=Bloc de verre rouge renforcé
+tile.esperia.robust_glass_black.name=Bloc de verre noir renforcé
+
+tile.esperia.robust_glass_pane.name=Vitre renforcée
+tile.esperia.robust_glass_pane_white.name=Vitre blanche renforcée
+tile.esperia.robust_glass_pane_orange.name=Vitre orange renforcée
+tile.esperia.robust_glass_pane_magenta.name=Vitre magenta renforcée
+tile.esperia.robust_glass_pane_light_blue.name=Vitre bleu clair renforcée
+tile.esperia.robust_glass_pane_yellow.name=Vitre jaune renforcée
+tile.esperia.robust_glass_pane_lime.name=Vitre vert clair renforcée
+tile.esperia.robust_glass_pane_pink.name=Vitre rose renforcée
+tile.esperia.robust_glass_pane_gray.name=Vitre grise renforcée
+tile.esperia.robust_glass_pane_silver.name=Vitre gris clair renforcée
+tile.esperia.robust_glass_pane_cyan.name=Vitre cyan renforcée
+tile.esperia.robust_glass_pane_purple.name=Vitre violette renforcée
+tile.esperia.robust_glass_pane_blue.name=Vitre bleue renforcée
+tile.esperia.robust_glass_pane_brown.name=Vitre marron renforcée
+tile.esperia.robust_glass_pane_green.name=Vitre verte renforcée
+tile.esperia.robust_glass_pane_red.name=Vitre rouge renforcée
+tile.esperia.robust_glass_pane_black.name=Vitre noire renforcée
+
+tile.esperia.wooden_bars.name=Treillage
+
+tile.esperia.spruce_trapdoor.name=Trappe en sapin
+tile.esperia.birch_trapdoor.name=Trappe en bouleau
+tile.esperia.jungle_trapdoor.name=Trappe en daviel
+tile.esperia.acacia_trapdoor.name=Trappe en acacia
+tile.esperia.dark_oak_trapdoor.name=Trappe en chêne noir
+
+tile.esperia.trapdoor_lockable.name=Trappe en chêne verrouillable
+tile.esperia.iron_trapdoor_lockable.name=Trappe en fer verrouillable
+tile.esperia.spruce_trapdoor_lockable.name=Trappe en sapin verrouillable
+tile.esperia.birch_trapdoor_lockable.name=Trappe en bouleau verrouillable
+tile.esperia.jungle_trapdoor_lockable.name=Trappe en daviel verrouillable
+tile.esperia.acacia_trapdoor_lockable.name=Trappe en acacia verrouillable
+tile.esperia.dark_oak_trapdoor_lockable.name=Trappe en chêne noir verrouillable
+
+tile.esperia.support_short_slim.name= Petite équerre légère
+tile.esperia.support_long_slim.name= Grande équerre légère
+tile.esperia.support_short_fat.name= Petite équerre lourde
+tile.esperia.support_long_fat.name= Longue équerre lourde
+
+tile.esperia.sand_layer_block.name=Bloc de couches de sable
+tile.esperia.red_sand_layer_block.name=Bloc de couches de sable rouge
+tile.esperia.ash_layer_block.name=Bloc de couches de cendre
+tile.esperia.hay_layer_block.name=Bloc de couches de paille
+tile.esperia.old_hay_layer_block.name=Bloc de couches de chaume
+tile.esperia.leaves_layer_block.name=Bloc de couches de feuilles de chêne
+tile.esperia.leaves_acacia_layer_block.name=Bloc de couches de feuilles d'acacia
+tile.esperia.leaves_dark_oak_layer_block.name=Bloc de couches de feuilles de chêne noir
+tile.esperia.leaves_jungle_layer_block.name=Feuilles de daviel
+tile.esperia.leaves_spruce_layer_block.name=Feuilles de sapin
+tile.esperia.leaves_birch_layer_block.name=Feuilles de bouleau
+
+tile.stone_wall_andesite.normal.name=Muret d'andésite
+tile.stone_wall_diorite.normal.name=Muret de diorite
+tile.stone_wall_granite.normal.name=Muret de granite
+
+tile.esperia.apple_bloom.name=Feuilles de pommier
+tile.esperia.raspberry_bloom.name=Buisson de framboisier
+tile.esperia.cassis_bloom.name=Buisson de cassissier
+tile.esperia.cherry_bloom.name=Feuilles de cerisier
+tile.esperia.chestnut_bloom.name=Feuilles de châtaigner
+tile.esperia.lemon_bloom.name=Feuilles de citronnier
+tile.esperia.peach_bloom.name=Feuilles de pêcher
+tile.esperia.strawberry_bloom.name=Buisson de fraisier
+
+tile.esperia.salt_carrier.name=Sable salant
+
+item.esperia.oak_block.name=Morceau de Chêne
+item.esperia.birch_block.name=Morceau de Bouleau
+item.esperia.spruce_block.name=Morceau de Pin
+item.esperia.dark_oak_block.name=Morceau de Chêne noir
+item.esperia.jungle_block.name=Morceau de Daviel
+item.esperia.acacia_block.name=Morceau d'Acacia
+
+item.esperia.oak_shutter.name=Volet en Chêne
+item.esperia.birch_shutter.name=Volet en Bouleau
+item.esperia.spruce_shutter.name=Volet en Pin
+item.esperia.dark_oak_shutter.name=Volet en Chêne noir
+item.esperia.jungle_shutter.name=Volet en Daviel
+item.esperia.acacia_shutter.name=Volet en Acacia
+
+item.esperia.clear_window.name=Fenêtre
+item.esperia.black_window.name=Fenêtre noire
+item.esperia.blue_window.name=Fenêtre Bleu
+item.esperia.brown_window.name=Fenêtre Marron
+item.esperia.cyan_window.name=Fenêtre Cyan
+item.esperia.green_window.name=Fenêtre Verte
+item.esperia.gray_window.name=Fenêtre Grise
+item.esperia.light_blue_window.name=Fenêtre Bleu claire
+item.esperia.lime_window.name=Fenêtre Verte claire
+item.esperia.magenta_window.name=Fenêtre Magenta
+item.esperia.orange_window.name=Fenêtre Orange
+item.esperia.pink_window.name=Fenêtre Rose
+item.esperia.purple_window.name=Fenêtre Violette
+item.esperia.red_window.name=Fenêtre Rouge
+item.esperia.silver_window.name=Fenêtre Grise claire
+item.esperia.white_window.name=Fenêtre Blanche
+item.esperia.yellow_window.name=Fenêtre Jaune
+
+gold_amethyst_jewelry.necklace.name=Collier serti Or & Améthyste
+gold_amethyst_jewelry.ring.name=Anneau serti Or & Améthyste
+gold_amethyst_jewelry.bracelet.name=Bracelet serti Or & Améthyste
+gold_amethyst_jewelry.earring.name=Boucles d'oreilles serties Or & Améthyste
+
+silver_amethyst_jewelry.necklace.name=Collier serti Argent & Améthyste
+silver_amethyst_jewelry.ring.name=Anneau serti Argent & Améthyste
+silver_amethyst_jewelry.bracelet.name=Bracelet serti Argent & Améthyste
+silver_amethyst_jewelry.earring.name=Boucles d'oreilles serties Argent & Améthyste
+
+gold_aquamarine_jewelry.necklace.name=Collier serti Or & Aigue-marine
+gold_aquamarine_jewelry.ring.name=Anneau serti Or & Aigue-marine
+gold_aquamarine_jewelry.bracelet.name=Bracelet serti Or & Aigue-marine
+gold_aquamarine_jewelry.earring.name=Boucles d'oreilles serties Or & Aigue-marine
+
+silver_aquamarine_jewelry.necklace.name=Collier serti Argent & Aigue-marine
+silver_aquamarine_jewelry.ring.name=Anneau serti Argent & Aigue-marine
+silver_aquamarine_jewelry.bracelet.name=Bracelet serti Argent & Aigue-marine
+silver_aquamarine_jewelry.earring.name=Boucles d'oreilles serties Argent & Aigue-marine
+
+gold_charoite_jewelry.necklace.name=Collier serti Or & Charoite
+gold_charoite_jewelry.ring.name=Anneau serti Or & Charoite
+gold_charoite_jewelry.bracelet.name=Bracelet serti Or & Charoite
+gold_charoite_jewelry.earring.name=Boucles d'oreilles serties Or & Charoite
+
+silver_charoite_jewelry.necklace.name=Collier serti Argent & Charoite
+silver_charoite_jewelry.ring.name=Anneau serti Argent & Charoite
+silver_charoite_jewelry.bracelet.name=Bracelet serti Argent & Charoite
+silver_charoite_jewelry.earring.name=Boucles d'oreilles serties Argent & Charoite
+
+gold_citrine_jewelry.necklace.name=Collier serti Or & Citrine
+gold_citrine_jewelry.ring.name=Anneau serti Or & Citrine
+gold_citrine_jewelry.bracelet.name=Bracelet serti Or & Citrine
+gold_citrine_jewelry.earring.name=Boucles d'oreilles serties Or & Citrine
+
+silver_citrine_jewelry.necklace.name=Collier serti Argent & Citrine
+silver_citrine_jewelry.ring.name=Anneau serti Argent & Citrine
+silver_citrine_jewelry.bracelet.name=Bracelet serti Argent & Citrine
+silver_citrine_jewelry.earring.name=Boucles d'oreilles serties Argent & Citrine
+
+gold_coraline_jewelry.necklace.name=Collier serti Or & Coraline
+gold_coraline_jewelry.ring.name=Anneau serti Or & Coraline
+gold_coraline_jewelry.bracelet.name=Bracelet serti Or & Coraline
+gold_coraline_jewelry.earring.name=Boucles d'oreilles serties Or & Coraline
+
+silver_coraline_jewelry.necklace.name=Collier serti Argent & Coraline
+silver_coraline_jewelry.ring.name=Anneau serti Argent & Coraline
+silver_coraline_jewelry.bracelet.name=Bracelet serti Argent & Coraline
+silver_coraline_jewelry.earring.name=Boucles d'oreilles serties Argent & Coraline
+
+gold_diamond_jewelry.necklace.name=Collier serti Or & Diamant
+gold_diamond_jewelry.ring.name=Anneau serti Or & Diamant
+gold_diamond_jewelry.bracelet.name=Bracelet serti Or & Diamant
+gold_diamond_jewelry.earring.name=Boucles d'oreilles serties Or & Diamant
+
+silver_diamond_jewelry.necklace.name=Collier serti Argent & Diamant
+silver_diamond_jewelry.ring.name=Anneau serti Argent & Diamant
+silver_diamond_jewelry.bracelet.name=Bracelet serti Argent & Diamant
+silver_diamond_jewelry.earring.name=Boucles d'oreilles serties Argent & Diamant
+
+gold_emerald_jewelry.necklace.name=Collier serti Or & Emeraude
+gold_emerald_jewelry.ring.name=Anneau serti Or & Emeraude
+gold_emerald_jewelry.bracelet.name=Bracelet serti Or & Emeraude
+gold_emerald_jewelry.earring.name=Boucles d'oreilles serties Or & Emeraude
+
+silver_emerald_jewelry.necklace.name=Collier serti Argent & Emeraude
+silver_emerald_jewelry.ring.name=Anneau serti Argent & Emeraude
+silver_emerald_jewelry.bracelet.name=Bracelet serti Argent & Emeraude
+silver_emerald_jewelry.earring.name=Boucles d'oreilles serties Argent & Emeraude
+
+gold_hematite_jewelry.necklace.name=Collier serti Or & Hematite
+gold_hematite_jewelry.ring.name=Anneau serti Or & Hematite
+gold_hematite_jewelry.bracelet.name=Bracelet serti Or & Hematite
+gold_hematite_jewelry.earring.name=Boucles d'oreilles serties Or & Hematite
+
+silver_hematite_jewelry.necklace.name=Collier serti Argent & Hematite
+silver_hematite_jewelry.ring.name=Anneau serti Argent & Hematite
+silver_hematite_jewelry.bracelet.name=Bracelet serti Argent & Hematite
+silver_hematite_jewelry.earring.name=Boucles d'oreilles serties Argent & Hematite
+
+gold_lapis_jewelry.necklace.name=Collier serti Or & Lapis Laluzi
+gold_lapis_jewelry.ring.name=Anneau serti Or & Lapis Laluzi
+gold_lapis_jewelry.bracelet.name=Bracelet serti Or & Lapis Laluzi
+gold_lapis_jewelry.earring.name=Boucles d'oreilles serties Or & Lapis Laluzi
+
+silver_lapis_jewelry.necklace.name=Collier serti Argent & Lapis Laluzi
+silver_lapis_jewelry.ring.name=Anneau serti Argent & Lapis Laluzi
+silver_lapis_jewelry.bracelet.name=Bracelet serti Argent & Lapis Laluzi
+silver_lapis_jewelry.earring.name=Boucles d'oreilles serties Argent & Lapis Laluzi
+gold_malachite_jewelry.necklace.name=Collier serti Or & Malachite
+gold_malachite_jewelry.ring.name=Anneau serti Or & Malachite
+gold_malachite_jewelry.bracelet.name=Bracelet serti Or & Malachite
+gold_malachite_jewelry.earring.name=Boucles d'oreilles serties Or & Malachite
+
+silver_malachite_jewelry.necklace.name=Collier serti Argent & Malachite
+silver_malachite_jewelry.ring.name=Anneau serti Argent & Malachite
+silver_malachite_jewelry.bracelet.name=Bracelet serti Argent & Malachite
+silver_malachite_jewelry.earring.name=Boucles d'oreilles serties Argent & Malachite
+
+gold_opale_jewelry.necklace.name=Collier serti Or & Opale
+gold_opale_jewelry.ring.name=Anneau serti Or & Opale
+gold_opale_jewelry.bracelet.name=Bracelet serti Or & Opale
+gold_opale_jewelry.earring.name=Boucles d'oreilles serties Or & Opale
+
+silver_opale_jewelry.necklace.name=Collier serti Argent & Opale
+silver_opale_jewelry.ring.name=Anneau serti Argent & Opale
+silver_opale_jewelry.bracelet.name=Bracelet serti Argent & Opale
+silver_opale_jewelry.earring.name=Boucles d'oreilles serties Argent & Opale
+
+gold_quartz_jewelry.necklace.name=Collier serti Or & Quartz
+gold_quartz_jewelry.ring.name=Anneau serti Or & Quartz
+gold_quartz_jewelry.bracelet.name=Bracelet serti Or & Quartz
+gold_quartz_jewelry.earring.name=Boucles d'oreilles serties Or & Quartz
+
+silver_quartz_jewelry.necklace.name=Collier serti Argent & Quartz
+silver_quartz_jewelry.ring.name=Anneau serti Argent & Quartz
+silver_quartz_jewelry.bracelet.name=Bracelet serti Argent & Quartz
+silver_quartz_jewelry.earring.name=Boucles d'oreilles serties Argent & Quartz
+
+gold_quartzrose_jewelry.necklace.name=Collier serti Or & Quartz rose
+gold_quartzrose_jewelry.ring.name=Anneau serti Or & Quartz rose
+gold_quartzrose_jewelry.bracelet.name=Bracelet serti Or & Quartz rose
+gold_quartzrose_jewelry.earring.name=Boucles d'oreilles serties Or & Quartz rose
+
+silver_quartzrose_jewelry.necklace.name=Collier serti Argent & Quartz rose
+silver_quartzrose_jewelry.ring.name=Anneau serti Argent & Quartz rose
+silver_quartzrose_jewelry.bracelet.name=Bracelet serti Argent & Quartz rose
+silver_quartzrose_jewelry.earring.name=Boucles d'oreilles serties Argent & Quartz rose
+
+gold_ruby_jewelry.necklace.name=Collier serti Or & Rubis
+gold_ruby_jewelry.ring.name=Anneau serti Or & Rubis
+gold_ruby_jewelry.bracelet.name=Bracelet serti Or & Rubis
+gold_ruby_jewelry.earring.name=Boucles d'oreilles serties Or & Rubis
+
+silver_ruby_jewelry.necklace.name=Collier serti Argent & Rubis
+silver_ruby_jewelry.ring.name=Anneau serti Argent & Rubis
+silver_ruby_jewelry.bracelet.name=Bracelet serti Argent & Rubis
+silver_ruby_jewelry.earring.name=Boucles d'oreilles serties Argent & Rubis
+
+gold_tigereye_jewelry.necklace.name=Collier serti Or & Oeil-de-Tigre
+gold_tigereye_jewelry.ring.name=Anneau serti Or & Oeil-de-Tigre
+gold_tigereye_jewelry.bracelet.name=Bracelet serti Or & Oeil-de-Tigre
+gold_tigereye_jewelry.earring.name=Boucles d'oreilles serties Or & Oeil-de-Tigre
+
+silver_tigereye_jewelry.necklace.name=Collier serti Argent & Oeil-de-Tigre
+silver_tigereye_jewelry.ring.name=Anneau serti Argent & Oeil-de-Tigre
+silver_tigereye_jewelry.bracelet.name=Bracelet serti Argent & Oeil-de-Tigre
+silver_tigereye_jewelry.earring.name=Boucles d'oreilles serties Argent & Oeil-de-Tigre
+
+gold_tourmaline_jewelry.necklace.name=Collier serti Or & Tourmaline
+gold_tourmaline_jewelry.ring.name=Anneau serti Or & Tourmaline
+gold_tourmaline_jewelry.bracelet.name=Bracelet serti Or & Tourmaline
+gold_tourmaline_jewelry.earring.name=Boucles d'oreilles serties Or & Tourmaline
+
+silver_tourmaline_jewelry.necklace.name=Collier serti Argent & Tourmaline
+silver_tourmaline_jewelry.ring.name=Anneau serti Argent & Tourmaline
+silver_tourmaline_jewelry.bracelet.name=Bracelet serti Argent & Tourmaline
+silver_tourmaline_jewelry.earring.name=Boucles d'oreilles serties Argent & Tourmaline
+
+gold_turquoise_jewelry.necklace.name=Collier serti Or & Turquoise
+gold_turquoise_jewelry.ring.name=Anneau serti Or & Turquoise
+gold_turquoise_jewelry.bracelet.name=Bracelet serti Or & Turquoise
+gold_turquoise_jewelry.earring.name=Boucles d'oreilles serties Or & Turquoise
+
+silver_turquoise_jewelry.necklace.name=Collier serti Argent & Turquoise
+silver_turquoise_jewelry.ring.name=Anneau serti Argent & Turquoise
+silver_turquoise_jewelry.bracelet.name=Bracelet serti Argent & Turquoise
+silver_turquoise_jewelry.earring.name=Boucles d'oreilles serties Argent & Turquoise
+
+gold_jewelry.necklace.name=Collier en Or
+gold_jewelry.ring.name=Anneau en Or
+gold_jewelry.bracelet.name=Bracelet en Or
+gold_jewelry.earring.name=Boucles d'oreilles en Or
+
+silver_jewelry.necklace.name=Collier en Argent
+silver_jewelry.ring.name=Anneau en Argent
+silver_jewelry.bracelet.name=Bracelet en Argent
+silver_jewelry.earring.name=Boucles d'oreilles en Argent
+
+copper_jewelry.necklace.name=Collier en Cuivre
+copper_jewelry.ring.name=Anneau en Cuivre
+copper_jewelry.bracelet.name=Bracelet en Cuivre
+copper_jewelry.earring.name=Boucles d'oreilles en Cuivre
+
+tile.esperia.container_hrp.name=Placard Hrp
+tile.esperia.wooden_cupboard.name=Placard en bois
+
+tile.esperia.oak_static_sign.name=Tablette en Chêne
+tile.esperia.birch_static_sign.name=Tablette en Bouleau
+tile.esperia.spruce_static_sign.name=Tablette en Pin
+tile.esperia.dark_oak_static_sign.name=Tablette en Chêne noir
+tile.esperia.jungle_static_sign.name=Tablette en Daviel
+tile.esperia.acacia_static_sign.name=Tablette en acacia
+
+tile.esperia.stone_static_sign.name=Tablette en pierre
+tile.esperia.diorite_static_sign.name=Tablette en Diorite
+tile.esperia.andesite_static_sign.name=Tablette en Andésite
+tile.esperia.granite_static_sign.name=Tablette en Granite
+
+tile.esperia.stone_fence.name=Barrière en pierre
+tile.esperia.diorite_fence.name=Barrière en Diorite
+tile.esperia.granite_fence.name=Barrière en Granite
+tile.esperia.andesite_fence.name=Barrière en Andésite
+
+tile.esperia.oak_wood_fence.name=Barrière en bois de Chène brut
+tile.esperia.birch_wood_fence.name=Barrière en bois de Bouleau brut
+tile.esperia.spruce_wood_fence.name=Barrière en bois de Pin brut
+tile.esperia.dark_oak_wood_fence.name=Barrière en bois de Chène noir brut
+tile.esperia.acacia_wood_fence.name=Barrière en bois de Acacia brut
+tile.esperia.jungle_wood_fence.name=Barrière en bois de Daviel brut
+
+tile.esperia.rose_vine.name=Lièrre Fleuri
+tile.esperia.red_rose_vine.name=Lièrre Fleuri
+tile.esperia.pink_rose_vine.name=Lièrre Fleuri
+tile.esperia.yellow_rose_vine.name=Lièrre Fleuri
+tile.esperia.white_flower_vine.name=Lièrre Fleuri
+tile.esperia.red_flower_vine.name=Lièrre Fleuri
+tile.esperia.purple_flower_vine.name=Lièrre Fleuri
+tile.esperia.pale_vine.name=Lièrre
+
+tile.esperia.blue_slate.name=Tuiles d'Ardoise grise
+tile.esperia.blue_slate_raw.name=Ardoise grise brute
+tile.esperia.blue_slate_stairs.name=Escalier en tuiles d'Ardoise grise
+tile.esperia.stone_slab_b.BLUE_SLATE.name=Dalle en tuiles d'Ardoise grise
+tile.esperia.clay_slate.name=Tuiles en argile
+tile.esperia.clay_slate_stairs.name=Escalier en tuiles d'Argile
+tile.esperia.stone_slab_b.CLAY_SLATE.name=Dalle en tuiles d'Argile
+
+tile.esperia.showcase_black.name=Présentoir Noir
+tile.esperia.showcase_blue.name=Présentoir Bleu
+tile.esperia.showcase_brown.name=Présentoir Marron
+tile.esperia.showcase_cyan.name=Présentoir Cyan
+tile.esperia.showcase_green.name=Présentoir Vert
+tile.esperia.showcase_grey.name=Présentoir Gris
+tile.esperia.showcase_light_blue.name=Présentoir Bleu clair
+tile.esperia.showcase_lime.name=Présentoir Vert clair
+tile.esperia.showcase_magenta.name=Présentoir Magenta
+tile.esperia.showcase_orange.name=Présentoir Orange
+tile.esperia.showcase_pink.name=Présentoir Rose
+tile.esperia.showcase_purple.name=Présentoir Violet
+tile.esperia.showcase_red.name=Présentoir Rouge
+tile.esperia.showcase_silver.name=Présentoir Gris clair
+tile.esperia.showcase_white.name=Présentoir Blanc
+tile.esperia.showcase_yellow.name=Présentoir Jaune
+
+item.esperia.blue_slate_shard.name=Tuile d'Ardoise grise
+item.esperia.clay_slate_tile.name=Tuile d'Argile
+
+item.esperia.bronze_fork.name=Fourche en bronze
+item.esperia.diamond_fork.name=Fourche en acier
+
+item.esperia.item_door_strong.name=Porte renforcée
+
+item.esperia.basket.name=Panier
+item.esperia.iron_nugget.name=Pépite de fer
+item.esperia.bronze_dagger.name=Dague en bronze
+item.esperia.bronze_waraxe.name=Hache de guerre en bronze
+item.esperia.bronze_mace.name=Massue en bronze
+item.esperia.bronze_battlesword.name=Espadon en bronze
+item.esperia.bronze_battleaxe.name=Hache de combat en bronze
+item.esperia.bronze_battlehammer.name=Marteau de guerre en bronze
+item.esperia.bronze_spear.name=Lance en bronze
+item.esperia.bronze_halberd.name=Hallebarde en bronze
+item.esperia.bronze_scythe.name=Faux en bronze
+item.esperia.bronze_saber.name=Sabre en bronze
+item.esperia.bronze_sword.name=Épée en bronze
+item.esperia.bronze_axe.name=Hache en bronze
+item.esperia.bronze_pickaxe.name=Pioche en bronze
+item.esperia.bronze_spade.name=Pelle en bronze
+item.esperia.bronze_knife.name=Couteau en bronze
+item.esperia.bronze_hammer.name=Marteau en bronze
+item.esperia.bronze_chef_knife.name=Couteau de cuisine en bronze
+item.esperia.bronze_lime.name=Lime en bronze
+item.esperia.bronze_sickle.name=Serpe en bronze
+item.esperia.bronze_saw.name=Scie en bronze
+item.esperia.bronze_chisel.name=Burin en bronze
+item.esperia.bronze_rock_hammer.name=Marteau et burin en bronze
+
+item.esperia.iron_chef_knife.name=Couteau de cuisine en fer
+item.esperia.steel_chef_knife.name=Couteau de cuisine en acier
+
+item.esperia.metal_bucket_goat_milk.name=Seau en métal rempli de lait de chèvre
+item.esperia.wooden_bucket_goat_milk.name=Seau en bois rempli de lait de chèvre
+
+item.esperia.deer_raw.name=Viande de cerf crue
+item.esperia.deer_cooked.name=Viande de cerf cuite
+item.esperia.duck_raw.name=Viande de canard crue
+item.esperia.duck_cooked.name=Viande de canard cuite
+item.esperia.goat_raw.name=Viande de chèvre crue
+item.esperia.goat_cooked.name=Viande de chèvre cuite
+
+item.esperia.salt.name=Sel
+item.esperia.salt_shard.name=Cristal de sel
+item.esperia.alun_shard.name=Alun
+item.esperia.bronze_nugget.name=Pépite de bronze
+item.esperia.glass_tumbler_dirty.name=Verre sale
+item.esperia.glass_mug_dirty.name=Chope en verre sale
+item.esperia.clay_mug_dirty.name=Chope en terre cuite sale
+
+item.esperia.woolen_thread.name=Bobine de laine
+item.esperia.hempen_thread.name=Bobine de chanvre
+item.esperia.linen_thread.name=Bobine de lin
+
+item.esperia.flax.name=Fibres de lin
+item.esperia.hemp.name=Fibres de chanvre
+
+
+
+item.esperia.iron_lime.name=Lime en fer
+item.esperia.steel_lime.name=Lime en acier
+
+item.esperia.iron_chisel.name=Burin en fer
+item.esperia.steel_chisel.name=Burin en acier
+
+item.esperia.iron_sickle.name=Serpe en fer
+item.esperia.steel_sickle.name=Serpe en acier
+
+item.esperia.iron_rock_hammer.name=Marteau et burin en fer
+item.esperia.steel_rock_hammer.name=Marteau et burin en acier
+
+item.esperia.iron_fork.name=Fourche en fer
+
+item.esperia.wooden_pestle_mortar.name=Pilon et mortier en bois
+item.esperia.stone_pestle_mortar.name=Pilon et mortier en pierre
+
+item.esperia.amethyst_cut.name=Améthyste
+item.esperia.aquamarine_cut.name=Aigue-marine
+item.esperia.charoite_cut.name=Charoïte
+item.esperia.citrine_cut.name=Citrine
+item.esperia.coraline_cut.name=Cornaline
+item.esperia.hematite_cut.name=Hématite
+item.esperia.malachite_cut.name=Malachite
+item.esperia.opale_cut.name=Opale
+item.esperia.quartz_cut.name=Quartz
+item.esperia.quartzrose_cut.name=Quartz rose
+item.esperia.ruby_cut.name=Rubis
+item.esperia.tigereye_cut.name=Oeil de charrin
+item.esperia.tourmaline_cut.name= Tourmaline
+item.esperia.turquoise_cut.name= Turquoise
+
+item.esperia.spice_cinnamon.name=Canelle
+item.esperia.spice_capers.name=Câpres
+item.esperia.spice_ginger.name=Gingembre
+item.esperia.spice_curcuma.name=Curcuma
+item.esperia.spice_clove.name=Clous de girofle
+item.esperia.spice_carrogia_herbs.name=Mélange d'herbes
+item.esperia.spice_manigette.name=Maniguette
+item.esperia.spice_nutmeg.name=Noix de muscade
+item.esperia.spice_paprika.name=Paprika
+item.esperia.spice_poppy.name=Pavot
+item.esperia.spice_pepper.name=Poivre
+item.esperia.spice_saffron.name=Safran
+item.esperia.spice_truffle.name=Truffe
+item.esperia.spice_vanilla.name=Vanille
+
+item.esperia.honey.name=Miel
+item.esperia.apricot.name=Abricot
+item.esperia.garlic.name=Ail
+item.esperia.almonds.name=Amande
+item.esperia.pineapple.name=Ananas
+item.esperia.eggplant.name=Aubergine
+item.esperia.avocado.name=Avocat
+item.esperia.banana.name=Banane
+item.esperia.broccoli.name=Brocoli
+item.esperia.cassis.name=Cassis
+item.esperia.chestnut.name=Châtaigne
+item.esperia.cherry.name=Cerises
+item.esperia.cauliflower.name=Chou-fleur
+item.esperia.cabbage.name=Chou vert
+item.esperia.dates.name=Datte
+item.esperia.endive.name=Endive
+item.esperia.bean.name=Haricot vert
+item.esperia.fig.name=Figue
+item.esperia.strawberry.name=Fraise
+item.esperia.raspberry.name=Framboise
+item.esperia.grapes_white.name=Grappe de raisin blanc
+item.esperia.grapes_red.name=Grappe de raisin rouge
+item.esperia.pomegranate.name=Grenade
+item.esperia.beans_white.name=Haricots blancs
+item.esperia.beans_red.name=Haricots rouges
+item.esperia.blackberry.name=Mûre
+item.esperia.blueberry.name=Myrtilles
+item.esperia.onion.name=Oignon
+item.esperia.olives_black.name=Olives noires
+item.esperia.olives_green.name=Olives vertes
+item.esperia.orange.name=Orange
+item.esperia.peach.name=Pêche
+item.esperia.pear.name=Poire
+item.esperia.leek.name=Poireau
+item.esperia.pepper_red.name=Poivron rouge
+item.esperia.pepper_yellow.name=Poivron jaune
+item.esperia.pepper_green.name=Poivron vert
+item.esperia.pepper_chilli.name=Piment
+item.esperia.prunes.name=Prune
+item.esperia.radish.name=Radis
+item.esperia.jerusalem_artichoke.name=Topinambour
+item.esperia.salsify.name=Salsifis
+item.esperia.plums.name=Mirabelles
+item.esperia.lemon.name=Citron
+
+item.esperia.fat_animal.name=Graisse animale
+item.esperia.bear_fur.name=Fourrure d'ours
+item.esperia.wolf_fur.name=Fourrure de loup
+item.esperia.fox_fur.name=Fourrure de renard
+item.esperia.boar_leather.name=Cuir de sanglier
+item.esperia.deer_leather.name=Cuir de cerf
+
+item.esperia.gourd_empty.name=Gourde en cuir vide
+item.esperia.gourd.name= Gourde en cuir pleine
+
+item.esperia.sawdust.name=Sciure de bois
+item.esperia.plant_fiber.name=Fibres végétales
+
+item.esperia.pliers.name=Pince
+
+item.esperia.slate_shard.name=Tuile d'ardoise
+
+item.esperia.iron_saw.name=Scie en fer
+item.esperia.steel_saw.name=Scie en acier
+
+item.esperia.bronze_battlesword_head.name=Lame d'espadon en bronze
+item.esperia.iron_battlesword_head.name=Lame d'espadon en fer
+item.esperia.gold_battlesword_head.name=Lame d'espadon en or
+item.esperia.steel_battlesword_head.name=Lame d'espadon en acier
+
+item.esperia.cloth_underwear_f.name=Sous-vêtement féminin
+item.esperia.cloth_underwear_m.name=Sous-vêtement masculin
+
+item.esperia.wooden_bucket_water.name= Seau en bois rempli d'eau
+item.esperia.wooden_bucket_milk.name= Seau en bois rempli de lait
+item.esperia.wooden_bucket_apple.name=Seau en bois rempli de jus de pomme
+item.esperia.wooden_bucket_cider.name=Seau en bois rempli de cidre
+item.esperia.wooden_bucket_barley.name=Seau en bois rempli d'orge
+item.esperia.wooden_bucket_beer.name=Seau en bois rempli de bière
+item.esperia.wooden_bucket_grapes.name=Seau en bois rempli de jus de raisin
+item.esperia.wooden_bucket_vine.name=Seau en bois rempli de vin
+item.esperia.wooden_bucket_honey.name=Seau en bois rempli de miel
+item.esperia.wooden_bucket_mead.name=Seau en bois rempli d'hydromel
+item.esperia.wooden_bucket_sugarcane.name=Seau en bois rempli de sirop de canne
+item.esperia.wooden_bucket_rum.name=Seau en bois rempli de rhum
+item.esperia.wooden_bucket.name=Seau en bois
+
+item.esperia.ingot_mold.name=Moule à lingot
+
+item.esperia.magnifying_glass.name=Loupe
+
+item.esperia.cloth_robe.name=Robe longue
+
+item.esperia.diamond_saw.name=Scie en acier
+
+item.esperia.granite_brick.name=Brique de granite
+item.esperia.diorite_brick.name=Brique de diorite
+item.esperia.andesite_brick.name=Brique d'andésite
+item.esperia.quartz_brick.name=Brique de marbre
+item.esperia.red_sandstone_brick.name=Brique de grès rouge
+item.esperia.stone_brick.name=Brique de pierre
+
+item.esperia.granite_pebble.name=Caillou de granite
+item.esperia.diorite_pebble.name=Caillou de diorite
+item.esperia.andesite_pebble.name=Caillou d'andésite
+item.esperia.sandstone_pebble.name=Caillou de grès
+item.esperia.red_sandstone_pebble.name=Caillou de grès rouge
+
+item.esperia.plate_silver.name=Plaque d'argent
+item.esperia.plate_copper.name=Plaque de cuivre
+item.esperia.plate_bronze.name=Plaque de bronze
+item.esperia.plate_steel.name= Plaque d'acier
+item.esperia.plate_lead.name=Plaque de plomb
+item.esperia.plate_iron.name=Plaque de fer
+item.esperia.plate_tin.name=Plaque d'étain
+item.esperia.plate_gold.name=Plaque d'or
+
+item.esperia.stick_silver.name=Barre d'argent
+item.esperia.stick_copper.name=Barre de cuivre
+item.esperia.stick_bronze.name=Barre de bronze
+item.esperia.stick_steel.name=Barre d'acier
+item.esperia.stick_lead.name=Barre de plomb
+item.esperia.stick_iron.name=Barre de fer
+item.esperia.stick_tin.name=Barre d'étain
+item.esperia.stick_gold.name=Barre d'or
+
+item.esperia.wool_raw.name=Laine brute
+item.esperia.leather_scrap.name=Lanière de cuir
+
+item.esperia.glass_jar_bee.name=Abeille en bouteille
+
+item.esperia.cloth_boots.name=Bottes
+item.esperia.cloth_shirt.name=Chemise
+item.esperia.cloth_gloves.name=Gants
+item.esperia.cloth_skirt.name=Jupe
+item.esperia.cloth_longcoat.name=Manteau
+item.esperia.cloth_coat.name=Veste
+item.esperia.cloth_trousers.name=Pantalon
+item.esperia.cloth_habit.name=Bure
+
+item.esperia.cloth_sheet_white.name= Étoffe blanche
+item.esperia.cloth_sheet_orange.name= Étoffe orange
+item.esperia.cloth_sheet_magenta.name= Étoffe magenta
+item.esperia.cloth_sheet_light_blue.name= Étoffe bleu clair
+item.esperia.cloth_sheet_yellow.name= Étoffe jaune
+item.esperia.cloth_sheet_lime.name= Étoffe vert clair
+item.esperia.cloth_sheet_pink.name= Étoffe rose
+item.esperia.cloth_sheet_gray.name= Étoffe grise
+item.esperia.cloth_sheet_silver.name= Étoffe gris clair
+item.esperia.cloth_sheet_cyan.name= Étoffe cyan
+item.esperia.cloth_sheet_purple.name= Étoffe violette
+item.esperia.cloth_sheet_blue.name= Étoffe bleue
+item.esperia.cloth_sheet_brown.name= Étoffe marron
+item.esperia.cloth_sheet_green.name= Étoffe verte
+item.esperia.cloth_sheet_red.name= Étoffe rouge
+item.esperia.cloth_sheet_black.name= Étoffe noire
+
+item.esperia.pickaxe_mold.name=Moule de tête §7[Pioche]§r
+item.esperia.shovel_mold.name=Moule de tête §7[Pelle]§r
+item.esperia.hoe_mold.name=Moule de tête §7[Houe]§r
+item.esperia.axe_mold.name=Moule de tête §7[Hache]§r
+item.esperia.knife_mold.name=Moule de tête §7[Couteau]§r
+item.esperia.hammer_mold.name=Moule de tête §7[Marteau]§r
+item.esperia.scythe_mold.name=Moule de tête §7[Faux]§r
+item.esperia.sword_mold.name=Moule de lame §7[Épée]§r
+item.esperia.saber_mold.name=Moule de lame §7[Sabre]§r
+item.esperia.spear_mold.name=Moule de tête §7[Lance]§r
+item.esperia.dagger_mold.name=Moule de lame §7[Dague]§r
+item.esperia.warhammer_mold.name=Moule de tête §7[Marteau de guerre]§r
+item.esperia.halberd_mold.name=Moule de tête §7[Hallebarde]§r
+item.esperia.waraxe_mold.name=Moule de tête §7[Hache de guerre]§r
+item.esperia.mace_mold.name=Moule de tête §7[Masse]§r
+item.esperia.chef_knife_mold.name=Moule de lame §7[Couteau de cuisine]§r
+item.esperia.sickle_mold.name=Moule de lame §7[Serpe]§r
+item.esperia.saw_mold.name=Moule de lame §7[Scie]§r
+item.esperia.lime_mold.name=Moule de tête §7[Lime]§r
+item.esperia.chisel_mold.name=Moule de tête §7[Burin]§r
+item.esperia.battlesword_mold.name= Moule de lame §7[Espadon]§r
+
+item.esperia.bronze_pickaxe_head.name=Tête de pioche en bronze
+item.esperia.iron_pickaxe_head.name=Tête de pioche en fer
+item.esperia.gold_pickaxe_head.name=Tête de pioche en or
+item.esperia.steel_pickaxe_head.name=Tête de pioche en acier
+item.esperia.bronze_shovel_head.name=Tête de pelle en bronze
+item.esperia.iron_shovel_head.name=Tête de pelle en fer
+item.esperia.gold_shovel_head.name=Tête de pelle en or
+item.esperia.steel_shovel_head.name=Tête de pelle en acier
+item.esperia.bronze_hoe_head.name=Tête de houe en bronze
+item.esperia.iron_hoe_head.name=Tête de houe en fer
+item.esperia.gold_hoe_head.name=Tête de houe en or
+item.esperia.steel_hoe_head.name=Tête de houe en acier
+item.esperia.bronze_axe_head.name=Tête de hache en bronze
+item.esperia.iron_axe_head.name=Tête de hache en fer
+item.esperia.gold_axe_head.name=Tête de hache en or
+item.esperia.steel_axe_head.name=Tête de hache en acier
+item.esperia.bronze_knife_head.name=Lame de couteau en bronze
+item.esperia.iron_knife_head.name=Lame de couteau en fer
+item.esperia.gold_knife_head.name=Lame de couteau en or
+item.esperia.steel_knife_head.name=Lame de couteau en acier
+item.esperia.bronze_hammer_head.name=Tête de marteau en bronze
+item.esperia.iron_hammer_head.name=Tête de marteau en fer
+item.esperia.gold_hammer_head.name=Tête de marteau en or
+item.esperia.steel_hammer_head.name=Tête de marteau en acier
+item.esperia.bronze_scythe_head.name=Tête de faux en bronze
+item.esperia.iron_scythe_head.name=Tête de faux en fer
+item.esperia.gold_scythe_head.name=Tête de faux en or
+item.esperia.steel_scythe_head.name=Tête de faux en acier
+item.esperia.bronze_sword_head.name=Lame d'épée en bronze
+item.esperia.iron_sword_head.name=Lame d'épée en fer
+item.esperia.gold_sword_head.name=Lame d'épée en or
+item.esperia.steel_sword_head.name=Lame d'épée en acier
+item.esperia.bronze_saber_head.name=Lame de sabre en bronze
+item.esperia.iron_saber_head.name=Lame de sabre en fer
+item.esperia.gold_saber_head.name=Lame de sabre en or
+item.esperia.steel_saber_head.name=Lame de sabre en acier
+item.esperia.bronze_spear_head.name=Tête de lance en bronze
+item.esperia.iron_spear_head.name=Tête de lance en fer
+item.esperia.gold_spear_head.name=Tête de lance en or
+item.esperia.steel_spear_head.name=Tête de lance en acier
+item.esperia.bronze_dagger_head.name=Lame de dague en bronze
+item.esperia.iron_dagger_head.name=Lame de dague en fer
+item.esperia.gold_dagger_head.name=Lame de dague en or
+item.esperia.steel_dagger_head.name=Lame de dague en acier
+item.esperia.bronze_warhammer_head.name=Tête de marteau de guerre en bronze
+item.esperia.iron_warhammer_head.name=Tête de marteau de guerre en fer
+item.esperia.gold_warhammer_head.name=Tête de marteau de guerre en or
+item.esperia.steel_warhammer_head.name=Tête de marteau de guerre en acier
+item.esperia.bronze_halberd_head.name=Tête de hallebarde en bronze
+item.esperia.iron_halberd_head.name=Tête de hallebarde en fer
+item.esperia.gold_halberd_head.name=Tête de hallebarde en or
+item.esperia.steel_halberd_head.name=Tête de hallebarde en acier
+item.esperia.bronze_waraxe_head.name=Tête de hache de guerre en bronze
+item.esperia.iron_waraxe_head.name=Tête de hache de guerre en fer
+item.esperia.gold_waraxe_head.name=Tête de hache de guerre en or
+item.esperia.steel_waraxe_head.name=Tête de hache de guerre en acier
+item.esperia.bronze_mace_head.name=Tête de masse en bronze
+item.esperia.iron_mace_head.name=Tête de masse en fer
+item.esperia.gold_mace_head.name=Tête de masse en or
+item.esperia.steel_mace_head.name=Tête de masse en acier
+item.esperia.bronze_chef_knife_head.name=Lame de couteau de cuisine en cuivre
+item.esperia.iron_chef_knife_head.name=Lame de couteau de cuisine en fer
+item.esperia.steel_chef_knife_head.name=Lame de couteau de cuisine en acier
+item.esperia.bronze_sickle_head.name=Lame de serpe en bronze
+item.esperia.iron_sickle_head.name=Lame de serpe en fer
+item.esperia.steel_sickle_head.name=Lame de serpe en acier
+item.esperia.bronze_lime_head.name=Tête de lime en bronze
+item.esperia.iron_lime_head.name=Tête de lime en fer
+item.esperia.steel_lime_head.name=Tête de lime en acier
+item.esperia.bronze_saw_head.name=Lame de scie en bronze
+item.esperia.iron_saw_head.name=Lame de scie en fer
+item.esperia.steel_saw_head.name=Lame de scie en acier
+item.esperia.bronze_chisel_head.name=Tête de burin en bronze
+item.esperia.iron_chisel_head.name=Tête de burin en fer
+item.esperia.steel_chisel_head.name=Tête de burin en acier
+
+
+item.esperia.flux.name=Soude
+item.esperia.tanning_oil.name=Huile de tannage
+item.esperia.paper_wet.name=Papier mouillé
+item.esperia.molten_glass.name=Verre en fusion
+item.esperia.flower_pot_raw.name=Pot de fleurs cru
+item.esperia.cocoa.name=Fèves de cacao
+item.esperia.copper_nugget.name=Pépite de cuivre
+item.esperia.ef.name=Esper de fer
+item.esperia.eo.name=Esper d'or
+item.esperia.el.name=Esper de lapis-lazuli
+item.esperia.ed.name=Esper de diamant
+item.esperia.coin_copper.name=Épervie de cuivre
+item.esperia.coin_silver.name=Épervie d'argent
+item.esperia.coin_gold_1.name=Épervie d'or
+item.esperia.coin_gold_2.name=Épervie d'or
+item.esperia.glass_bottle_empty.name=Bouteille en verre vide
+item.esperia.glass_bottle_rum_empty.name=Bouteille de rhum vide
+item.esperia.clay_mug_empty.name=Chope en terre cuite vide
+item.esperia.glass_mug_empty.name=Chope en verre vide
+item.esperia.glass_tumbler_empty.name=Verre à pied vide
+item.esperia.clay_mug_beer.name=Chope en terre cuite de bière
+item.esperia.clay_mug_mead.name=Chope en terre cuite d'hydromel
+item.esperia.clay_mug_milk.name=Chope en terre cuite de lait
+item.esperia.clay_mug_water.name=Chope en terre cuite d'eau
+item.esperia.clay_mug_hotcocoa.name=Chope en terre cuite de chocolat chaud
+item.esperia.clay_mug_hotmilk.name=Chope en terre cuite de lait chaud
+item.esperia.clay_mug_hottea.name=Chope en terre cuite de thé chaud
+item.esperia.clay_mug_hotwater.name=Chope en terre cuite d'eau chaude
+item.esperia.glass_bottle_apple.name=Bouteille de jus de pomme
+item.esperia.glass_bottle_cider.name=Bouteille de cidre
+item.esperia.glass_bottle_grapes.name=Bouteille de jus de raisin
+item.esperia.glass_bottle_vine.name=Bouteille de vin
+item.esperia.glass_bottle_mead.name=Bouteille d'hydromel
+item.esperia.glass_bottle_beer.name=Bouteille de bière
+item.esperia.glass_bottle_sugarcane.name=Bouteille de sirop de canne
+item.esperia.glass_bottle_rum.name=Bouteille de rhum
+item.esperia.glass_mug_beer.name=Chope en verre de bière
+item.esperia.glass_mug_mead.name=Chope en verre d'hydromel
+item.esperia.glass_tumbler_apple.name=Verre de jus de pomme
+item.esperia.glass_tumbler_cider.name=Verre de cidre
+item.esperia.glass_tumbler_grapes.name=Verre de jus de raisin
+item.esperia.glass_tumbler_vine.name=Verre de vin
+item.esperia.glass_tumbler_milk.name=Verre de lait
+item.esperia.glass_tumbler_sugarcane.name=Verre de sirop de canne
+item.esperia.glass_tumbler_rum.name=Verre de rhum
+item.esperia.glass_tumbler_water.name=Verre d'eau
+item.esperia.metal_bucket_apple.name=Seau en métal rempli de jus de pomme
+item.esperia.metal_bucket_cider.name=Seau en métal rempli de cidre
+item.esperia.metal_bucket_barley.name=Seau en métal rempli d'orge
+item.esperia.metal_bucket_beer.name=Seau en métal rempli de bière
+item.esperia.metal_bucket_grapes.name=Seau en métal rempli de jus de raisin
+item.esperia.metal_bucket_vine.name=Seau en métal rempli de vin
+item.esperia.metal_bucket_honey.name=Seau en métal rempli de miel
+item.esperia.metal_bucket_mead.name=Seau en métal rempli d'hydromel
+item.esperia.metal_bucket_sugarcane.name=Seau en métal rempli de sirop de canne
+item.esperia.metal_bucket_rum.name=Seau en métal rempli de rhum
+item.esperia.plush_bear.name=Ourson en peluche
+item.esperia.plush_sheep.name=Mouton en peluche
+
+item.esperia.flour.name=Farine
+item.esperia.dough.name=Pâte
+item.esperia.biscuit_chocolate.name=Biscuit au chocolat
+item.esperia.boarchop_raw.name=Tranche de sanglier crue
+item.esperia.boarchop_cooked.name=Tranche de sanglier cuite
+item.esperia.cake_slice.name=Part de gâteau
+item.esperia.pumpkin_pie_slice.name=Part de tarte à la citrouille
+item.esperia.cheese.name=Fromage
+item.esperia.cheese_slice.name=Part de fromage
+item.esperia.cheese_blue.name=Fromage bleu
+item.esperia.cheese_blue_slice.name=Part de fromage bleu
+item.esperia.chocolate.name=Chocolat
+item.esperia.egg_boiled.name=Oeuf à la coque
+item.esperia.egg_fried.name=Oeuf au plat
+item.esperia.esper_chocolate.name=Esper en chocolat
+item.esperia.fish_herring_raw.name=Poisson rare cru
+item.esperia.fish_herring_cooked.name=Poisson rare cuit
+item.esperia.fish_sardine_raw.name=Petit poisson cru
+item.esperia.fish_sardine_cooked.name=Petit poisson cuit
+item.esperia.fish_trout_raw.name=Grand poisson cru
+item.esperia.fish_trout_cooked.name=Grand poisson cuit
+item.esperia.fish_soup.name=Soupe de poisson
+item.esperia.llama_cooked.name=Gigot de lama cuit
+item.esperia.llama_raw.name=Gigot de lama cru
+item.esperia.bear_cooked.name=Steak d'ours cuit
+item.esperia.bear_raw.name=Steak d'ours cru
+item.esperia.horse_cooked.name=Steak de cheval cuit
+item.esperia.horse_raw.name=Steak de cheval cru
+item.esperia.larva_cooked.name=Larve cuite
+item.esperia.larva_raw.name=Larve crue
+item.esperia.pumpkin_soup.name=Soupe de potiron
+item.esperia.squid_raw.name=Tentacule cru
+item.esperia.squid_cooked.name=Tentacule cuit
+
+item.esperia.butter.name=Beurre
+item.esperia.wax.name=Cire
+item.esperia.roll_blank.name=Rouleau vierge
+item.esperia.rope.name=Corde
+item.esperia.iron_raw.name=Fer brut
+item.esperia.gold_raw.name=Or brut
+item.esperia.diamond_raw.name=Diamant taillé
+item.esperia.emerald_raw.name=Émeraude taillée
+item.esperia.steel_nugget.name=Pépite d'acier
+item.esperia.ingot_steel.name=Lingot d'acier
+item.esperia.ink_sack.name=Poche d'encre
+item.esperia.lapis_lazuli.name=Lapis-lazuli
+item.esperia.stone_pebble.name=Caillou
+item.esperia.sandstone_brick.name=Brique de grès
+item.esperia.clay_mug_raw.name=Chope en argile crue
+item.esperia.plank_oak.name=Planche de chêne
+item.esperia.plank_birch.name=Planche de bouleau
+item.esperia.plank_spruce.name=Planche de sapin
+item.esperia.plank_jungle.name=Planche de daviel
+item.esperia.plank_big_oak.name=Planche de chêne noir
+item.esperia.plank_acacia.name=Planche d'acacia
+item.esperia.stick_birch.name=Bâton de bouleau
+item.esperia.stick_spruce.name=Bâton de sapin
+item.esperia.stick_jungle.name=Bâton de daviel
+item.esperia.stick_big_oak.name=Bâton de chêne noir
+item.esperia.stick_acacia.name=Bâton d'acacia
+
+item.esperia.book_old.name=Vieux livre
+item.esperia.book_wet.name=Livre humide
+item.esperia.boot.name=Vieille botte
+item.esperia.pearl.name=Perle
+item.esperia.youkounkoun.name=Youkounkoun
+
+item.esperia.glass_jar_empty.name=Bocal vide
+item.esperia.glass_jar_marmalade_apple.name=Confiture de pomme
+item.esperia.glass_jar_marmalade_grapes.name=Confiture de raisin
+item.esperia.dice_4f.name=Dé 4
+item.esperia.dice_6f.name=Dé 6
+item.esperia.dice_8f.name=Dé 8
+item.esperia.dice_10f.name=Dé 10
+item.esperia.dice_12f.name=Dé 12
+item.esperia.dice_20f.name=Dé 20
+item.esperia.dice_glass.name=Verre à dés
+item.esperia.item_hrp.name=Cubo
+
+item.esperia.pawn.name=Pion
+item.esperia.rook.name=Tour
+item.esperia.bishop.name=Fou
+item.esperia.knight.name=Cavalier
+item.esperia.queen.name=Reine
+item.esperia.king.name=Roi
+
+item.esperia.ace_heart.name=As de coeur
+item.esperia.two_heart.name=Deux de coeur
+item.esperia.three_heart.name=Trois de coeur
+item.esperia.four_heart.name=Quatre de coeur
+item.esperia.five_heart.name=Cinq de coeur
+item.esperia.six_heart.name=Six de coeur
+item.esperia.seven_heart.name=Sept de coeur
+item.esperia.eight_heart.name=Huit de coeur
+item.esperia.nine_heart.name=Neuf de coeur
+item.esperia.ten_heart.name=Dix de coeur
+item.esperia.jack_heart.name=Valet de coeur
+item.esperia.queen_heart.name=Dame de coeur
+item.esperia.king_heart.name=Roi de coeur
+item.esperia.ace_diamond.name=As de carreau
+item.esperia.two_diamond.name=Deux de carreau
+item.esperia.three_diamond.name=Trois de carreau
+item.esperia.four_diamond.name=Quatre de carreau
+item.esperia.five_diamond.name=Cinq de carreau
+item.esperia.six_diamond.name=Six de carreau
+item.esperia.seven_diamond.name=Sept de carreau
+item.esperia.eight_diamond.name=Huit de carreau
+item.esperia.nine_diamond.name=Neuf de carreau
+item.esperia.ten_diamond.name=Dix de carreau
+item.esperia.jack_diamond.name=Valet de carreau
+item.esperia.queen_diamond.name=Dame de carreau
+item.esperia.king_diamond.name=Roi de carreau
+item.esperia.ace_club.name=As de trefle
+item.esperia.two_club.name=Deux de trefle
+item.esperia.three_club.name=Trois de trefle
+item.esperia.four_club.name=Quatre de trefle
+item.esperia.five_club.name=Cinq de trefle
+item.esperia.six_club.name=Six de trefle
+item.esperia.seven_club.name=Sept de trefle
+item.esperia.eight_club.name=Huit de trefle
+item.esperia.nine_club.name=Neuf de trefle
+item.esperia.ten_club.name=Dix de trefle
+item.esperia.jack_club.name=Valet de trefle
+item.esperia.queen_club.name=Dame de trefle
+item.esperia.king_club.name=Roi de trefle
+item.esperia.ace_spade.name=As de pique
+item.esperia.two_spade.name=Deux de pique
+item.esperia.three_spade.name=Trois de pique
+item.esperia.four_spade.name=Quatre de pique
+item.esperia.five_spade.name=Cinq de pique
+item.esperia.six_spade.name=Six de pique
+item.esperia.seven_spade.name=Sept de pique
+item.esperia.eight_spade.name=Huit de pique
+item.esperia.nine_spade.name=Neuf de pique
+item.esperia.ten_spade.name=Dix de pique
+item.esperia.jack_spade.name=Valet de pique
+item.esperia.queen_spade.name=Dame de pique
+item.esperia.king_spade.name=Roi de pique
+
+tile.esperia.chess_board.name=Plateau d'échec
+tile.esperia.card_deck.name=Paquet de Carte
+
+item.esperia.petanque_bronze_ball.name=Boule de pétanque en bronze
+item.esperia.petanque_iron_ball.name=Boule de pétanque en fer
+item.esperia.petanque_pork_ball.name=Cochonnet
+
+item.esperia.rock_wheel.name=Roue de pierre
+tile.esperia.repair_wheel.name=Atelier de réparation
+
+item.esperia.keychain_empty.name=Porte-clefs
+item.esperia.lockpick_iron.name=Crochets en fer
+item.esperia.lockpick_steel.name=Crochets en acier
+item.esperia.lockpick_gold.name=Crochets ouvragés
+item.esperia.purse_cloth.name=Bourse en tissu
+item.esperia.purse_leather.name=Bourse en cuir
+item.esperia.purse_decorated.name=Bourse ornée
+item.esperia.sign_hrp.name=Panneau HRP
+item.esperia.sign_stone.name=Panneau en pierre
+item.esperia.token_stone_blank.name=Jeton en pierre vierge
+item.esperia.token_stone.name=Jeton en pierre
+item.esperia.token_stone_black.name=Jeton noir
+item.esperia.token_stone_red.name=Jeton rouge
+item.esperia.token_stone_green.name=Jeton vert
+item.esperia.token_stone_brown.name=Jeton brun
+item.esperia.token_stone_blue.name=Jeton bleu
+item.esperia.token_stone_purple.name=Jeton violet
+item.esperia.token_stone_cyan.name=Jeton cyan
+item.esperia.token_stone_silver.name=Jeton gris clair
+item.esperia.token_stone_gray.name=Jeton gris
+item.esperia.token_stone_pink.name=Jeton rose
+item.esperia.token_stone_lime.name=Jeton vert clair
+item.esperia.token_stone_yellow.name=Jeton jaune
+item.esperia.token_stone_light_blue.name=Jeton bleu clair
+item.esperia.token_stone_magenta.name=Jeton magenta
+item.esperia.token_stone_orange.name=Jeton orange
+item.esperia.token_stone_white.name=Jeton blanc
+
+item.esperia.wood_dagger.name=Dague en bois
+item.esperia.wood_waraxe.name=Hache de guerre en bois
+item.esperia.wood_mace.name=Massue en bois
+item.esperia.wood_battlesword.name=Espadon en bois
+item.esperia.wood_battleaxe.name=Hache de combat en bois
+item.esperia.wood_battlehammer.name=Masse en bois
+item.esperia.wood_spear.name=Lance en bois
+item.esperia.wood_halberd.name=Hallebarde en bois
+item.esperia.wood_scythe.name=Faux en bois
+item.esperia.wood_saber.name=Sabre en bois
+item.esperia.stone_dagger.name=Dague en pierre
+item.esperia.stone_waraxe.name=Hache de guerre en pierre
+item.esperia.stone_mace.name=Massue en pierre
+item.esperia.stone_battlesword.name=Espadon en pierre
+item.esperia.stone_battleaxe.name=Hache de combat en pierre
+item.esperia.stone_battlehammer.name=Masse en pierre
+item.esperia.stone_spear.name=Lance en pierre
+item.esperia.stone_halberd.name=Hallebarde en pierre
+item.esperia.stone_scythe.name=Faux en pierre
+item.esperia.stone_saber.name=Sabre en pierre
+item.esperia.iron_dagger.name=Dague en fer
+item.esperia.iron_waraxe.name=Hache de guerre en fer
+item.esperia.iron_mace.name=Massue en fer
+item.esperia.iron_battlesword.name=Espadon en fer
+item.esperia.iron_battleaxe.name=Hache de combat en fer
+item.esperia.iron_battlehammer.name=Masse en fer
+item.esperia.iron_spear.name=Lance en fer
+item.esperia.iron_halberd.name=Hallebarde en fer
+item.esperia.iron_scythe.name=Faux en fer
+item.esperia.iron_saber.name=Sabre en fer
+item.esperia.gold_dagger.name=Dague en or
+item.esperia.gold_waraxe.name=Hache de guerre en or
+item.esperia.gold_mace.name=Massue en or
+item.esperia.gold_battlesword.name=Espadon en or
+item.esperia.gold_battleaxe.name=Hache de combat en or
+item.esperia.gold_battlehammer.name=Masse en or
+item.esperia.gold_spear.name=Lance en or
+item.esperia.gold_halberd.name=Hallebarde en or
+item.esperia.gold_scythe.name=Faux en or
+item.esperia.gold_saber.name=Sabre en or
+item.esperia.diamond_dagger.name=Dague en acier
+item.esperia.diamond_waraxe.name=Hache de guerre en acier
+item.esperia.diamond_mace.name=Massue en acier
+item.esperia.diamond_battlesword.name=Espadon en acier
+item.esperia.diamond_battleaxe.name=Hache de combat en acier
+item.esperia.diamond_battlehammer.name=Masse en acier
+item.esperia.diamond_spear.name=Lance en acier
+item.esperia.diamond_halberd.name=Hallebarde en acier
+item.esperia.diamond_scythe.name=Faux en acier
+item.esperia.diamond_saber.name=Sabre en acier
+
+item.esperia.meat_cleaver.name=Hachoir en fer
+item.esperia.longbow.name=Arc long
+item.esperia.blow_pin.name=Canne de verrier
+item.esperia.rock_hammer.name=Marteau et burin
+item.esperia.weaver_tools.name=Nécessaire de couture
+item.esperia.nails.name=Clous
+
+item.esperia.barley.name=Orge
+item.esperia.lettuce.name=Laitue
+item.esperia.tomato.name=Tomate
+item.esperia.grapes.name=Grappe de raisin noir
+
+
+item.esperia.wood_shield.name=Targe en bois
+item.esperia.wood_shield_full.name= Écu en bois
+item.esperia.stone_shield.name=Targe en bois
+item.esperia.stone_shield_full.name= Écu en bois
+item.esperia.iron_shield.name=Bocle en fer
+item.esperia.iron_shield_full.name= Écu en fer
+item.esperia.gold_shield.name=Targe en bois
+item.esperia.gold_shield_full.name= Écu en bois
+item.esperia.diamond_shield.name=Targe en bois
+item.esperia.diamond_shield_full.name= Écu en bois
+
+item.esperia.beekeeper_helmet.name=Chapeau d'apiculteur
+item.esperia.beekeeper_chest.name=Chemise d'apiculteur
+item.esperia.beekeeper_legging.name=Pantalon d'apiculteur
+item.esperia.beekeeper_boots.name=Chaussures d'apiculteur
+
+item.esperia.ingot_bronze.name=Lingot de bronze
+item.esperia.ingot_copper.name=Lingot de cuivre
+item.esperia.ingot_lead.name=Lingot de plomb
+item.esperia.ingot_silver.name=Lingot d'argent
+item.esperia.ingot_tin.name=Lingot d'étain
+
+item.esperia.hay_bed.name=Paillasse
+
+item.esperia.bed_white.name=Lit blanc
+item.esperia.bed_orange.name=Lit orange
+item.esperia.bed_magenta.name=Lit magenta
+item.esperia.bed_light_blue.name=Lit bleu clair
+item.esperia.bed_yellow.name=Lit jaune
+item.esperia.bed_lime.name=Lit vert clair
+item.esperia.bed_pink.name=Lit rose
+item.esperia.bed_gray.name=Lit gris
+item.esperia.bed_silver.name=Lit gris clair
+item.esperia.bed_cyan.name=Lit cyan
+item.esperia.bed_purple.name=Lit violet
+item.esperia.bed_blue.name=Lit bleu
+item.esperia.bed_brown.name=Lit marron
+item.esperia.bed_green.name=Lit vert
+item.esperia.bed_red.name=Lit rouge
+item.esperia.bed_black.name=Lit noir
+
+item.esperia.wall_note.name=Affiche
+
+item.esperia.campfire.name=Feu de camp
+item.esperia.lit_campfire.name=Feu de camp allumé
+
+item.esperia.tin_raw.name= Étain brut
+item.esperia.copper_raw.name=Cuivre brut
+item.esperia.lead_raw.name=Plomb brut
+item.esperia.silver_raw.name=Argent brut
+
+item.esperia.tin_nugget.name=Pépite d'étain
+item.esperia.copper_nugget.name=Pépite de cuivre
+item.esperia.lead_nugget.name=Pépite de plomb
+item.esperia.silver_nugget.name=Pépite d'argent
+
+item.esperia.lock_copper.name=Serrure de cuivre
+item.esperia.lock_iron.name=Serrure de fer
+item.esperia.lock_steel.name=Serrure d'acier
+item.esperia.lock_gold.name=Serrure ouvragée
+
+item.esperia.broom.name=Balai
+item.esperia.wood_knife.name=Couteau en bois
+item.esperia.wood_hammer.name=Marteau en bois
+item.esperia.stone_knife.name=Couteau en pierre
+item.esperia.stone_hammer.name=Marteau en pierre
+item.esperia.iron_knife.name=Couteau en fer
+item.esperia.iron_hammer.name=Marteau en fer
+item.esperia.gold_knife.name=Couteau en or
+item.esperia.gold_hammer.name=Marteau en or
+item.esperia.diamond_knife.name=Couteau en acier
+item.esperia.diamond_hammer.name=Marteau en acier
+
+item.esperia.door_strong.name=Porte en bois renforcée
+item.esperia.glass_jar_water.name=Bocal d'eau
+item.esperia.glass_jar_milk.name=Bocal de lait
+item.esperia.glass_bottle_water.name=Bouteille d'eau
+item.esperia.glass_bottle_milk.name=Bouteille de lait
+item.esperia.bluecheese.name=Vieux fromage
+item.esperia.bluecheese_slice.name=Tranche de vieux fromage
+item.esperia.rotten_fish.name=Poisson pourri
+item.esperia.rotten_fruit.name=Fruit pourri
+item.esperia.rotten_vegetable.name=Légume pourri
+item.esperia.rotten_starchy.name=Grains pourris
+item.esperia.rotten_egg.name=Oeuf pourri
+item.esperia.rotten_drink.name=Bouteille putride
+item.esperia.doll.name=Poupée
+item.esperia.lapis_lazuli_raw.name=Lapis-lazuli brut
+item.esperia.handle.name=Petit manche
+item.esperia.shaft.name=Manche moyen
+item.esperia.pole.name=Grand manche
+item.esperia.cog.name=Mécanisme simple
+item.esperia.simple_mecanism.name=Mécanisme travaillé
+item.esperia.complex_mecanism.name=Mécanisme compliqué
+item.esperia.sophisticated_mecanism.name=Mécanisme sophistiqué
+item.esperia.bronze_hoe.name=Houe en bronze
+item.esperia.brush.name=Brosse
+item.esperia.pointed_stick.name=Bâton pointu
+item.esperia.barley_seeds.name=Grains d'orge
+item.esperia.flax_seeds.name=Graines de lin
+item.esperia.hemp_seeds.name=Graines de chanvre
+item.esperia.lettuce_seeds.name=Graines de laitue
+item.esperia.tomato_ceps.name=Pied de tomate
+item.esperia.tomato_seeds.name=Graines de tomate
+item.esperia.grapes_ceps.name=Pied de vigne
+item.esperia.grapes_seeds.name=Pépins de raisin
+item.esperia.turnip.name=Navet
+item.esperia.tea_grounded.name=Feuilles de thé séchées
+item.esperia.walnut.name=Noix
+item.esperia.tanned_leather.name=Cuir tanné
+item.esperia.tanned_skin.name=Peau tannée
+item.esperia.varnish.name=Bocal de vernis
+item.esperia.yeast.name=Bocal de levure
+item.esperia.arm_chain.name=Menottes
+item.esperia.feet_chain.name=Entraves
+item.esperia.backpack.name=Sac à dos
+
+tile.esperia.mud_half.name=Boue moyennement profonde
+tile.esperia.mud_full.name=Boue très profonde
+tile.esperia.stone_slab_b.CLAY.name=Dalle d'argile cuite
+tile.esperia.flower_pot.name=Pot de fleurs
+tile.esperia.little_chest.name=Petit coffre
+tile.esperia.distaff.name=Quenouilles
+tile.esperia.apricot_bloom.name=Feuilles d'abricot
+
+item.esperia.teapot_raw.name=Théière non cuite
+item.esperia.teapot.name=Théière
+item.esperia.teapot_water.name=Théière d'eau
+item.esperia.teapot_hotwater.name=Théière d'eau chaude
+item.esperia.teapot_milk.name=Théière de lait
+item.esperia.teapot_hotmilk.name=Théière de lait chaud
+
+item.esperia.pipe_ornate.name=Pipe
+
+item.esperia.lantern_white.name=Lanterne blanche
+item.esperia.lantern_orange.name=Lanterne orange
+item.esperia.lantern_magenta.name=Lanterne magenta
+item.esperia.lantern_light_blue.name=Lanterne bleu clair
+item.esperia.lantern_yellow.name=Lanterne jaune
+item.esperia.lantern_lime.name=Lanterne vert clair
+item.esperia.lantern_pink.name=Lanterne rose
+item.esperia.lantern_gray.name=Lanterne grise
+item.esperia.lantern_silver.name=Lanterne gris clair
+item.esperia.lantern_cyan.name=Lanterne cyan
+item.esperia.lantern_purple.name=Lanterne violette
+item.esperia.lantern_blue.name=Lanterne bleue
+item.esperia.lantern_brown.name=Lanterne marron
+item.esperia.lantern_green.name=Lanterne verte
+item.esperia.lantern_red.name=Lanterne rouge
+item.esperia.lantern_black.name=Lanterne noire
+
+item.esperia.paper_lantern_white.name=Lampion blanc allumé
+item.esperia.paper_lantern_orange.name=Lampion orange allumé
+item.esperia.paper_lantern_magenta.name=Lampion magenta allumé
+item.esperia.paper_lantern_light_blue.name=Lampion bleu clair allumé
+item.esperia.paper_lantern_yellow.name=Lampion jaune allumé
+item.esperia.paper_lantern_lime.name=Lampion vert clair allumé
+item.esperia.paper_lantern_pink.name=Lampion rose allumé
+item.esperia.paper_lantern_gray.name=Lampion gris allumé
+item.esperia.paper_lantern_silver.name=Lampion gris clair allumé
+item.esperia.paper_lantern_cyan.name=Lampion cyan allumé
+item.esperia.paper_lantern_purple.name=Lampion violet allumé
+item.esperia.paper_lantern_blue.name=Lampion bleu allumé
+item.esperia.paper_lantern_brown.name=Lampion marron allumé
+item.esperia.paper_lantern_green.name=Lampion vert allumé
+item.esperia.paper_lantern_red.name=Lampion rouge allumé
+item.esperia.paper_lantern_black.name=Lampion noir allumé
+
+item.esperia.acacia_door_lockable.name=Porte en acacia verrouillable
+item.esperia.birch_door_lockable.name=Porte en bouleau verrouillable
+item.esperia.dark_oak_door_lockable.name=Porte en chêne noir verrouillable
+item.esperia.iron_door_lockable.name=Porte en fer verrouillable
+item.esperia.jungle_door_lockable.name=Porte en daviel verrouillable
+item.esperia.wooden_door_lockable.name=Porte en chêne verrouillable
+item.esperia.spruce_door_lockable.name=Porte en sapin verrouillable
+item.esperia.door_strong_lockable.name=Porte renforcée verrouillable
+
+entity.duck.name=Canard
+entity.boar.name=Sanglier
+entity.goat.name=Chèvre
+entity.deer.name=Cerf
+entity.bee.name=Abeille
+entity.fox.name=Renard
+
+container.card_deck.name=Jeu de Carte
+container.chess_board.name=Jeu d'Échec
+container.cupboard.name=Placard
+container.bookshelf.name=Bibliothèque
+container.little_chest.name=Coffret
+container.table.name=Table

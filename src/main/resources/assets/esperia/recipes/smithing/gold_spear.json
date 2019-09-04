@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EWY",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "W": {
+            "item": "esperia:gold_spear_head"
+        },
+        "Y": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:pole"
+        }
+    },
+    "result": {
+        "item": "esperia:gold_spear",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "FW",
+        "JP"
+    ],
+    "key": {
+        "W": {
+            "item": "esperia:wax"
+        },
+		        "P": {
+            "item": "esperia:plant_fiber"
+        },
+		        "F": {
+            "item": "esperia:fat_animal"
+        },
+        "J": {
+            "item": "esperia:glass_jar_empty"
+        }
+    },
+    "result": {
+        "item": "esperia:tanning_oil",
+        "count": 1
+    }
+}

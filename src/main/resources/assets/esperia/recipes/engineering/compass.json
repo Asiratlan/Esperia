@@ -1,0 +1,39 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#IE",
+        " i ",
+        "ZMC"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "C": {
+            "item": "esperia:magnifying_glass",
+			"data": 32767
+		},
+        "I": {
+            "item": "esperia:molten_glass"
+        },
+        "Z": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "M": {
+            "item": "esperia:plate_iron"
+        },
+        "i": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:compass",
+        "count": 1
+    }
+}

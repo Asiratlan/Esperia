@@ -1,0 +1,8 @@
+{
+    "parent": "esperia:block/farming/leaves",
+    "textures": {
+        "all": "esperia:blocks/farming/apple_bloom7",
+        "overlay": "esperia:blocks/farming/apple_bloom7_overlay"
+    }
+}
+

@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        "J J",
+        "J J"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:leather_scrap"
+        },
+        "E": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "J": {
+            "item": "esperia:cloth_sheet_white"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_boots",
+        "count": 1
+    }
+}

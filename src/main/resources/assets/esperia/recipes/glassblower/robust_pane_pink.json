@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " B ",
+        "###",
+        "MEM"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:molten_glass"
+        },
+        "B": {
+            "item": "minecraft:dye",
+            "data": 9
+        },
+        "E": {
+            "item": "esperia:blow_pin",
+			"data": 32767
+        },
+		"M": {
+            "item": "esperia:stick_lead"
+        }
+    },
+    "result": {
+        "item": "esperia:robust_glass_pane_pink",
+        "count": 6
+    }
+}

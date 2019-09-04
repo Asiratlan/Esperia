@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "EBO"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "B": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:crafting_table",
+        "count": 1
+    }
+}

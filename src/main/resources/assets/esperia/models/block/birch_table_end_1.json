@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/table_end_1",
+    "textures": {
+        "0": "esperia:blocks/table_birch"
+    }
+}

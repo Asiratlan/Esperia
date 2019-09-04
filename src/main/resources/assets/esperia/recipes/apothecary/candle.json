@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "E",
+        "E"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "E": {
+            "item": "esperia:wax"
+        }
+    },
+    "result": {
+        "item": "esperia:candle_off_item",
+        "count": 4
+    }
+}

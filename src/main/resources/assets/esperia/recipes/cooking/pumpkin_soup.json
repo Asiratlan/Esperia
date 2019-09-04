@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"OMC",
+        "SPK",
+		"BBB"
+    ],
+    "key": {
+        "O": {
+            "item": "esperia:onion"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+			"ore": "water_large"
+        },
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        },
+        "M": {
+            "item": "minecraft:potato"
+        },
+        "C": {
+            "item": "minecraft:carrot"
+        },
+        "P": {
+            "item": "minecraft:pumpkin"
+        }
+    },
+    "result": {
+        "item": "esperia:pumpkin_soup",
+		"count": 3
+    }
+}		

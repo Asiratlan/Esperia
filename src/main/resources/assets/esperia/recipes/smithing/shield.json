@@ -1,0 +1,35 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#iE",
+        "JQQ",
+        "QQH"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammer"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "E": {
+            "item": "esperia:nails"
+        },
+        "J": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "Q": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "H": {
+            "item": "esperia:leather_scrap"
+        }
+    },
+    "result": {
+        "item": "minecraft:shield",
+        "count": 1
+    }
+}

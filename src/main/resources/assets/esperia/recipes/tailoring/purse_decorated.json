@@ -1,0 +1,31 @@
+{
+    "type": "esperia:tooldamage",
+    "pattern": [
+        "YXY",
+        "# #",
+        "H#I"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:tanned_leather"
+        },
+        "I": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "H": {
+            "item": "minecraft:shears",
+            "data": 32767    
+        },
+        "X": {
+            "item": "minecraft:string"
+        },
+        "Y": {
+            "type": "forge:ore_dict",
+            "ore": "cloth"
+        }
+    },
+    "result": {
+        "item": "esperia:purse_decorated",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "variants": 
+            {
+                "size=0": 
+                        {
+                            "model": "esperia:bougie_1"
+                        },
+
+                "size=1": 
+                        {
+                            "model": "esperia:bougie_2"
+                        },
+
+                "size=2": 
+                        {
+                            "model": "esperia:bougie_3"
+                        },
+
+                "size=3": 
+                        {
+                            "model": "esperia:bougie_4"
+                        }
+            }
+}

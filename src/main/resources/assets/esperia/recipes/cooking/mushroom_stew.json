@@ -1,0 +1,34 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "COC",
+		"BBB",
+        "MSK"
+    ],
+    "key": {
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "milk_medium"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        },
+        "C": {
+            "item": "minecraft:brown_mushroom"
+        },
+        "O": {
+            "item": "esperia:onion"
+        },
+        "S": {
+            "item": "esperia:salt"
+        }
+    },
+    "result": {
+        "item": "minecraft:mushroom_stew",
+        "count": 3
+    }
+}

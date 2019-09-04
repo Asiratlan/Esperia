@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "LLL",
+        "RPR",
+        "NIN"
+    ],
+    "key": {
+        "L": {
+            "item": "esperia:tanned_leather"
+        },
+        "R": {
+            "item": "esperia:rope"
+        },
+        "I": {
+            "item": "esperia:weaver_tools",
+            "data": 32767
+        },
+        "P": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },	
+        "N": {
+            "type": "forge:ore_dict",
+            "ore": "metal_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:saddle",
+        "count": 1
+    }
+}

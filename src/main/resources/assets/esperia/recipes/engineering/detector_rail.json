@@ -1,0 +1,42 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#ED",
+        "RTL",
+        "PV "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "D": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "R": {
+            "item": "minecraft:rail"
+        },
+        "T": {
+            "item": "esperia:simple_mecanism"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "P": {
+            "item": "esperia:nails"
+        },
+        "V": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        }
+    },
+    "result": {
+        "item": "minecraft:detector_rail",
+        "count": 1
+    }
+}

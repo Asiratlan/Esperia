@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "MSB"
+    ],
+    "key": {
+        "B": {
+            "item": "esperia:glass_jar_bee"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+        "item": "esperia:hive_cube",
+        "count": 1
+    }
+}

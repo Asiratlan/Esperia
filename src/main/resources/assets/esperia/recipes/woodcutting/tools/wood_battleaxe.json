@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        " /E",
+        "/ #"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "/": {
+            "item": "esperia:pole"
+        }
+    },
+    "result": {
+        "item": "esperia:wood_battleaxe",
+        "count": 1
+    }
+}

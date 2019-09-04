@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:quartzrose_ore/quartzrose_ore1"
+            }, {
+                "model": "esperia:quartzrose_ore/quartzrose_ore2"
+            }, {
+                "model": "esperia:quartzrose_ore/quartzrose_ore3"
+            }, {
+                "model": "esperia:quartzrose_ore/quartzrose_ore4"
+            }, {
+                "model": "esperia:quartzrose_ore/quartzrose_ore5"
+            }, {
+                "model": "esperia:quartzrose_ore/quartzrose_ore6"
+            }]
+    }
+}

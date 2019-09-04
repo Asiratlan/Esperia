@@ -1,0 +1,14 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict","ore": "water_large"        }
+    },
+    "result": {
+        "item": "esperia:decal_water_puddle",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EPB",
+        "X  "
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:wax"
+        },
+        "P": {
+            "item": "esperia:cloth_shirt"
+        },
+        "B": {
+            "item": "esperia:cloth_gloves"
+        },
+        "X": {
+            "type": "forge:ore_dict",
+            "ore": "cloth"
+        }
+    },
+    "result": {
+        "item": "esperia:beekeeper_chest",
+        "count": 1
+    }
+}

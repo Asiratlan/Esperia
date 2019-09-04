@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "milk_large"
+        },
+        {
+            "item": "esperia:glass_jar_empty"
+        },
+        {
+            "item": "esperia:glass_jar_empty"
+        },
+        {
+            "item": "esperia:glass_jar_empty"
+        }
+    ],
+    "result": {
+        "item": "esperia:glass_jar_milk",
+        "count": 3
+    }
+}

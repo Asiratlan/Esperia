@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "E",
+        "M"
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:cloth_shirt"
+        },
+        "M": {
+            "item": "esperia:cloth_skirt"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_robe",
+        "count": 1
+    }
+}

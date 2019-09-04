@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "E",
+        "J"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool" 
+        },
+        "E": {
+            "item": "esperia:paper_paste"
+        },
+        "J": {
+            "type": "forge:ore_dict","ore": "water_large"        }
+    },
+    "result": {
+        "item": "esperia:paper_wet",
+        "count": 8
+    }
+}

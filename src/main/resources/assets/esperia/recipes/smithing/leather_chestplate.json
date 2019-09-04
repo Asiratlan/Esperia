@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PHP",
+        "SPS",
+        "NSN"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:tanned_leather"
+        },
+        "H": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "S": {
+            "item": "esperia:leather_scrap"
+        },
+        "N": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather_chestplate",
+        "count": 1
+    }
+}

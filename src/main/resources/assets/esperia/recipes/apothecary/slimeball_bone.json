@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "###",
+        " W "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone"
+        },
+        "W": {
+            "type": "forge:ore_dict",
+            "ore": "water"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+    }
+}

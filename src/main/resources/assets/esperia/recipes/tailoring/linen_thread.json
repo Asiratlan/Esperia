@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "TTT",
+        "TST",
+		"TTT"
+    ],
+    "key": {
+        "T": {
+            "item": "esperia:flax"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:linen_thread",
+        "count": 32
+    }
+}

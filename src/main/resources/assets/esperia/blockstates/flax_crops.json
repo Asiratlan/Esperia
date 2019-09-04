@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "age=0": {
+            "model": "esperia:agriculture/flax_stage1"
+        },
+        "age=1": {
+            "model": "esperia:agriculture/flax_stage2"
+        },
+        "age=2": {
+            "model": "esperia:agriculture/flax_stage3"
+        },
+        "age=3": {
+            "model": "esperia:agriculture/flax_stage4"
+        },
+        "age=4": {
+            "model": "esperia:agriculture/flax_stage5"
+        },
+        "age=5": {
+            "model": "esperia:agriculture/flax_stage6"
+        },
+        "age=6": {
+            "model": "esperia:agriculture/flax_stage7"
+        },
+        "age=7": {
+            "model": "esperia:agriculture/flax_stage8"
+        }
+    }
+}

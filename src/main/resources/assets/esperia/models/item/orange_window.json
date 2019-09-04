@@ -1,0 +1,7 @@
+﻿{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "esperia:items/orange_window_item"
+    }
+}
+

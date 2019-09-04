@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "I L",
+        "#S#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:log",
+			"data": 3
+        },
+		"S": {
+            "item": "esperia:stick_jungle"
+        },
+        "I": {
+            "item": "esperia:rope"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:jungle_wood_fence",
+        "count": 4
+    }
+}

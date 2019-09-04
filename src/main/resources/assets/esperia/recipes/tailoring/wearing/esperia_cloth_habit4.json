@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        "SHS"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:tanned_leather"
+        },
+        "E": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "H": {
+            "item": "esperia:cloth_robe"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_habit",
+        "count": 1
+    }
+}

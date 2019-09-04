@@ -1,0 +1,18 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:tin_nugget"
+        },
+        {
+            "item": "esperia:copper_nugget"
+        },
+        {
+            "item": "esperia:copper_nugget"
+        }
+    ],
+    "result": {
+        "item": "esperia:bronze_nugget",
+        "count": 3
+    }
+}

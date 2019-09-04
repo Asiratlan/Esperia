@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#HE",
+        "ZM "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "Z": {
+            "item": "esperia:nails"
+        },
+        "M": {
+            "item": "minecraft:minecart"
+        }
+    },
+    "result": {
+        "item": "minecraft:hopper_minecart",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:cupboard"
+        },
+        "facing=south": {
+            "model": "esperia:cupboard",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "esperia:cupboard",
+            "y": 270
+        },
+        "facing=east": {
+            "model": "esperia:cupboard",
+            "y": 90
+        }
+    }
+}

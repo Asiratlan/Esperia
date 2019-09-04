@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "OS ",
+        "BG#",
+        "EC "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_jungle"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "B": {
+            "item": "esperia:nails"
+        },
+        "C": {
+            "item": "esperia:jungle_stool"
+        },
+        "G": {
+            "item": "esperia:wooden_bars"
+        },
+        "S": {
+            "item": "esperia:stick_jungle"
+        }
+    },
+    "result": {
+        "item": "esperia:jungle_chair",
+        "count": 1
+    }
+}

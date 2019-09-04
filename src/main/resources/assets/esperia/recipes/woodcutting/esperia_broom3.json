@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "/W ",
+        "E/ ",
+        "  /"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "E": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "esperia:broom",
+        "count": 1
+    }
+}

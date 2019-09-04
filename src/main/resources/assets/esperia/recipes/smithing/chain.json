@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " B ",
+        "EB ",
+        " B "
+    ],
+    "key": {
+        "B": {
+            "item": "esperia:stick_iron"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:chain",
+        "count": 6
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "forge:ore_shaped",
+    "pattern": [
+        "PS ",
+        "L  ",
+        "   "
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plank_jungle"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:stick_jungle",
+        "count": 2
+    }
+}

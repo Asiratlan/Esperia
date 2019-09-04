@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "EWE",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat"
+        },
+        "E": {
+            "item": "minecraft:string"
+        },
+        "W": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_shield",
+        "count": 1
+    }
+}

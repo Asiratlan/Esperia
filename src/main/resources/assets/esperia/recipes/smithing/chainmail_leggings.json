@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "LLL",
+        "CHC",
+        "CNC"
+    ],
+    "key": {
+        "C": {
+            "item": "esperia:chain"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "L": {
+            "item": "esperia:tanned_leather"
+        },
+        "N": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:chainmail_leggings",
+        "count": 1
+    }
+}

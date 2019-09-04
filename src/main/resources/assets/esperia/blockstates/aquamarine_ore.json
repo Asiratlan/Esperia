@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:aquamarine_ore/aquamarine_ore1"
+            }, {
+                "model": "esperia:aquamarine_ore/aquamarine_ore2"
+            }, {
+                "model": "esperia:aquamarine_ore/aquamarine_ore3"
+            }, {
+                "model": "esperia:aquamarine_ore/aquamarine_ore4"
+            }, {
+                "model": "esperia:aquamarine_ore/aquamarine_ore5"
+            }, {
+                "model": "esperia:aquamarine_ore/aquamarine_ore6"
+            }]
+    }
+}

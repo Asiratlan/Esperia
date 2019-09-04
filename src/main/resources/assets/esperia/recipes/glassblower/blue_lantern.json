@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        " R ",
+        " Y "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:chain"
+        },
+        "Y": {
+            "item": "esperia:plate_iron"
+        },
+        "R": {
+            "item": "minecraft:stained_glass",
+            "data": 11
+        }
+    },
+    "result": {
+        "item": "esperia:lantern_blue_off",
+        "count": 1
+    }
+}

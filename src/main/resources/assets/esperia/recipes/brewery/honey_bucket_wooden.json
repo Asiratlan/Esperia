@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "IOI",
+        "ISI",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "item": "esperia:honey"
+        },
+		"S": {
+            "item": "esperia:wooden_bucket"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+			"ore": "water_large"
+		}
+    },
+    "result": {
+        "item": "esperia:wooden_bucket_honey",
+        "count": 1
+    }
+}

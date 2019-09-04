@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"CLA",
+        " K "
+    ],
+    "key": {
+        "C": {
+            "item": "esperia:yeast",
+			"data": 32767
+        },
+		"A": {
+            "item": "esperia:lemon"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "milk_large"
+        },
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:bluecheese",
+		"count": 1
+    }
+}		

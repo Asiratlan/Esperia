@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "EEE",
+		"EEE",
+        "PIH"
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"E": {
+            "item": "esperia:bronze_nugget"
+        },
+		"I": {
+            "item": "esperia:ingot_mold"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:ingot_bronze",
+        "count": 1
+    }
+}

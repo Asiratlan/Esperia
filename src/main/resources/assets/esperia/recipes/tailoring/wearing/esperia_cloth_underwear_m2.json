@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "E E",
+        " J "
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:leather_scrap"
+        },
+        "J": {
+            "item": "esperia:tanned_leather"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_underwear_m",
+        "count": 1
+    }
+}

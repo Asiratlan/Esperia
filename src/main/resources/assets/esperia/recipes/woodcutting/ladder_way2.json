@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "SHS",
+        "SSS",
+        "SNS"
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:ladder",
+        "count": 3
+    }
+}

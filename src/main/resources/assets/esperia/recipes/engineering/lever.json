@@ -1,0 +1,40 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EQ",
+        "/KJ",
+        "N  "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "Q": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "K": {
+            "item": "esperia:cog"
+        },
+        "J": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "N": {
+            "type": "forge:ore_dict",
+            "ore": "brick"
+        }
+    },
+    "result": {
+        "item": "minecraft:lever",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "E"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:writable_book"
+        },
+        "E": {
+            "type": "forge:ore_dict","ore": "water_large"        }
+    },
+    "result": {
+        "item": "esperia:book_wet",
+        "count": 1
+    }
+}

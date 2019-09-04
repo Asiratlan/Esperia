@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "/",
+        "/"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "/": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_mace",
+        "count": 1
+    }
+}

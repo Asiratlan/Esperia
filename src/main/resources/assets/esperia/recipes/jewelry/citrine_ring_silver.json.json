@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"A B",
+		" P ",
+		" M "
+	],
+	"key": {
+      "P": {
+            "item": "esperia:citrine_cut"
+        },
+      "M": {
+            "item": "esperia:silver_jewelry",
+			"data": 1
+        },
+       "A": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+       "B": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:silver_citrine_jewelry",
+		"data": 1,
+        "count": 1
+    }
+}

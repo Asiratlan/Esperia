@@ -1,0 +1,8 @@
+﻿{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "minecraft:blocks/leaves_big_oak",
+        "top": "minecraft:blocks/leaves_big_oak",
+        "side": "minecraft:blocks/leaves_big_oak"
+    }
+}

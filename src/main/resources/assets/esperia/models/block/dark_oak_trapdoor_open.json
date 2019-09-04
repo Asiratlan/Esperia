@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/trapdoor_open",
+    "textures": {
+        "texture": "esperia:blocks/dark_oak_trapdoor"
+    }
+}

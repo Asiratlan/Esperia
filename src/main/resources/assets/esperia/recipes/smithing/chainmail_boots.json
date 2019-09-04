@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "CHC",
+        "CNC"
+    ],
+    "key": {
+        "C": {
+            "item": "esperia:chain"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "N": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:chainmail_boots",
+        "count": 1
+    }
+}

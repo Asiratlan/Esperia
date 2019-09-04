@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stonebrick_granite"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:stonebrick_granite_carved",
+        "count": 1
+    }
+}

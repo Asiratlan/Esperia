@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/stool",
+    "textures": {
+        "0": "esperia:blocks/stool_oak"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:hematite_ore/hematite_ore1"
+            }, {
+                "model": "esperia:hematite_ore/hematite_ore2"
+            }, {
+                "model": "esperia:hematite_ore/hematite_ore3"
+            }, {
+                "model": "esperia:hematite_ore/hematite_ore4"
+            }, {
+                "model": "esperia:hematite_ore/hematite_ore5"
+            }, {
+                "model": "esperia:hematite_ore/hematite_ore6"
+            }]
+    }
+}

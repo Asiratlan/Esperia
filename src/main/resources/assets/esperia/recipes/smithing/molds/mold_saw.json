@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "ECE"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "C": {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    "result": {
+        "item": "esperia:saw_mold",
+        "count": 10
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "esperia:tooldamage",
+    "pattern": [
+        "HXI",
+        "# #",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "cloth"
+        },
+        "I": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "H": {
+            "item": "minecraft:shears",
+            "data": 32767    
+        },
+        "X": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "esperia:purse_cloth",
+        "count": 1
+    }
+}

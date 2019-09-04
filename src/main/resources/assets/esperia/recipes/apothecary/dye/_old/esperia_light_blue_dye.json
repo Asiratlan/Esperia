@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E",
+        "AS"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "HammerTool"
+        },
+        "E": {
+            "item": "esperia:turquoise_gemstone"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+        "A": {
+            "item": "esperia:alun_shard"
+        }
+    },
+    "result": {
+        "item": "minecraft:dye",
+        "data": 12,
+        "count": 4
+    }
+}

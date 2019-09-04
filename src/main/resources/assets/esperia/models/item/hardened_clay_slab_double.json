@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "color=white": {
+            "model": "minecraft:hardened_clay_stained_white"
+        },
+        "color=black": {
+            "model": "minecraft:hardened_clay_stained_black"
+        },
+        "color=blue": {
+            "model": "minecraft:hardened_clay_stained_blue"
+        },
+        "color=brown": {
+            "model": "minecraft:hardened_clay_stained_brown"
+        },
+        "color=cyan": {
+            "model": "minecraft:hardened_clay_stained_cyan"
+        },
+        "color=gray": {
+            "model": "minecraft:hardened_clay_stained_gray"
+        },
+        "color=green": {
+            "model": "minecraft:hardened_clay_stained_green"
+        },
+        "color=lightBlue": {
+            "model": "minecraft:hardened_clay_stained_lightBlue"
+        },
+        "color=lime": {
+            "model": "minecraft:hardened_clay_stained_lime"
+        },
+        "color=magenta": {
+            "model": "minecraft:hardened_clay_stained_magenta"
+        },
+        "color=orange": {
+            "model": "minecraft:hardened_clay_stained_orange"
+        },
+        "color=pink": {
+            "model": "minecraft:hardened_clay_stained_pink"
+        },
+        "color=purple": {
+            "model": "minecraft:hardened_clay_stained_purple"
+        },
+        "color=red": {
+            "model": "minecraft:hardened_clay_stained_red"
+        },
+        "color=silver": {
+            "model": "minecraft:hardened_clay_stained_silver"
+        },
+        "color=yellow": {
+            "model": "minecraft:hardened_clay_stained_yellow"
+        }
+    }
+}

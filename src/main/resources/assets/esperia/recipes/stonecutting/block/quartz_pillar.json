@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "E",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:quartz_block",
+			"data": 0
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:quartz_block",
+        "data": 1,
+        "count": 1
+    }
+}

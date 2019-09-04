@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "E": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "esperia:diamond_raw",
+        "count": 1
+    }
+}

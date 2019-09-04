@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EBW",
+        "O  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:clay_ball"
+        },
+        "E": {
+            "item": "esperia:cinder"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+        "W": {
+            "item": "minecraft:stained_hardened_clay",
+			"data" : 0
+        },
+        "O": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:white_glazed_terracotta",
+        "count": 1
+    }
+}

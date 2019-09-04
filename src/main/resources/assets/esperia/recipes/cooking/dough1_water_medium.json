@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "W",
+        "F"
+    ],
+    "key": {
+        "W": {
+            "type": "forge:ore_dict",
+            "ore": "water_medium"
+        },
+        "F": {
+            "item": "esperia:flour"
+        }
+    },
+    "result": {
+        "item": "esperia:dough",
+        "count": 1
+    }
+}

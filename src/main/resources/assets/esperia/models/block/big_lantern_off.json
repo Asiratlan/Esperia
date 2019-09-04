@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "esperia:blocks/lantern_topbottom_off",
+        "side": "esperia:blocks/lantern_side_off"
+    }
+}

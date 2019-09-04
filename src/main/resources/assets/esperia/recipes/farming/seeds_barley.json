@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "M",
+        "S"
+    ],
+    "key": {
+        "S": {
+            "item": "esperia:barley"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:barley_seeds",
+        "count": 4
+    }
+}

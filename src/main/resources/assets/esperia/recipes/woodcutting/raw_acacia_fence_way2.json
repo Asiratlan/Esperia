@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "I L",
+        "#S#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:log2",
+			"data": 0
+        },
+		"S": {
+            "item": "esperia:stick_acacia"
+        },
+        "I": {
+            "item": "esperia:rope"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:acacia_wood_fence",
+        "count": 4
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "esperia:block/door_top",
+    "textures": {
+        "bottom": "esperia:blocks/oak_volet_bottom",
+        "top": "esperia:blocks/oak_volet_top"
+    }
+}

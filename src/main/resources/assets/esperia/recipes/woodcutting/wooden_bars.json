@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        "///",
+        "///"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:wooden_bars",
+        "count": 1
+    }
+}

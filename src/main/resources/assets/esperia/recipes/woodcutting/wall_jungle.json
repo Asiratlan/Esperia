@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#I"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:log",
+            "data": 3
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "axeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:wood_wall_jungle",
+        "count": 1,
+        "data": 0
+    }
+}

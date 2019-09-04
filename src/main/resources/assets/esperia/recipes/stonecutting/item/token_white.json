@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "E"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "E": {
+            "item": "esperia:token_stone_blank"
+        }
+    },
+    "result": {
+        "item": "esperia:token_stone",
+        "count": 1
+    }
+}

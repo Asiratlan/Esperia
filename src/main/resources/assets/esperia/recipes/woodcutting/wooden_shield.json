@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#BD",
+        "BEB",
+        "NB "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:stick_iron"
+        },
+        "D": {
+            "item": "esperia:nails"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "N": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "esperia:wood_shield",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " S ",
+        "PRN",
+        " M "
+    ],
+    "key": {
+        "S": {
+            "item": "esperia:plate_iron"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+		"R": {
+            "item": "minecraft:rail"
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "M": {
+            "item": "esperia:simple_mecanism"
+        }
+    },
+    "result": {
+        "item": "minecraft:detector_rail",
+        "count": 1
+    }
+}

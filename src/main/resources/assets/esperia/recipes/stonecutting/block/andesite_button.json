@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "E"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+        "E": {
+            "item": "esperia:andesite_pebble"
+        }
+    },
+    "result": {
+        "item": "esperia:button_andesite",
+        "count": 1
+    }
+}

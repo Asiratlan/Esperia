@@ -1,0 +1,33 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        " / ",
+        "TLS"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "L": {
+            "item": "esperia:nails"
+        },
+        "T": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:sign",
+        "count": 1
+    }
+}

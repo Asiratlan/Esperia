@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E",
+        "E/",
+        " /"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "brick"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "pebble"
+        },
+        "/": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_axe",
+        "count": 1
+    }
+}

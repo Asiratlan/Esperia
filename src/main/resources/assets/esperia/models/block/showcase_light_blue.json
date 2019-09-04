@@ -1,0 +1,6 @@
+﻿{
+    "parent": "esperia:block/showcase",
+    "textures": {
+        "0": "esperia:blocks/showcase_light_blue"
+    }
+}

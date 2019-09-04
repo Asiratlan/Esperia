@@ -1,0 +1,45 @@
+{
+    "textures": {
+        "particle": "minecraft:blocks/leaves_oak",
+        "texture": "minecraft:blocks/leaves_oak"
+    },
+    "elements": [
+        {
+            "from": [0, 0, 0],
+            "to": [16, 14, 16],
+            "faces": {
+                "down": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#texture",
+                    "tintindex": 0,
+                    "cullface": "down"
+                },
+                "up": {
+                    "uv": [0, 0, 16, 16],
+                    "texture": "#texture",
+                    "tintindex": 0
+                },
+                "north": {
+                    "uv": [0, 2, 16, 16],
+                    "texture": "#texture",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [0, 2, 16, 16],
+                    "texture": "#texture",
+                    "tintindex": 0
+                },
+                "west": {
+                    "uv": [0, 2, 16, 16],
+                    "texture": "#texture",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [0, 2, 16, 16],
+                    "texture": "#texture",
+                    "tintindex": 0
+                }
+            }
+        }
+    ]
+}

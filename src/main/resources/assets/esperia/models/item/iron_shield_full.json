@@ -1,0 +1,14 @@
+{
+    "parent": "esperia:item/shield",
+    "textures": {
+        "layer0": "esperia:items/iron_shield_full"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "esperia:item/iron_shield_full_blocking"
+        }
+    ]
+}

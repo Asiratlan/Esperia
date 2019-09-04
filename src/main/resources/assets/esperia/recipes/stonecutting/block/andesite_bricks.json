@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:andesite_brick"
+        }
+    },
+    "result": {
+        "item": "esperia:stonebrick_andesite"
+    }
+}

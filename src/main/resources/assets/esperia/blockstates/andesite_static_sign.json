@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:andesite_static_sign"
+        },
+        "facing=south": {
+            "model": "esperia:andesite_static_sign",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "esperia:andesite_static_sign",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:andesite_static_sign",
+            "y": 270
+        }
+    }
+}

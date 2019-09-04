@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "# #",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+           "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "esperia:ruby_cut"
+        }
+    },
+    "result": {
+        "item": "esperia:gold_ruby_jewelry",
+        "data": 0,
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " S ",
+        " S ",
+        " G "
+    ],
+    "key": {
+        "G": {
+            "item": "esperia:tomato_seeds"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:tomato_ceps",
+        "count": 1
+    }
+}

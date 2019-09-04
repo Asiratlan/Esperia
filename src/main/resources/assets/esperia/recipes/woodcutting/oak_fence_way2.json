@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "I L",
+        "#S#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_oak"
+        },
+		"S": {
+            "item": "minecraft:stick"
+        },
+        "I": {
+            "item": "esperia:rope"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:fence",
+        "count": 2
+    }
+}

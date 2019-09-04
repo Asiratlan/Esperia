@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:ruby_ore/ruby_ore1"
+            }, {
+                "model": "esperia:ruby_ore/ruby_ore2"
+            }, {
+                "model": "esperia:ruby_ore/ruby_ore3"
+            }, {
+                "model": "esperia:ruby_ore/ruby_ore4"
+            }, {
+                "model": "esperia:ruby_ore/ruby_ore5"
+            }, {
+                "model": "esperia:ruby_ore/ruby_ore6"
+            }]
+    }
+}

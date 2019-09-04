@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:shears",
+            "data": 32767
+        },
+        {
+            "item": "minecraft:paper"
+        }
+    ],
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 10
+    }
+}

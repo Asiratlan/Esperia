@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "HammerTool"
+        },
+        {
+            "item": "esperia:emerald_raw"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+        {
+            "item": "esperia:alun_shard"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dye",
+        "data": 2,
+        "count": 4
+    }
+}

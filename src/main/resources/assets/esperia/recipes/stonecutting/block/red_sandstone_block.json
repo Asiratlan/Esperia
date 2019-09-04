@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:red_sandstone_brick"
+        }
+    },
+    "result": {
+        "item": "minecraft:red_sandstone",
+        "data": 2,
+        "count": 1
+    }
+}

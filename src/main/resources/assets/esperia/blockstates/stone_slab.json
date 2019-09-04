@@ -1,0 +1,46 @@
+{
+    "variants": {
+        "color=slate,half=bottom": {
+            "model": "esperia:slab_slate_half"
+        },
+        "color=slate,half=top": {
+            "model": "esperia:slab_slate_upper"
+        },
+        "color=diorite,half=bottom": {
+            "model": "esperia:slab_diorite_half"
+        },
+        "color=diorite,half=top": {
+            "model": "esperia:slab_diorite_upper"
+        },
+        "color=andesite,half=bottom": {
+            "model": "esperia:slab_andesite_half"
+        },
+        "color=andesite,half=top": {
+            "model": "esperia:slab_andesite_upper"
+        },
+        "color=granite,half=bottom": {
+            "model": "esperia:slab_granite_half"
+        },
+        "color=granite,half=top": {
+            "model": "esperia:slab_granite_upper"
+        }, 
+        "color=diobrick,half=bottom": {
+            "model": "esperia:slab_diobrick_half"
+        },
+        "color=diobrick,half=top": {
+            "model": "esperia:slab_diobrick_upper"
+        },
+        "color=andebrick,half=bottom": {
+            "model": "esperia:slab_andebrick_half"
+        },
+        "color=andebrick,half=top": {
+            "model": "esperia:slab_andebrick_upper"
+        },
+        "color=grabrick,half=bottom": {
+            "model": "esperia:slab_grabrick_half"
+        },
+        "color=grabrick,half=top": {
+            "model": "esperia:slab_grabrick_upper"
+        }     
+    }
+}

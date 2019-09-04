@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " #",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stone_brick"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_brick_stairs",
+        "count": 1
+    }
+}

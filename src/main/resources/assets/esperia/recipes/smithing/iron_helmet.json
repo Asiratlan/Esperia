@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " N ",
+        " P ",
+        "PHP"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plate_iron"
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_helmet",
+        "count": 1
+    }
+}

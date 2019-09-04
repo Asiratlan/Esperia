@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#WE",
+        " B ",
+        " U "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "W": {
+            "item": "esperia:nails"
+        },
+        "B": {
+            "item": "esperia:plate_iron"
+        },
+        "U": {
+            "item": "esperia:leather_scrap"
+        }
+    },
+    "result": {
+        "item": "esperia:iron_shield",
+        "count": 1
+    }
+}

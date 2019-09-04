@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EB "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "E": {
+            "item": "esperia:plank_jungle"
+        },
+        "B": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:pressure_plate_jungle",
+        "count": 4
+    }
+}

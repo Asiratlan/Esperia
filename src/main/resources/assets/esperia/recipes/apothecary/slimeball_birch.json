@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "BBB",
+		"BBB",
+        " C "
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:sapling",
+			"data":2
+        },
+        "C": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+    }
+}

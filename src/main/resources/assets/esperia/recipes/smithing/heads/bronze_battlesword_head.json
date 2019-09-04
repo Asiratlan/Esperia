@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " H ",
+        "PED",
+		"   "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"E": {
+            "item": "esperia:bronze_sword_head"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "D": {
+            "item": "esperia:stick_bronze"
+        }
+    },
+    "result": {
+        "item": "esperia:bronze_battlesword_head",
+        "count": 1
+    }
+}

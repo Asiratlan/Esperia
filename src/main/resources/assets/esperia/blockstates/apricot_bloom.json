@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "age=0": {
+            "model": "esperia:agriculture/apricot_bloom0"
+        },
+        "age=1": {
+            "model": "esperia:agriculture/apricot_bloom1"
+        },
+        "age=2": {
+            "model": "esperia:agriculture/apricot_bloom2"
+        },
+        "age=3": {
+            "model": "esperia:agriculture/apricot_bloom3"
+        },
+        "age=4": {
+            "model": "esperia:agriculture/apricot_bloom4"
+        },
+        "age=5": {
+            "model": "esperia:agriculture/apricot_bloom5"
+        },
+        "age=6": {
+            "model": "esperia:agriculture/apricot_bloom6"
+        },
+        "age=7": {
+            "model": "esperia:agriculture/apricot_bloom7"
+        }
+    }
+}

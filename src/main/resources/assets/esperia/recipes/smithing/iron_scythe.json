@@ -1,0 +1,34 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EZW",
+        "L/ "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "Z": {
+            "item": "esperia:iron_scythe_head"
+        },
+        "W": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:handle"
+        },
+        "L": {
+            "item": "esperia:shaft"
+        }
+    },
+    "result": {
+        "item": "esperia:iron_scythe",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/chair",
+    "textures": {
+        "0": "esperia:blocks/chair_oak"
+    }
+}

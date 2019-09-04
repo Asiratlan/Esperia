@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#SG",
+        " #P",
+        "  #"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_jungle",
+            "count": 3
+        },
+        "S": {
+            "item": "esperia:nails"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "P": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:jungle_stairs",
+        "count": 1
+    }
+}

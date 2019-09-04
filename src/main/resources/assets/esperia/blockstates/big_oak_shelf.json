@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:dark_oak_shelf"
+        },
+        "facing=south": {
+            "model": "esperia:dark_oak_shelf",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "esperia:dark_oak_shelf",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:dark_oak_shelf",
+            "y": 270
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+        {
+            "item": "esperia:alun_shard"
+        },
+        {
+            "item": "minecraft:double_plant",
+            "data": 0
+        },
+        {
+            "item": "minecraft:double_plant",
+            "data": 0
+        },
+        {
+            "item": "minecraft:double_plant",
+            "data": 0
+        },
+        {
+            "item": "minecraft:blaze_powder"
+        }, {
+            "type": "forge:ore_dict",
+            "ore": "water"
+        }
+
+    ],
+    "result": {
+        "item": "minecraft:dye",
+        "data": 1,
+        "count": 3
+    }
+}

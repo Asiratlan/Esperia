@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+		" P ",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+		"P": {
+            "item": "esperia:plank_acacia"
+        }
+    },
+    "result": {
+        "item": "esperia:acacia_block",
+        "count": 6
+    }
+}

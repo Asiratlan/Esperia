@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " H ",
+        "PEE",
+		"   "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"E": {
+            "item": "esperia:stick_iron"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:iron_sword_head",
+        "count": 1
+    }
+}

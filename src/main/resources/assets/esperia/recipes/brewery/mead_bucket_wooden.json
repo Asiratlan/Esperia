@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "C",
+        "S"
+    ],
+    "key": {
+        "S": {
+            "item": "esperia:wooden_bucket_honey"
+        },
+		"C": {
+            "item": "esperia:yeast",
+			"data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:wooden_bucket_mead",
+        "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "parent": "esperia:item/big_shield",
+    "textures": {
+        "layer0": "esperia:items/diamond_shield_full"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "esperia:item/diamond_shield_full_blocking"
+        }
+    ]
+}

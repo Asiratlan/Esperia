@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside_alt",
+    "textures": {
+        "pane": "esperia:blocks/robust_glass_black"
+    }
+}

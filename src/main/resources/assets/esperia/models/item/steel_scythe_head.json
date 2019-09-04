@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "esperia:items/steel_scythe_head"
+    }
+}
+

@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "M",
+        "S"
+    ],
+    "key": {
+        "S": {
+            "item": "esperia:flax"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:flax_seeds",
+        "count": 4
+    }
+}

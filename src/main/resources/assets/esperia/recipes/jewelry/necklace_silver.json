@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		" B ",
+		" M ",
+		"AAA"
+	],
+	"key": {
+      "M": {
+            "item": "esperia:stick_silver"
+        },
+       "A": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+       "B": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:silver_jewelry",
+		"data": 0,
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/table",
+    "textures": {
+        "0": "esperia:blocks/table_acacia"
+    }
+}

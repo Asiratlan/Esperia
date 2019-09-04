@@ -1,0 +1,21 @@
+{
+    "type": "esperia:tooldamage",
+    "pattern": [
+        "S",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:paper"
+        },
+        "S": {
+            "item": "minecraft:shears",
+            "data": 32767    
+        }
+    },
+    "result": {
+        "item": "esperia:wall_note",
+        "count": 1
+    }
+}

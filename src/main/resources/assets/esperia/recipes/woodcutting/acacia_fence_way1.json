@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "I L",
+        "#S#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_acacia"
+        },
+        "I": {
+            "item": "esperia:nails"
+        },
+		"S": {
+            "item": "esperia:stick_acacia"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_fence",
+        "count": 2
+    }
+}

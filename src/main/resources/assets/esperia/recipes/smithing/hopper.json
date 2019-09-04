@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PHP",
+        " P "
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plate_iron"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:hopper",
+        "count": 1
+    }
+}

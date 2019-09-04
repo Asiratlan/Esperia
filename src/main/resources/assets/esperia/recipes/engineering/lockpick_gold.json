@@ -1,0 +1,41 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EM",
+        "OOJ",
+        "GDW"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "M": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "O": {
+            "item": "esperia:stick_steel"
+        },
+        "J": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        },
+        "D": {
+            "item": "esperia:copper_nugget"
+        },
+        "W": {
+            "item": "esperia:tanned_leather"
+        }
+    },
+    "result": {
+        "item": "esperia:lockpick_gold",
+        "count": 1
+    }
+}

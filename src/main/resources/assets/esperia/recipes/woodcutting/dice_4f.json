@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+		"   ",
+        "HB "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+		"B": {
+            "type": "forge:ore_dict",
+            "ore": "wood_block"
+        }
+    },
+    "result": {
+        "item": "esperia:dice_4f",
+        "count": 1
+    }
+}

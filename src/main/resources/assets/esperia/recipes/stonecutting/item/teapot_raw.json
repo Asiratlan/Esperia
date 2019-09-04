@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    "result": {
+        "item": "esperia:teapot_raw",
+        "count": 1
+    }
+}

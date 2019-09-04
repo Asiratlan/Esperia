@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "O  ",
+        "B##",
+        "ESS"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_birch"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "B": {
+            "item": "esperia:nails"
+        },
+        "S": {
+            "item": "esperia:stick_birch"
+        }
+    },
+    "result": {
+        "item": "esperia:birch_stool",
+        "count": 1
+    }
+}

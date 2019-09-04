@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:coraline_ore/coraline_ore1"
+            }, {
+                "model": "esperia:coraline_ore/coraline_ore2"
+            }, {
+                "model": "esperia:coraline_ore/coraline_ore3"
+            }, {
+                "model": "esperia:coraline_ore/coraline_ore4"
+            }, {
+                "model": "esperia:coraline_ore/coraline_ore5"
+            }, {
+                "model": "esperia:coraline_ore/coraline_ore6"
+            }]
+    }
+}

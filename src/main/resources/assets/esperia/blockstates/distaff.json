@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "top=true": {
+            "model": "esperia:distaff_top"
+        },
+
+        "top=false": {
+            "model": "esperia:distaff"
+        }
+    }
+}

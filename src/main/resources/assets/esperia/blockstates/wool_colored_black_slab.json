@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "half=bottom": {
+            "model": "esperia:half_slab_wool_colored_black"
+        },
+        "half=top": {
+            "model": "esperia:upper_slab_wool_colored_black"
+        }
+    }
+}

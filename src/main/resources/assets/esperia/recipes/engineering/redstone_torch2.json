@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "/",
+        "E"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:cog"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "rod"
+        },
+        "E": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:redstone_torch",
+        "count": 1
+    }
+}

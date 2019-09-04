@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        "#S#",
+        " S "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "thread"
+        },
+        "E": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "S": {
+            "item": "esperia:cloth_sheet_white"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_underwear_f",
+        "count": 1
+    }
+}

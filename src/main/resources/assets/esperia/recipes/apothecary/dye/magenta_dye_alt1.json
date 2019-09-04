@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"B",
+		"A",
+		"P"
+	],
+	"key": {
+      "P": {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+      "A": {
+            "item": "minecraft:dye",
+			"data": 5
+        },
+       "B": {
+            "item": "minecraft:dye",
+			"data": 15
+        }
+    },
+    "result": {
+        "item": "minecraft:dye",
+        "data": 13,
+        "count": 2
+    }
+}

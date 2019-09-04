@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        " N ",
+        " J "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "item": "esperia:blow_pin"
+        },
+        "N": {
+            "item": "esperia:glass_tumbler_empty"
+        },
+        "J": {
+            "item": "esperia:molten_glass"
+        }
+    },
+    "result": {
+        "item": "esperia:glass_mug_empty",
+        "count": 1
+    }
+}

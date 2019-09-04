@@ -1,0 +1,60 @@
+{
+    "variants": {
+        "on_ground=true,rotation=0": {
+            "model": "esperia:yellow_ground_paper_lantern"
+        },
+        "on_ground=true,rotation=1": {
+            "model": "esperia:yellow_ground_paper_lantern_1"
+        },
+        "on_ground=true,rotation=2": {
+            "model": "esperia:yellow_ground_paper_lantern",
+            "y": 90
+        },
+        "on_ground=true,rotation=3": {
+            "model": "esperia:yellow_ground_paper_lantern_1",
+            "y": 90
+        },
+        "on_ground=true,rotation=4": {
+            "model": "esperia:yellow_ground_paper_lantern"
+        },
+        "on_ground=true,rotation=5": {
+            "model": "esperia:yellow_ground_paper_lantern_1"
+        },
+        "on_ground=true,rotation=6": {
+            "model": "esperia:yellow_ground_paper_lantern",
+            "y": 90
+        },
+        "on_ground=true,rotation=7": {
+            "model": "esperia:yellow_ground_paper_lantern_1",
+            "y": 90
+        },
+        "on_ground=false,rotation=0": {
+            "model": "esperia:yellow_paper_lantern"
+        },
+        "on_ground=false,rotation=1": {
+            "model": "esperia:yellow_paper_lantern_1"
+        },
+        "on_ground=false,rotation=2": {
+            "model": "esperia:yellow_paper_lantern",
+            "y": 90
+        },
+        "on_ground=false,rotation=3": {
+            "model": "esperia:yellow_paper_lantern_1",
+            "y": 90
+        },
+        "on_ground=false,rotation=4": {
+            "model": "esperia:yellow_paper_lantern"
+        },
+        "on_ground=false,rotation=5": {
+            "model": "esperia:yellow_paper_lantern_1"
+        },
+        "on_ground=false,rotation=6": {
+            "model": "esperia:yellow_paper_lantern",
+            "y": 90
+        },
+        "on_ground=false,rotation=7": {
+            "model": "esperia:yellow_paper_lantern_1",
+            "y": 90
+        }
+    }
+}

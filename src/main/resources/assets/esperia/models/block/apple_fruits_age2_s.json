@@ -1,0 +1,8 @@
+{
+    "ambientocclusion": false,
+    "parent": "esperia:block/fruits_age2_s",
+    "textures": {
+        "particle": "esperia:blocks/apple_fruits_stage_2",
+        "cocoa": "esperia:blocks/apple_fruits_stage_2"
+    }
+}

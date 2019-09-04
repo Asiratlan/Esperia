@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "facing=south,wall=false": {
+            "model": "esperia:birch_table_low"
+        },
+        "facing=north,wall=false": {
+            "model": "esperia:birch_table_low",
+            "y": 180
+        },
+        "facing=west,wall=false": {
+            "model": "esperia:birch_table_low",
+            "y": 90
+        },
+        "facing=east,wall=false": {
+            "model": "esperia:birch_table_low",
+            "y": 270
+        },
+        "facing=south,wall=true": {
+            "model": "esperia:birch_table_low_side"
+        },
+        "facing=north,wall=true": {
+            "model": "esperia:birch_table_low_side",
+            "y": 180
+        },
+        "facing=west,wall=true": {
+            "model": "esperia:birch_table_low_side",
+            "y": 90
+        },
+        "facing=east,wall=true": {
+            "model": "esperia:birch_table_low_side",
+            "y": 270
+        }
+    }
+}

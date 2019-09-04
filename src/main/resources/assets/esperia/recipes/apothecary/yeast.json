@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "C",
+        "F",
+		"B"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:brown_mushroom"
+        },
+        "F": {
+            "item": "minecraft:wheat"
+        },
+        "B": {
+            "item": "esperia:glass_jar_empty"
+        }
+    },
+    "result": {
+        "item": "esperia:yeast",
+        "count": 1
+    }
+}

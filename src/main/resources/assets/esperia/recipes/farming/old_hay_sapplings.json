@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "DSD",
+        "SDS",
+        "DSD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:dirt",
+            "data": 0
+        },
+		  "S": {
+            "item": "minecraft:sapling",
+			"data":  32767
+        }
+    },
+    "result": {
+        "item": "esperia:old_hay_block",
+        "count": 10
+    }
+}

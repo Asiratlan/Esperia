@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "# #",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    "result": {
+        "item": "esperia:ingot_mold",
+        "count": 10
+    }
+}

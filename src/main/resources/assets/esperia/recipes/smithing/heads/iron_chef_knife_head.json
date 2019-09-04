@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " H ",
+        " E ",
+		" P "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"E": {
+            "item": "esperia:iron_knife_head"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:iron_chef_knife_head",
+        "count": 1
+    }
+}

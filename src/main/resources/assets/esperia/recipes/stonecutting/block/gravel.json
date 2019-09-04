@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " #",
+        "EE",
+        "EE"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:stone_pebble"
+        }
+    },
+    "result": {
+        "item": "minecraft:gravel",
+        "count": 1
+    }
+}

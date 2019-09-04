@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:malachite_ore/malachite_ore1"
+            }, {
+                "model": "esperia:malachite_ore/malachite_ore2"
+            }, {
+                "model": "esperia:malachite_ore/malachite_ore3"
+            }, {
+                "model": "esperia:malachite_ore/malachite_ore4"
+            }, {
+                "model": "esperia:malachite_ore/malachite_ore5"
+            }, {
+                "model": "esperia:malachite_ore/malachite_ore6"
+            }]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EV",
+        "T T",
+        " iA"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "V": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "T": {
+            "type": "forge:ore_dict",
+            "ore": "plate"
+        },
+        "i": {
+            "type": "forge:ore_dict",
+            "ore": "ingot"
+        },
+        "A": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:hopper",
+        "count": 1
+    }
+}

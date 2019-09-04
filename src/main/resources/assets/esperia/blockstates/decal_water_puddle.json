@@ -1,0 +1,45 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:decal_water_puddle/decal_water_puddle1"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle2"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle3"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle4"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle5"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle6"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle7"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle8"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle9"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle10"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle11"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle12"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle13"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle14"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle15"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle16"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle17"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle18"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle19"
+            }, {
+                "model": "esperia:decal_water_puddle/decal_water_puddle20"
+            }]
+    }
+}

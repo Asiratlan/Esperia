@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "/": {
+            "item": "esperia:handle"
+        }
+    },
+    "result": {
+        "item": "minecraft:wooden_pickaxe",
+        "count": 1
+    }
+}

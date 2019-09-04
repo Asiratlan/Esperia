@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "pebble"
+        }
+    },
+    "result": {
+        "item": "minecraft:flint",
+        "count": 1
+    }
+}

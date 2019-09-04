@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "color=diorite": {
+            "model": "esperia:stone_diorite_slab_top"
+        },
+        "color=andesite": {
+            "model": "esperia:stone_andesite_slab_top"
+        },
+        "color=granite": {
+            "model": "esperia:stone_granite_slab_top"
+        },
+        "color=clay":{
+            "model": "minecraft:hardened_clay"     
+        },
+       "color=blue_slate":{
+            "model": "esperia:blue_slate"     
+        },
+       "color=clay_slate":{
+            "model": "esperia:clay_slate"     
+        }
+    }
+}

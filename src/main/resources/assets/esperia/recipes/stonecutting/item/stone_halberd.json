@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        "#/ ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "pebble"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "brick"
+        },
+        "/": {
+            "item": "esperia:pole"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_halberd",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "S M",
+        "PCP",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "C": {
+            "item": "esperia:nails"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_shell",
+        "count": 1
+    }
+}

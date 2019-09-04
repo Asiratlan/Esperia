@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:tourmaline_ore/tourmaline_ore1"
+            }, {
+                "model": "esperia:tourmaline_ore/tourmaline_ore2"
+            }, {
+                "model": "esperia:tourmaline_ore/tourmaline_ore3"
+            }, {
+                "model": "esperia:tourmaline_ore/tourmaline_ore4"
+            }, {
+                "model": "esperia:tourmaline_ore/tourmaline_ore5"
+            }, {
+                "model": "esperia:tourmaline_ore/tourmaline_ore6"
+            }]
+    }
+}

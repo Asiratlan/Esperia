@@ -1,0 +1,7 @@
+{
+    "parent": "esperia:item/handheld_long",
+    "textures": {
+        "layer0": "esperia:items/stone_battleaxe"
+    }
+}
+

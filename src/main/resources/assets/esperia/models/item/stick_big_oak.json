@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "esperia:items/stick_big_oak"
+    }
+}
+

@@ -1,0 +1,38 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EM",
+        "LKU",
+        "R  "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "M": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "L": {
+            "item": "esperia:simple_mecanism"
+        },
+        "K": {
+            "item": "esperia:cog"
+        },
+        "U": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:comparator",
+        "count": 1
+    }
+}

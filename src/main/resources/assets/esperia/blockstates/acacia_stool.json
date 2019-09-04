@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:acacia_stool"
+        },
+        "facing=south": {
+            "model": "esperia:acacia_stool",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "esperia:acacia_stool",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:acacia_stool",
+            "y": 270
+        }
+    }
+}

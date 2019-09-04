@@ -1,0 +1,39 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EW",
+        "MMC",
+        "PMR"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "W": {
+            "item": "esperia:magnifying_glass",
+			"data": 32767
+        },
+        "M": {
+            "item": "esperia:sophisticated_mecanism"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "R": {
+            "item": "esperia:nails"
+        },
+        "P": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+        "item": "minecraft:jukebox",
+        "count": 1
+    }
+}

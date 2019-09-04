@@ -1,0 +1,25 @@
+{
+   "type": "forge:ore_shaped",
+    "pattern": [
+        "PS ",
+        "L  ",
+        "   "
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plank_big_oak"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:stick_big_oak",
+        "count": 2
+    }
+}

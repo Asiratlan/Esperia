@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"LLL",
+        "SBK",
+		" B "
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:beetroot"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+			"ore": "water_large"
+        },
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "minecraft:beetroot_soup",
+		"count": 2
+    }
+}		

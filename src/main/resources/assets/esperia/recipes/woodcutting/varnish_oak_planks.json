@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        {
+            "item": "esperia:brush"
+        },
+        {
+            "item": "esperia:plank_oak"
+        },
+        {
+            "item": "esperia:varnish"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        {
+            "item": "esperia:nails"
+        }
+    ],
+    "result": {
+        "item": "esperia:planks_oak_varnish",
+        "count": 1
+    }
+}

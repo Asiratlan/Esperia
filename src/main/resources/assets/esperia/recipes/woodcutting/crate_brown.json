@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "MS"
+    ],
+    "key": {
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+        "item": "minecraft:brown_shulker_box",
+        "count": 1
+    }
+}

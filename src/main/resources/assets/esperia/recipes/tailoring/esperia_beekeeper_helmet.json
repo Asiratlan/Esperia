@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "E  ",
+        "YPY"
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:wax"
+        },
+        "Y": {
+            "type": "forge:ore_dict",
+            "ore": "cloth"
+        },
+        "P": {
+            "item": "esperia:leather_scrap"
+        }
+    },
+    "result": {
+        "item": "esperia:beekeeper_helmet",
+        "count": 1
+    }
+}

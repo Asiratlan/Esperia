@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side",
+    "textures": {
+        "edge": "esperia:blocks/robust_glass_pane_top",
+        "pane": "esperia:blocks/robust_glass_cyan"
+    }
+}

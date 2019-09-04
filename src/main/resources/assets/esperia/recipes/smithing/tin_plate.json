@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "EE",
+		"EE",
+        "PH"
+    ],
+    "key": {
+        "E": {
+            "item": "esperia:tin_nugget"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:plate_tin",
+        "count": 1
+    }
+}

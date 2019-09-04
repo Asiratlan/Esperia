@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "EEE",
+        "EEE"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+        "E": {
+            "item": "esperia:stone_pebble"
+        }
+    },
+    "result": {
+        "item": "minecraft:cobblestone_wall",
+        "data": 0,
+        "count": 2
+    }
+}

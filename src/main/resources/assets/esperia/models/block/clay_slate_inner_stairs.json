@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "esperia:blocks/clay_slate",
+        "top": "esperia:blocks/clay_slate",
+        "side": "esperia:blocks/clay_slate"
+    }
+}

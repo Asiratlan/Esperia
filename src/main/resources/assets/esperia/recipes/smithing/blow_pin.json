@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "# ",
+        "EN",
+        " B"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "N": {
+            "item": "esperia:stick_iron"
+        },
+        "B": {
+            "item": "esperia:leather_scrap"
+        }
+    },
+    "result": {
+        "item": "esperia:blow_pin",
+        "count": 1
+    }
+}

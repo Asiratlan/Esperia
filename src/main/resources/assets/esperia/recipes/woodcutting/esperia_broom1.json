@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "/E ",
+        "O/ ",
+        "  /"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "E": {
+            "item": "esperia:hemp"
+        },
+        "O": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "esperia:broom",
+        "count": 1
+    }
+}

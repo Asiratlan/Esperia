@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:turquoise_ore/turquoise_ore1"
+            }, {
+                "model": "esperia:turquoise_ore/turquoise_ore2"
+            }, {
+                "model": "esperia:turquoise_ore/turquoise_ore3"
+            }, {
+                "model": "esperia:turquoise_ore/turquoise_ore4"
+            }, {
+                "model": "esperia:turquoise_ore/turquoise_ore5"
+            }, {
+                "model": "esperia:turquoise_ore/turquoise_ore6"
+            }]
+    }
+}

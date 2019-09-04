@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "C",
+        "S",
+        "M"
+    ],
+    "key": {
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        },
+        "S": {
+            "item": "minecraft:reeds"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:sugar",
+        "count": 4
+    }
+}

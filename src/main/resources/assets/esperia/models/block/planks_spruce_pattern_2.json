@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "esperia:blocks/planks_spruce_pattern_2"
+    }
+}
+

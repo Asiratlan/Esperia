@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:glass_bottle_beer",
+            "data": 32767
+        },
+        {
+            "item": "esperia:glass_mug_empty"
+        }
+    ],
+    "result": {
+        "item": "esperia:glass_mug_beer"
+    }
+}

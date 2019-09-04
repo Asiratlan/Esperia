@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "C",
+		"L",
+        "K"
+    ],
+    "key": {
+        "C": {
+            "item": "esperia:lemon"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "milk_large"
+        },
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:cheese",
+		"count": 1
+    }
+}		

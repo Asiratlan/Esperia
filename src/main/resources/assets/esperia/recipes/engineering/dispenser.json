@@ -1,0 +1,44 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EV",
+        "NIM",
+        "FBO"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "V": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "N": {
+            "item": "esperia:simple_mecanism"
+        },
+        "I": {
+            "item": "esperia:complex_mecanism"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "F": {
+            "item": "minecraft:shulker_shell"
+        },
+        "B": {
+            "item": "esperia:cog"
+        },
+        "O": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:dispenser",
+        "count": 1
+    }
+}

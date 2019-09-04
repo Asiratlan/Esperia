@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "stage=0": {
+            "model": "esperia:camp_fire"
+        },
+        "stage=1": {
+            "model": "esperia:camp_fire"
+        },
+        "stage=2": {
+            "model": "esperia:camp_fire"
+        }
+    }
+}

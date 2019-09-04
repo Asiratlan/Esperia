@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        "SSS",
+        " J "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "knifeTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "minecraft:reeds"
+        },
+        "J": {
+           "type": "forge:ore_dict","ore": "water_large"
+        }
+    },
+    "result": {
+        "item": "esperia:paper_paste",
+        "count": 1
+    }
+}

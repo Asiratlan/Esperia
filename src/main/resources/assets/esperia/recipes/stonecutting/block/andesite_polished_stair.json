@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "  #",
+        " ##",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stone_andesite_slab_top"
+        }
+    },
+    "result": {
+        "item": "esperia:smooth_andesite_stairs",
+        "count": 8
+    }
+}

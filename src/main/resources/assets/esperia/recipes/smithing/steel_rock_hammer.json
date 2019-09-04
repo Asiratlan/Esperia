@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "EMC",
+        "HNH"
+    ],
+    "key": {
+        "H": {
+            "item": "esperia:handle"
+        },
+        "E": {
+            "item": "esperia:steel_hammer_head"
+        },
+        "C": {
+            "item": "esperia:steel_chisel_head"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "N": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:steel_rock_hammer",
+        "count": 1
+    }
+}

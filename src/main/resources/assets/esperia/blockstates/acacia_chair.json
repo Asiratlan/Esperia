@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:acacia_chair"
+        },
+        "facing=south": {
+            "model": "esperia:acacia_chair",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "esperia:acacia_chair",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:acacia_chair",
+            "y": 270
+        }
+    }
+}

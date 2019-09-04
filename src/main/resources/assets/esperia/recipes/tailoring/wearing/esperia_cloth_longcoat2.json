@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        " E ",
+        "BBB"
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:cloth_coat"
+        },
+        "B": {
+            "item": "esperia:tanned_leather"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_longcoat",
+        "count": 1
+    }
+}

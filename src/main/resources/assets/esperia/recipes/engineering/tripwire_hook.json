@@ -1,0 +1,43 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EK",
+        "TPJ",
+        "ZU "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "K": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "T": {
+            "type": "forge:ore_dict",
+            "ore": "thread"
+        },
+        "P": {
+            "item": "esperia:simple_mecanism"
+        },
+        "J": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "Z": {
+            "item": "esperia:nails"
+        },
+        "U": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        }
+    },
+    "result": {
+        "item": "minecraft:tripwire_hook",
+        "count": 1
+    }
+}

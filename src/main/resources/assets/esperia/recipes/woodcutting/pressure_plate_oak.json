@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#  ",
+        "EB "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "E": {
+            "item": "esperia:plank_oak"
+        },
+        "B": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:wooden_pressure_plate",
+        "count": 4
+    }
+}

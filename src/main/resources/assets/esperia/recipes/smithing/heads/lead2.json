@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        " G ",
+        "FFF"
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:leather_scrap"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "metal_nugget"
+        },
+        "F": {
+            "type": "forge:ore_dict",
+            "ore": "thread"
+        }
+    },
+    "result": {
+        "item": "minecraft:lead",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+        {
+            "item": "esperia:stone_hammer"
+        },
+        {
+            "item": "esperia:alun_shard"
+        },
+        {
+            "item": "minecraft:stained_hardened_clay",
+            "data": 4
+        }
+    ],
+    "result": {
+        "item": "minecraft:dye",
+        "data": 11,
+        "count": 1
+    }
+}

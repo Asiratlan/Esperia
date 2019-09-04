@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:item/shield_blocking",
+    "textures": {
+        "layer0": "esperia:items/gold_shield"
+    }
+}

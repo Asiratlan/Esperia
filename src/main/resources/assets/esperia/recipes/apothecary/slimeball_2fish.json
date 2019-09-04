@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "W"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:fish_trout_raw"
+        },
+        "W": {
+            "type": "forge:ore_dict",
+            "ore": "water"
+        }
+    },
+    "result": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+    }
+}

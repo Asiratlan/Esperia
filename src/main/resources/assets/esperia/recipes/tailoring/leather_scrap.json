@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:tanned_leather"
+        },
+		{
+            "item": "minecraft:shears",
+            "data": 32767    
+        }
+    ],
+    "result": {
+        "item": "esperia:leather_scrap",
+        "count": 4
+    }
+}

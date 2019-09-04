@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E",
+        "C/"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "knife"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:wood_mace",
+        "count": 1
+    }
+}

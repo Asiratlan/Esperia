@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "RMR",
+        "RCR",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:rail"
+        },
+        "C": {
+            "item": "esperia:rope"
+        },
+        "M": {
+            "item": "esperia:simple_mecanism"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_rail",
+        "count": 7
+    }
+}

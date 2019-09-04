@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:vine"
+        },
+        {
+            "item": "esperia:stone_wall_diorite"
+        }
+    ],
+    "result": {
+        "item": "minecraft:stone_wall_diorite_mossy",
+        "count": 1
+    }
+}

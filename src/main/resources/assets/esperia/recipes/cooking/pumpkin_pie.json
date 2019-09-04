@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "SC ",
+        "LPE"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "C": {
+            "item": "minecraft:pumpkin"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "milk_medium"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "P": {
+            "item": "esperia:dough"
+        }
+    },
+    "result": {
+        "item": "minecraft:pumpkin_pie",
+		"count": 1
+    }
+}		

@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:diorite_pebble"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone",
+        "data": 4,
+        "count": 1
+    }
+}

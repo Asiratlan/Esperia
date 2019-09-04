@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#S#",
+        "#S#",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "S": {
+            "item": "minecraft:planks",
+            "data": 0
+        },
+        "/": {
+            "item": "esperia:pole"
+        }
+    },
+    "result": {
+        "item": "esperia:wood_battlehammer",
+        "count": 1
+    }
+}

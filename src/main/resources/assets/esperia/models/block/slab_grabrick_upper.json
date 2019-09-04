@@ -1,0 +1,8 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "esperia:blocks/stonebrick_granite",
+        "top": "esperia:blocks/stonebrick_granite",
+        "side": "esperia:blocks/stonebrick_granite"
+    }
+}

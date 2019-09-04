@@ -1,0 +1,39 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EZ",
+        "NBO",
+        "CB "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "Z": {
+            "item": "esperia:magnifying_glass",
+			"data": 32767
+		},
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "N": {
+            "item": "esperia:copper_nugget"
+        },
+        "B": {
+            "item": "esperia:stick_copper"
+        },
+        "C": {
+            "item": "minecraft:blaze_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:brewing_stand",
+        "count": 1
+    }
+}

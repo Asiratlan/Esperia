@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#S"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "S": {
+            "item": "minecraft:red_sandstone",
+            "data": 2
+        }
+    },
+    "result": {
+        "item": "minecraft:red_sandstone",
+        "data": 1,
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:card_deck"
+        },
+          "facing=up": {
+            "model": "esperia:card_deck"
+        },
+          "facing=down": {
+            "model": "esperia:card_deck"
+        },
+        "facing=south": {
+            "model": "esperia:card_deck",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "esperia:card_deck",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:card_deck",
+            "y": 270
+        }
+    }
+}

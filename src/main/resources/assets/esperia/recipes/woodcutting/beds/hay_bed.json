@@ -1,0 +1,34 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EJ",
+        "WWW",
+        "PPP"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "J": {
+            "item": "esperia:nails"
+        },
+        "W": {
+            "item": "esperia:hay_slab",
+            "data": 0
+        },
+        "P": {
+            "item": "minecraft:wooden_slab",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:hay_bed",
+        "data": 0,
+        "count": 1
+    }
+}

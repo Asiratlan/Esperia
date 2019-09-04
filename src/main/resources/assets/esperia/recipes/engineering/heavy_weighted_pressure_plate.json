@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " I ",
+        "MPL"
+    ],
+    "key": {
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "I": {
+            "item": "esperia:plate_iron"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "minecraft:heavy_weighted_pressure_plate",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "bucket_cider"
+        },
+        {
+            "item": "esperia:glass_bottle_empty"
+        },
+        {
+            "item": "esperia:glass_bottle_empty"
+        }
+    ],
+    "result": {
+        "item": "esperia:glass_bottle_cider",
+		"count": 2
+    }
+}

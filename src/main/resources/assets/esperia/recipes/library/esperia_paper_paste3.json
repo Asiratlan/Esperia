@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        "DDD",
+        " B "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict","ore": "knifeTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "D": {
+            "item": "esperia:flax"
+        },
+        "B": {
+           "type": "forge:ore_dict","ore": "water_large"
+        }
+    },
+    "result": {
+        "item": "esperia:paper_paste",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside",
+    "textures": {
+        "pane": "esperia:blocks/robust_glass_cyan"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "LT",
+        "C "
+    ],
+    "key": {
+        "L": {
+            "item": "esperia:cocoa"
+        },
+        "T": {
+            "item": "esperia:teapot_hotmilk",
+            "data": 32767
+        },
+        "C": {
+            "item": "esperia:clay_mug_empty"
+        }
+    },
+    "result": {
+        "item": "esperia:clay_mug_hotcocoa"
+    }
+}		

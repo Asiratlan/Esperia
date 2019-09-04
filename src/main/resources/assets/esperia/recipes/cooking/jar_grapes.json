@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:glass_jar_empty"
+        },
+        {
+            "item": "esperia:grapes"
+        },
+		{
+            "item": "esperia:grapes"
+        },
+		{
+            "item": "esperia:grapes"
+        },
+		{
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "esperia:glass_jar_empty"
+        }
+    ],
+    "result": {
+        "item": "esperia:glass_jar_grapes",
+        "count": 1
+    }
+}

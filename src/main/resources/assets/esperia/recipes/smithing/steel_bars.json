@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        "///",
+        "///"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:stick_steel"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_bars",
+        "count": 8
+    }
+}

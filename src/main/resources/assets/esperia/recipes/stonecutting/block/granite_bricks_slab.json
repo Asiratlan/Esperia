@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:granite_brick"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_slab",
+        "data": 6,
+        "count": 1
+    }
+}

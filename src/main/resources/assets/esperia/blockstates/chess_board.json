@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "facing=west": {
+            "model": "esperia:chess_board",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=east": {
+            "model": "esperia:chess_board",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north": {
+            "model": "esperia:chess_board",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=south": {
+            "model": "esperia:chess_board",
+            "uvlock": false
+        }
+    }
+}

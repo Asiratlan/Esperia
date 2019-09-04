@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/agriculture/cep",
+    "textures": {
+        "crop": "esperia:blocks/agriculture/tomato_stage_4"
+    }
+}

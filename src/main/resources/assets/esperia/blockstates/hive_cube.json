@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "size=0": {
+            "model": "esperia:hive_cube"
+        },
+        "size=1": {
+            "model": "esperia:hive_cube"
+        },
+        "size=2": {
+            "model": "esperia:hive_cube"
+        },
+        "size=3": {
+            "model": "esperia:hive_cube"
+        },
+        "size=4": {
+            "model": "esperia:hive_cube"
+        },
+        "size=5": {
+            "model": "esperia:hive_cube"
+        },
+        "size=6": {
+            "model": "esperia:hive_cube"
+        },
+        "size=7": {
+            "model": "esperia:hive_cube"
+        },
+        "size=8": {
+            "model": "esperia:hive_cube"
+        }
+    }
+}

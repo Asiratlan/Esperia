@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "IMI",
+        "PHP",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plank_spruce"
+        },
+        "I": {
+            "item": "esperia:nails"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "H": {
+            "item": "esperia:shaft"
+        }
+    },
+    "result": {
+        "item": "minecraft:spruce_boat",
+        "count": 1
+    }
+}

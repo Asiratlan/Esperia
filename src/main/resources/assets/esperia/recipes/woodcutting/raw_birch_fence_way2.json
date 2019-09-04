@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "I L",
+        "#S#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:log",
+			"data": 2
+        },
+		"S": {
+            "item": "esperia:stick_birch"
+        },
+        "I": {
+            "item": "esperia:rope"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:birch_wood_fence",
+        "count": 4
+    }
+}

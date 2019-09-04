@@ -1,0 +1,16 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " #",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:diorite_pebble"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_diorite_stairs",
+        "count": 1
+    }
+}

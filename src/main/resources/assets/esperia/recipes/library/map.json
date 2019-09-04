@@ -1,0 +1,27 @@
+{
+    "type": "esperia:tooldamage",
+    "pattern": [
+        "##F",
+        "##E",
+        "##S"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:paper"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        },
+        "E": {
+            "item": "esperia:ink_sack"
+        },
+        "S": {
+            "item": "minecraft:shears",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "minecraft:map",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stonebrick_diorite"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_diorite_slab_top",
+        "count": 1
+    }
+}

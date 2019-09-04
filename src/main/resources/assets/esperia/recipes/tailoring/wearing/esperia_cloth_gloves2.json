@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "S S",
+        "E E"
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "E": {
+            "item": "esperia:tanned_leather"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_gloves",
+        "count": 1
+    }
+}

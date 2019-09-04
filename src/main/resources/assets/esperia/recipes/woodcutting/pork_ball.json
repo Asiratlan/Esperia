@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+		"HBL",
+        "   "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+		"B": {
+            "type": "forge:ore_dict",
+            "ore": "wood_block"
+        }
+    },
+    "result": {
+        "item": "esperia:petanque_pork_ball",
+        "count": 1
+    }
+}

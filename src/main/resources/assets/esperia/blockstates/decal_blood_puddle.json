@@ -1,0 +1,45 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle1"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle2"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle3"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle4"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle5"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle6"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle7"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle8"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle9"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle10"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle11"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle12"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle13"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle14"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle15"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle16"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle17"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle18"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle19"
+            }, {
+                "model": "esperia:decal_blood_puddle/decal_blood_puddle20"
+            }]
+    }
+}

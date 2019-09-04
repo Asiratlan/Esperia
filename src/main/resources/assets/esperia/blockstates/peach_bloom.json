@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "age=0": {
+            "model": "esperia:agriculture/peach_bloom0"
+        },
+        "age=1": {
+            "model": "esperia:agriculture/peach_bloom1"
+        },
+        "age=2": {
+            "model": "esperia:agriculture/peach_bloom2"
+        },
+        "age=3": {
+            "model": "esperia:agriculture/peach_bloom3"
+        },
+        "age=4": {
+            "model": "esperia:agriculture/peach_bloom4"
+        },
+        "age=5": {
+            "model": "esperia:agriculture/peach_bloom5"
+        },
+        "age=6": {
+            "model": "esperia:agriculture/peach_bloom6"
+        },
+        "age=7": {
+            "model": "esperia:agriculture/peach_bloom7"
+        }
+    }
+}

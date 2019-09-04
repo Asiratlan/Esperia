@@ -1,0 +1,48 @@
+{
+	"__comment": "Designed by Gauchiste with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"recto": "#0",
+		"verso": "#1"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "PlaneX1",
+			"from": [ 8, 0, 0 ],
+			"to": [ 8.05, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#recto" },
+				"east": { "uv": [ 0, 1, 16, 16 ], "texture": "#verso" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ -87, -104, -98 ],
+			"translation":  [ -2, 1, 1.5 ],
+			"scale":  [ 0.086, 0.35, 0.35 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -87, -104, -98 ],
+			"translation":  [ -2, 1, 1.5 ],
+			"scale":  [ -0.514, 0.35, -0.35 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -90, 17 ],
+			"translation":  [ 1, 3, -3 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, -90, 17 ],
+			"translation":  [ 1, 3, -3 ],
+			"scale":  [ -0.6, 0.6, -0.6 ]
+		},
+		"gui": {
+			"rotation":  [ 0, -90, 0 ],
+			"scale":  [ 0.625, 1.025, 1.025 ]
+		},
+		"ground": {
+			"rotation":  [ -28, 42, 44 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

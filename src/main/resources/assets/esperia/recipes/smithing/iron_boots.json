@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "SHS",
+        "PNP"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plate_iron"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "esperia:leather_scrap"
+        },
+        "N": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_boots",
+        "count": 1
+    }
+}

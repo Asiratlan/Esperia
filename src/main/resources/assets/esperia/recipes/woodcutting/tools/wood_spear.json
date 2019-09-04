@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "  #",
+        " / ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "/": {
+            "item": "esperia:pole"
+        }
+    },
+    "result": {
+        "item": "esperia:wood_spear",
+        "count": 1
+    }
+}

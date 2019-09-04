@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "esperia:old_hay_ball"
+        },
+        "axis=z": {
+            "model": "esperia:old_hay_ball",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "esperia:old_hay_ball",
+            "x": 90,
+            "y": 90
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "VTM",
+        "PAC",
+        "VTS"
+    ],
+    "key": {
+        "V": {
+            "item": "minecraft:stained_glass_pane",
+			"data":0
+        },
+		"T": {
+            "type": "forge:ore_dict",
+			"ore": "metal_nugget"
+        },
+		"M": {
+            "type": "forge:ore_dict",
+			"ore": "hammerTool"
+        },
+		"P": {
+            "type": "forge:ore_dict",
+			"ore": "plank"
+        },
+		"A": {
+            "item": "minecraft:clay_ball"
+        },
+		"C": {
+            "item": "esperia:nails"
+        },
+		"S": {
+            "type": "forge:ore_dict",
+			"ore": "sawTool"
+        }
+    },
+    "result": {
+        "item": "esperia:white_window",
+        "count": 1
+    }
+}

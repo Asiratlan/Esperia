@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "# E",
+        "TGT",
+        "TGT"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "T": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "G": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:rail",
+        "count": 4
+    }
+}

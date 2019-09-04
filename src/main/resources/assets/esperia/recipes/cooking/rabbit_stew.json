@@ -1,0 +1,33 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "LP ",
+		"OC ",
+        "BBK"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:rabbit"
+        },
+        "P": {
+            "item": "minecraft:potato"
+        },
+        "O": {
+            "item": "esperia:onion"
+        },
+        "C": {
+            "item": "minecraft:carrot"
+        },
+        "K": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        },
+        "B": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "minecraft:rabbit_stew",
+		"count": 2
+    }
+}		

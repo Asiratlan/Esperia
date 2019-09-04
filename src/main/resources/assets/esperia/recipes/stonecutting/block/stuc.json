@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#S#",
+        "PWP",
+        "PPP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:clay_ball"
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        },
+        "P": {
+            "item": "minecraft:sand",
+            "data": 32767
+        },
+        "W": {
+            "type": "forge:ore_dict",
+            "ore": "water"
+        }
+    },
+    "result": {
+        "item": "esperia:stuc",
+        "count": 8
+    }
+}

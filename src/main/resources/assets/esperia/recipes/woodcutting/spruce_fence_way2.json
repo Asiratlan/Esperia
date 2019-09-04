@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "I L",
+        "#S#",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_spruce"
+        },
+        "I": {
+            "item": "esperia:rope"
+        },
+		"S": {
+            "item": "esperia:stick_spruce"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:spruce_fence",
+        "count": 2
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"ingredients": {
+	},
+	"recipes": {
+		"tooldamage": "net.esperia.recipe.RecipesToolDamage$Factory"
+	}
+}

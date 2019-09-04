@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#CE",
+        "NM "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "M": {
+            "item": "minecraft:minecart"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest_minecart",
+        "count": 1
+    }
+}

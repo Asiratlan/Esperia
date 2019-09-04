@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#IE",
+        "WEE",
+        "WEE"
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "nugget"
+        },
+        "E": {
+            "item": "esperia:tanned_leather"
+        },
+        "W": {
+            "item": "esperia:leather_scrap"
+        }
+    },
+    "result": {
+        "item": "wearablebackpacks:backpack",
+        "count": 1
+    }
+}

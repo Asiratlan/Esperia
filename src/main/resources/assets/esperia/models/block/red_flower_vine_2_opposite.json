@@ -1,0 +1,25 @@
+﻿{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "esperia:blocks/red_flower_vine",
+        "red_flower_vine": "esperia:blocks/red_flower_vine"
+    },
+    "elements": [
+        {   "from": [ 15.2, 0, 0 ],
+            "to": [ 15.2, 16, 16 ],
+            "shade": false,
+            "faces": {
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#red_flower_vine", "tintindex": 0 },
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#red_flower_vine", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 0.8, 0, 0 ],
+            "to": [ 0.8, 16, 16 ],
+            "shade": false,
+            "faces": {
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#red_flower_vine", "tintindex": 0 },
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#red_flower_vine", "tintindex": 0 }
+            }
+        }
+    ]
+}

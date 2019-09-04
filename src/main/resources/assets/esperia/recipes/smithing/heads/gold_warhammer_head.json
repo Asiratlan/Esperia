@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " H ",
+        "PED",
+		"   "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"E": {
+            "item": "esperia:gold_hammer_head"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "D": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "esperia:gold_warhammer_head",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " S ",
+		"HP#",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:flint"
+        },
+		"H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+		"P": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:flint_and_steel",
+        "count": 1
+    }
+}

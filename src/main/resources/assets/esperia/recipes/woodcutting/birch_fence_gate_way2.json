@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "I L",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_birch"
+        },
+        "I": {
+            "item": "esperia:rope"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:birch_fence_gate",
+        "count": 2
+    }
+}

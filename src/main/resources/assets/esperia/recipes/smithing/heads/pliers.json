@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "# E",
+        "XVX"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammer"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "X": {
+            "item": "esperia:stick_steel"
+        },
+        "V": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:pliers",
+        "data": 32767,
+        "count": 1
+    }
+}

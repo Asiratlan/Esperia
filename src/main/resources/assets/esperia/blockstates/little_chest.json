@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "esperia:little_chest"
+        },
+        "facing=south": {
+            "model": "esperia:little_chest",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:little_chest",
+            "y": 180
+        },
+        "facing=north": {
+            "model": "esperia:little_chest",
+            "y": -90
+        }
+    }
+}

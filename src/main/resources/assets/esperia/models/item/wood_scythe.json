@@ -1,0 +1,7 @@
+{
+    "parent": "esperia:item/handheld_horizontal",
+    "textures": {
+        "layer0": "esperia:items/wood_scythe"
+    }
+}
+

@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "color=hay,half=bottom": {
+            "model": "esperia:hay_slab_half"
+        },
+        "color=hay,half=top": {
+            "model": "esperia:hay_slab_upper"
+        },
+        "color=oldhay,half=bottom": {
+            "model": "esperia:hay_old_slab_half"
+        },
+        "color=oldhay,half=top": {
+            "model": "esperia:hay_old_slab_upper"
+        }     
+    }
+}

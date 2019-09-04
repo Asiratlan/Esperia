@@ -1,0 +1,8 @@
+﻿{
+    "parent": "esperia:item/card",
+    "textures": {
+    	"0": "esperia:items/cards/card_recto",
+        "1": "esperia:items/cards/nine_spade"
+    }
+}
+

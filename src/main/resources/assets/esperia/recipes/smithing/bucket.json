@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " S ",
+        " PH",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "esperia:stick_iron"
+        },
+        "P": {
+            "item": "esperia:plate_iron"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:bucket",
+        "count": 1
+    }
+}

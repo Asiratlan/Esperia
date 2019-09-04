@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/trapdoor_bottom",
+    "textures": {
+        "texture": "esperia:blocks/acacia_trapdoor"
+    }
+}

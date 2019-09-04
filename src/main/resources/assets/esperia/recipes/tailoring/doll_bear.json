@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:doll"
+        },
+        {
+            "item": "esperia:wool_raw"
+        },
+        {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        {
+            "item": "minecraft:shears",
+            "data": 32767    
+        }
+    ],
+    "result": {
+        "item": "esperia:plush_bear",
+        "count": 1
+    }
+}

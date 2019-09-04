@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "L",
+        "C"
+    ],
+    "key": {
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "milk_medium"
+        },
+        "C": {
+            "item": "esperia:clay_mug_empty"
+        }
+    },
+    "result": {
+        "item": "esperia:clay_mug_milk"
+    }
+}		

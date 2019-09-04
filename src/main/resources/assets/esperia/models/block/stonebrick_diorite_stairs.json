@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "esperia:blocks/stonebrick_diorite",
+        "top": "esperia:blocks/stonebrick_diorite",
+        "side": "esperia:blocks/stonebrick_diorite"
+    }
+}

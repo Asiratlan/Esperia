@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PPC",
+        "  H",
+        "  i"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plate_iron"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "i": {
+            "item": "esperia:nails"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "metal_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_trapdoor",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:charoite_ore/charoite_ore1"
+            }, {
+                "model": "esperia:charoite_ore/charoite_ore2"
+            }, {
+                "model": "esperia:charoite_ore/charoite_ore3"
+            }, {
+                "model": "esperia:charoite_ore/charoite_ore4"
+            }, {
+                "model": "esperia:charoite_ore/charoite_ore5"
+            }, {
+                "model": "esperia:charoite_ore/charoite_ore6"
+            }]
+    }
+}

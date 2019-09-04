@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "ESE",
+        "EEE"
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:tanned_leather"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "thread"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_shirt",
+        "count": 1
+    }
+}

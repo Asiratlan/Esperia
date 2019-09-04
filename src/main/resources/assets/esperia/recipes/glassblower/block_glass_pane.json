@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        " E "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:molten_glass"
+        },
+        "E": {
+            "item": "esperia:blow_pin",
+			"data": 32767
+        }
+    },
+    "result": {
+        "item": "minecraft:glass_pane",
+        "count": 6
+    }
+}

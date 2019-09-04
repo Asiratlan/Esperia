@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "O"
+    ],
+    "key": {
+        "O": {
+            "item": "esperia:hay_slab",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "esperia:hay_layer",
+        "data": 0,
+        "count": 4
+    }
+}

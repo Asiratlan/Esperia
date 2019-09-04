@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:wax"
+        },
+        "E": {
+            "item": "esperia:glass_bottle_rum"
+        }
+    },
+    "result": {
+        "item": "esperia:varnish",
+        "count": 1
+    }
+}

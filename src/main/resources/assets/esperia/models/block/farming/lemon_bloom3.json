@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "esperia:blocks/farming/lemon_bloom3"
+    }
+}
+

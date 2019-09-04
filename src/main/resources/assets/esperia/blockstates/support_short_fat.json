@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "facing=west": {
+            "model": "esperia:support_short_fat",
+            "uvlock": false,
+            "y": 90
+        },
+        "facing=east": {
+            "model": "esperia:support_short_fat",
+            "uvlock": false,
+            "y": 270
+        },
+        "facing=north": {
+            "model": "esperia:support_short_fat",
+            "uvlock": false,
+            "y": 180
+        },
+        "facing=south": {
+            "model": "esperia:support_short_fat",
+            "uvlock": false
+        }
+    }
+}

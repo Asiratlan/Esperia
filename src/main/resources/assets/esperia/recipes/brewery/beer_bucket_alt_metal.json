@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:barley"
+        },
+        "E": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "esperia:metal_bucket_beer",
+        "count": 1
+    }
+}

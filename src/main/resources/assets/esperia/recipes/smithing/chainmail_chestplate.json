@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "CHC",
+        "CCC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "esperia:chain"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:chainmail_chestplate",
+        "count": 1
+    }
+}

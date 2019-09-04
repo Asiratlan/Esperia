@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "ETR",
+        " W "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:nails"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "T": {
+            "item": "esperia:plank_acacia"
+        },
+        "R": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "W": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        }
+    },
+    "result": {
+        "item": "esperia:planks_acacia_pattern_1",
+        "count": 1
+    }
+}

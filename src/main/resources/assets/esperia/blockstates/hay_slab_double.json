@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "color=hay": {
+            "model": "esperia:hay_block"
+        },
+        "color=oldhay": {
+            "model": "esperia:old_hay_block"
+        }      
+    }
+}

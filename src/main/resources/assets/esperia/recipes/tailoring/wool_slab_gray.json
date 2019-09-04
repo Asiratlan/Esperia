@@ -1,0 +1,25 @@
+{
+    "type": "esperia:tooldamage",
+    "pattern": [
+        "  I",
+        "  J",
+        " ##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:cloth_sheet_gray"
+        },
+        "I": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "J": {
+            "item": "minecraft:shears",
+            "data": 32767    
+        }
+    },
+    "result": {
+        "item": "esperia:wool_slab",
+        "data": 7,
+        "count": 1
+    }
+}

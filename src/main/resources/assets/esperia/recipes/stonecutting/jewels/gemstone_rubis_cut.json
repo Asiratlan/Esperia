@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "E": {
+            "item": "esperia:ruby_gemstone"
+        }
+    },
+    "result": {
+        "item": "esperia:ruby_cut",
+        "count": 1
+    }
+}

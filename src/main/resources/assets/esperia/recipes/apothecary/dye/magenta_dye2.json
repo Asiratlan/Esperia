@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"C",
+		"A",
+		"P"
+	],
+	"key": {
+      "P": {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+      "A": {
+            "item": "esperia:alun_shard"
+        },
+       "C": {
+            "item": "esperia:charoite_gemstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:dye",
+        "data": 13,
+        "count": 50
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EM",
+        " H ",
+        "X  "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "H": {
+            "item": "esperia:molten_glass"
+        },
+        "X": {
+            "type": "forge:ore_dict",
+            "ore": "metal_stick"
+        }
+    },
+    "result": {
+        "item": "esperia:magnifying_glass",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:amethyst_ore/amethyst_ore1"
+            }, {
+                "model": "esperia:amethyst_ore/amethyst_ore2"
+            }, {
+                "model": "esperia:amethyst_ore/amethyst_ore3"
+            }, {
+                "model": "esperia:amethyst_ore/amethyst_ore4"
+            }, {
+                "model": "esperia:amethyst_ore/amethyst_ore5"
+            }, {
+                "model": "esperia:amethyst_ore/amethyst_ore6"
+            }]
+    }
+}

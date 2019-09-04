@@ -1,0 +1,35 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#/E",
+        "/L/",
+        "B/S"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "E": {
+            "item": "esperia:nails"
+        },
+        "L": {
+            "item": "esperia:cloth_sheet_white"
+        },
+        "B": {
+            "item": "minecraft:dye",
+            "data": 15
+        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result": {
+        "item": "minecraft:painting",
+        "count": 1
+    }
+}

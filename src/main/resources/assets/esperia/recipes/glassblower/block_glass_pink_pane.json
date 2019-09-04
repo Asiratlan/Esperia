@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " B ",
+        "###",
+        " E "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:molten_glass"
+        },
+        "B": {
+            "item": "minecraft:dye",
+            "data": 9
+        },
+        "E": {
+            "item": "esperia:blow_pin",
+			"data": 32767
+        }
+    },
+    "result": {
+        "item": "minecraft:stained_glass_pane",
+        "data": 6,
+        "count": 6
+    }
+}

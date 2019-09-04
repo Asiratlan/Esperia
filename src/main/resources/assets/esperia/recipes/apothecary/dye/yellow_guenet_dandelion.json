@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+        {
+            "item": "esperia:alun_shard"
+        },
+        {
+            "item": "minecraft:yellow_flower",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "minecraft:dye",
+        "data": 11,
+        "count": 1
+    }
+}

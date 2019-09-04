@@ -1,0 +1,31 @@
+{
+    "variants": {
+        "size=0": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=1": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=2": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=3": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=4": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=5": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=6": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=7": {
+            "model": "esperia:empty_barrel"
+        },
+        "size=8": {
+            "model": "esperia:empty_barrel"
+        }
+    }
+}

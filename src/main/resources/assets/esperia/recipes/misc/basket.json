@@ -1,0 +1,18 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " S ",
+        "SSS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:basket",
+        "count": 1
+    }
+}

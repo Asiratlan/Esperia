@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##C",
+        "##H",
+        "##i"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stick_iron"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "i": {
+            "item": "esperia:nails"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "metal_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_door",
+        "count": 1
+    }
+}

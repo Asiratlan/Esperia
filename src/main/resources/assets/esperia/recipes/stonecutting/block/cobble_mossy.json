@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:vine"
+        },
+        {
+            "item": "minecraft:cobblestone"
+        }
+    ],
+    "result": {
+        "item": "minecraft:mossy_cobblestone",
+        "count": 1
+    }
+}

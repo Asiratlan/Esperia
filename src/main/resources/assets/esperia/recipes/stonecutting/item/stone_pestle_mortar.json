@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "E#E",
+        " E "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "pebble"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "brick"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_pestle_mortar",
+        "count": 1
+    }
+}

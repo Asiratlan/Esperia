@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "SSS",
+        "SSS",
+        "SMS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:wheat_seeds"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        }
+    },
+    "result": {
+        "item": "esperia:flour",
+        "count": 1
+    }
+}

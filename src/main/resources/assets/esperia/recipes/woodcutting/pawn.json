@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+		" B ",
+        " L "
+    ],
+    "key": {
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+		"B": {
+            "type": "forge:ore_dict",
+            "ore": "wood_block"
+        }
+    },
+    "result": {
+        "item": "esperia:pawn",
+        "count": 1
+    }
+}

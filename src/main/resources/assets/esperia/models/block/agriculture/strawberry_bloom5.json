@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "esperia:blocks/agriculture/strawberry_bloom5"
+    }
+}
+

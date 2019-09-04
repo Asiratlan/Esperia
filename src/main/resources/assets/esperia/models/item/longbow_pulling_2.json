@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:item/longbow",
+    "textures": {
+        "layer0": "esperia:items/longbow_pulling_2"
+    }
+}

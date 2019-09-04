@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        "#D#",
+        "#_#"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "pebble"
+        },
+        "E": {
+            "item": "esperia:plate_iron"
+        },
+        "D": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+        "_": {
+            "item": "minecraft:stone_slab",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "minecraft:furnace",
+        "count": 1
+    }
+}

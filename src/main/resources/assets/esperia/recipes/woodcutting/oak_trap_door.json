@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PN ",
+        "CS ",
+        "   "
+    ],
+    "key": {
+        "P":{
+            "item": "esperia:plank_oak",
+            "count": 4
+        },
+        "N":{
+            "type": "forge:ore_dict",
+            "ore": "metal_nugget"
+        },
+        "C":{
+            "item": "esperia:nails"
+        },
+        "S":{
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:trapdoor",
+        "count": 1
+    }
+}

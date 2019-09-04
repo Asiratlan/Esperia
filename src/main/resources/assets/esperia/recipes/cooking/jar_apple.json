@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:glass_jar_empty"
+        },
+        {
+            "item": "minecraft:apple"
+        },
+		{
+            "item": "minecraft:apple"
+        },
+		{
+            "item": "minecraft:apple"
+        },
+		{
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "esperia:glass_jar_empty"
+        }
+    ],
+    "result": {
+        "item": "esperia:glass_jar_apple",
+        "count": 1
+		
+    }
+}

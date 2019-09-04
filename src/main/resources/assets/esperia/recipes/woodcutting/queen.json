@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+		" BL",
+        "   "
+    ],
+    "key": {
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+		"B": {
+            "type": "forge:ore_dict",
+            "ore": "wood_block"
+        }
+    },
+    "result": {
+        "item": "esperia:queen",
+        "count": 1
+    }
+}

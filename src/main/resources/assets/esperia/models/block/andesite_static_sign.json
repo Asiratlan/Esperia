@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/sign",
+    "textures": {
+        "0": "esperia:blocks/sign_simple_andesite"
+    }
+}

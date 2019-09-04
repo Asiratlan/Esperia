@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "color=slate": {
+            "model": "esperia:slate"
+        },
+        "color=diorite": {
+            "model": "diorite_smooth"
+        },
+        "color=andesite": {
+            "model": "andesite_smooth"
+        },
+        "color=granite": {
+            "model": "granite_smooth"
+        },
+        "color=diobrick": {
+            "model": "esperia:stonebrick_diorite"
+        },
+        "color=andebrick": {
+            "model": "esperia:stonebrick_andesite"
+        },
+        "color=grabrick": {
+            "model": "esperia:stonebrick_granite"
+        }
+    }
+}

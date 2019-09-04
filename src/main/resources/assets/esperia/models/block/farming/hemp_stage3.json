@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "esperia:blocks/farming/hemp_stage_4"
+    }
+}

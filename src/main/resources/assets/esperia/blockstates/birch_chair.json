@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:birch_chair"
+        },
+        "facing=south": {
+            "model": "esperia:birch_chair",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "esperia:birch_chair",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:birch_chair",
+            "y": 270
+        }
+    }
+}

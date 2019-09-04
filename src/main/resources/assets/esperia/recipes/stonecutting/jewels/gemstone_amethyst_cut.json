@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "E": {
+            "item": "esperia:amethyst_gemstone"
+        }
+    },
+    "result": {
+        "item": "esperia:amethyst_cut",
+        "count": 1
+    }
+}

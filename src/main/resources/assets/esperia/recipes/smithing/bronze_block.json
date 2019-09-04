@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "eee",
+        "eee",
+        "eee"
+    ],
+    "key": {
+        "e": {
+            "item": "esperia:ingot_bronze"
+        }
+    },
+    "result": {
+        "item": "esperia:bronze_block",
+        "count": 1
+    }
+}

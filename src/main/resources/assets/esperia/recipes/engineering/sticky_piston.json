@@ -1,0 +1,35 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EW",
+        "S T",
+        "P  "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "W": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "S": {
+            "item": "minecraft:slime_ball"
+        },
+        "T": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "P": {
+            "item": "minecraft:piston"
+        }
+    },
+    "result": {
+        "item": "minecraft:sticky_piston",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "M",
+        "S"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:wheat"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "minecraft:wheat_seeds",
+        "count": 4
+    }
+}

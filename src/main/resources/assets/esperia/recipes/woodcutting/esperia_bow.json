@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " /E",
+        "/ E",
+        " /E"
+    ],
+    "key": {
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "thread"
+        }
+    },
+    "result": {
+        "item": "minecraft:bow",
+        "count": 1
+    }
+}

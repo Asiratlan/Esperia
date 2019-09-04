@@ -1,0 +1,44 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EL",
+        "WJG",
+        "FBD"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "L": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "W": {
+            "item": "esperia:simple_mecanism"
+        },
+        "J": {
+            "item": "esperia:complex_mecanism"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "F": {
+            "item": "minecraft:shulker_shell"
+        },
+        "B": {
+            "item": "esperia:stick_iron"
+        },
+        "D": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:dropper",
+        "count": 1
+    }
+}

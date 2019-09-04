@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "esperia:blocks/cupboard_top",
+        "front": "#0",
+        "side": "esperia:blocks/cupboard_side"
+    }
+}

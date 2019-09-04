@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "esperia:log_birch_mossy"
+        },
+        "axis=z": {
+            "model": "esperia:log_birch_mossy",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "esperia:log_birch_mossy",
+            "x": 90,
+            "y": 90
+        },
+        "axis=none": {
+            "model": "birch_bark"
+        }
+    }
+}

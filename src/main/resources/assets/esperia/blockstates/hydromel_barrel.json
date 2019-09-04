@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "size=0": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=1": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=2": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=3": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=4": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=5": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=6": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=7": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=8": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=9": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=10": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=11": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=12": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=13": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=14": {
+            "model": "esperia:hydromel_barrel"
+        },
+        "size=15": {
+            "model": "esperia:hydromel_barrel"
+        }  
+    }
+}

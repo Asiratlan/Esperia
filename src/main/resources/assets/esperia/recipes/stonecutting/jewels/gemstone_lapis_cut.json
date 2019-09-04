@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "#E#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "E": {
+            "item": "esperia:lapis_lazuli_raw"
+        }
+    },
+    "result": {
+        "item": "esperia:lapis_lazuli",
+        "count": 1
+    }
+}

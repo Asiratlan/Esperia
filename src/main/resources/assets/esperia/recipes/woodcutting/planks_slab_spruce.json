@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+        "##E",
+        " SV"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:plank_spruce"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "V": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:wooden_slab",
+        "data": 1,
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "T",
+        "C"
+    ],
+    "key": {
+        "T": {
+            "item": "minecraft:pumpkin_pie"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "chef_knifeTool"
+        }
+    },
+    "result": {
+        "item": "esperia:pumpkin_pie_slice",
+		"count": 4
+    }
+}		

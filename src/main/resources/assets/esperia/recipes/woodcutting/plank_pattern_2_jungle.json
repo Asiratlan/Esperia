@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "ELG",
+        " J "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "L": {
+            "item": "esperia:plank_jungle"
+        },
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "J": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:planks_jungle_pattern_2",
+        "count": 1
+    }
+}

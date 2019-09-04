@@ -1,0 +1,33 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "HBB",
+		"SBB",
+        "LE "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"B": {
+            "type": "forge:ore_dict",
+            "ore": "wood_block"
+        },
+		"L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+		"S": {
+            "item": "minecraft:slime_ball"
+        },
+		"E": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        }
+    },
+    "result": {
+        "item": "esperia:chess_board",
+        "count": 1
+    }
+}

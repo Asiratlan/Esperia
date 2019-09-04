@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        " R ",
+        " R "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "item": "esperia:blow_pin"
+        },
+        "R": {
+            "item": "esperia:molten_glass"
+        }
+    },
+    "result": {
+        "item": "minecraft:glass_bottle",
+        "count": 1
+    }
+}

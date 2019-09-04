@@ -1,0 +1,19 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "R",
+		"H"
+    ],
+    "key": {
+        "R": {
+            "item": "esperia:rope"
+        },
+		  "H": {
+        "item": "esperia:hay_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:hay_block",
+        "count": 1
+    }
+}

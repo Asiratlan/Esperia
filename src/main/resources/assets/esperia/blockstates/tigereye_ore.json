@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:tigereye_ore/tigereye_ore1"
+            }, {
+                "model": "esperia:tigereye_ore/tigereye_ore2"
+            }, {
+                "model": "esperia:tigereye_ore/tigereye_ore3"
+            }, {
+                "model": "esperia:tigereye_ore/tigereye_ore4"
+            }, {
+                "model": "esperia:tigereye_ore/tigereye_ore5"
+            }, {
+                "model": "esperia:tigereye_ore/tigereye_ore6"
+            }]
+    }
+}

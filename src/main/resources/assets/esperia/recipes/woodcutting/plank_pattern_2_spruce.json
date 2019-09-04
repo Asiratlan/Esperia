@@ -1,0 +1,32 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "ESU",
+        " A "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "esperia:plank_spruce"
+        },
+        "U": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "A": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:planks_spruce_pattern_2",
+        "count": 1
+    }
+}

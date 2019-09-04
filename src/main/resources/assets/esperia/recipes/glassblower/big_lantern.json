@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#G#",
+        "GEG",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stick_iron"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:big_lantern_off",
+        "count": 1
+    }
+}

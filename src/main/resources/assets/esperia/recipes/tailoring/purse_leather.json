@@ -1,0 +1,27 @@
+{
+    "type": "esperia:tooldamage",
+    "pattern": [
+        "HXI",
+        "# #",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:tanned_leather"
+        },
+        "I": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "H": {
+            "item": "minecraft:shears",
+            "data": 32767    
+        },
+        "X": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "esperia:purse_leather",
+        "count": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:glass_jar_milk"
+        }
+    ],
+    "result": {
+        "item": "esperia:butter"
+    }
+}

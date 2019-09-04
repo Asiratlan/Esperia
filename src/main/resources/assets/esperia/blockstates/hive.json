@@ -1,0 +1,48 @@
+{
+    "variants": {
+        "facing=down,size=0": {
+            "model": "esperia:hive_center"
+        },
+        "facing=down,size=1": {
+            "model": "esperia:hive_center"
+        },
+        "facing=up,size=0": {
+            "model": "esperia:hive_center"
+        },
+        "facing=up,size=1": {
+            "model": "esperia:hive_center"
+        },
+        "facing=north,size=0": {
+            "model": "esperia:hive",
+            "y": 90
+        },
+        "facing=north,size=1": {
+            "model": "esperia:hive",
+            "y": 90
+        },
+        "facing=south,size=0": {
+            "model": "esperia:hive",
+            "y": 270
+        },
+        "facing=south,size=1": {
+            "model": "esperia:hive",
+            "y": 270
+        },
+        "facing=east,size=0": {
+            "model": "esperia:hive",
+            "y": 180
+        },
+        "facing=east,size=1": {
+            "model": "esperia:hive",
+            "y": 180
+        },
+        "facing=west,size=0": {
+            "model": "esperia:hive",
+            "y": 0
+        },
+        "facing=west,size=1": {
+            "model": "esperia:hive",
+            "y": 0
+        }
+    }
+}

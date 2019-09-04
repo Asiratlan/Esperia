@@ -1,0 +1,7 @@
+{
+    "parent": "esperia:block/door_bottom",
+    "textures": {
+        "bottom": "esperia:blocks/shutter_jungle_lower",
+        "top": "esperia:blocks/shutter_jungle_upper"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "powered=false": {
+            "model": "esperia:pressure_plate_acacia_up"
+        },
+        "powered=true": {
+            "model": "esperia:pressure_plate_acacia_down"
+        }
+    }
+}

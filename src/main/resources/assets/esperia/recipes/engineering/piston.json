@@ -1,0 +1,42 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EW",
+        "MSC",
+        "PMR"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "W": {
+            "item": "esperia:magnifying_glass",
+			"data": 32767
+        },
+        "M": {
+            "item": "esperia:simple_mecanism"
+        },
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "R": {
+            "item": "esperia:nails"
+        },
+        "P": {
+            "item": "minecraft:shulker_shell"
+        },
+        "S": {
+            "item": "esperia:stick_iron"
+        }
+    },
+    "result": {
+        "item": "minecraft:piston",
+        "count": 1
+    }
+}

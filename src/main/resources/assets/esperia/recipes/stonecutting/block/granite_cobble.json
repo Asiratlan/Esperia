@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:granite_pebble"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone",
+        "data": 2,
+        "count": 1
+    }
+}

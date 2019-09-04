@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "MSB"
+    ],
+    "key": {
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        }
+    },
+    "result": {
+        "item": "esperia:wooden_cupboard",
+        "count": 1
+    }
+}

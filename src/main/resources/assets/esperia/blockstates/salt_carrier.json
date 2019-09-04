@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "age=0": {
+            "model": "minecraft:sand"
+        },
+        "age=1": {
+            "model": "minecraft:sand"
+        },
+        "age=2": {
+            "model": "minecraft:sand"
+        },
+        "age=3": {
+            "model": "minecraft:sand"
+        },
+        "age=4": {
+            "model": "minecraft:sand"
+        },
+        "age=5": {
+            "model": "minecraft:sand"
+        },
+        "age=6": {
+            "model": "minecraft:sand"
+        },
+        "age=7": {
+            "model": "esperia:salt_carrier"
+        }
+    }
+}

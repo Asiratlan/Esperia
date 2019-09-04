@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:andesite_pebble"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone",
+        "data": 6,
+        "count": 1
+    }
+}

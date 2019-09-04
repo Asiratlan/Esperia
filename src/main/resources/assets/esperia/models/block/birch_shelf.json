@@ -1,0 +1,6 @@
+{
+    "parent": "esperia:block/shelf",
+    "textures": {
+        "0": "esperia:blocks/shelf_birch"
+    }
+}

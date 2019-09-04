@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        "FFS",
+        "FF "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "thread"
+        },
+        "F": {
+            "item": "esperia:paper_wet"
+        },
+        "S": {
+            "item": "minecraft:shears",
+            "data": 32767    
+        }
+    },
+    "result": {
+        "item": "esperia:book_wet",
+        "count": 1
+    }
+}

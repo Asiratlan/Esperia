@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "   ",
+        "#P#",
+        "E  "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stick_iron"
+        },
+        "P": {
+            "item": "minecraft:stained_glass_pane",
+            "data": 6
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    },
+    "result": {
+        "item": "esperia:robust_glass_pane_pink",
+        "count": 1
+    }
+}

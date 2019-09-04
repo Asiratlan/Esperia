@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " N ",
+        "PPP",
+        "PHP"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:tanned_leather"
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "H": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        }
+    },
+    "result": {
+        "item": "minecraft:leather_helmet",
+        "count": 1
+    }
+}

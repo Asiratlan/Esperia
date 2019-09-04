@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "IOI",
+        "ISI",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:apple"
+        },
+		"S": {
+            "item": "minecraft:bucket"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+			"ore": "water_large"
+		}
+    },
+    "result": {
+        "item": "esperia:metal_bucket_apple",
+        "count": 1
+    }
+}

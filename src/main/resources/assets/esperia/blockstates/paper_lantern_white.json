@@ -1,0 +1,47 @@
+{
+    "variants": {
+        "orientation=0,position=bottom": {
+            "model": "esperia:white_ground_paper_lantern"
+        },
+        "orientation=1,position=bottom": {
+            "model": "esperia:white_ground_paper_lantern",
+            "y": 90
+        },
+        "orientation=2,position=bottom": {
+            "model": "esperia:white_ground_paper_lantern_1",
+            "y": 90
+        },
+        "orientation=3,position=bottom": {
+            "model": "esperia:white_ground_paper_lantern_1"
+        },
+        "orientation=0,position=wall": {
+            "model": "esperia:white_wall_paper_lantern",
+            "y": 180
+        },
+        "orientation=1,position=wall": {
+            "model": "esperia:white_wall_paper_lantern",
+            "y": 270
+        },
+        "orientation=2,position=wall": {
+            "model": "esperia:white_wall_paper_lantern"
+        },
+        "orientation=3,position=wall": {
+            "model": "esperia:white_wall_paper_lantern",
+            "y": 90
+        },
+        "orientation=0,position=top": {
+            "model": "esperia:white_paper_lantern"
+        },
+        "orientation=1,position=top": {
+            "model": "esperia:white_paper_lantern",
+            "y": 90
+        },
+        "orientation=2,position=top": {
+            "model": "esperia:white_paper_lantern_1",
+            "y": 90
+        },
+        "orientation=3,position=top": {
+            "model": "esperia:white_paper_lantern_1"
+        }
+    }
+}

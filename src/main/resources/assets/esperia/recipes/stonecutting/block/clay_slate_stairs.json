@@ -1,0 +1,23 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#HN",
+        "## "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:clay_slate_tile"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "N": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:clay_slate_stairs",
+        "count": 1
+    }
+}

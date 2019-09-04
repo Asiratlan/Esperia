@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#",
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+        "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "esperia:rope",
+        "count": 1
+    }
+}

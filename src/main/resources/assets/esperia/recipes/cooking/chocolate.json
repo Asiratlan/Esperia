@@ -1,0 +1,24 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "CCC",
+		" S ",
+        " M "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "M": {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+        "C": {
+            "item": "esperia:cocoa"
+        }
+    },
+    "result": {
+        "item": "esperia:chocolate",
+		"count": 3
+    }
+}		

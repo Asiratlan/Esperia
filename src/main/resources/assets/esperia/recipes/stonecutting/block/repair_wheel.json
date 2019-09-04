@@ -1,0 +1,33 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PPP",
+		"NTN",
+        "S H"
+    ],
+    "key": {
+        "P": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "T": {
+            "type": "forge:ore_dict",
+            "ore": "table"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "sawTool"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "repair_wheel",
+        "count": 1
+    }
+}

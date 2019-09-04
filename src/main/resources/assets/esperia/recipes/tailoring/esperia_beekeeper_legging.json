@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "# ",
+        "EJ",
+        "I "
+    ],
+    "key": {
+        "#": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "E": {
+            "item": "esperia:wax"
+        },
+        "J": {
+            "item": "esperia:cloth_trousers"
+        },
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "cloth"
+        }
+    },
+    "result": {
+        "item": "esperia:beekeeper_legging",
+        "count": 1
+    }
+}

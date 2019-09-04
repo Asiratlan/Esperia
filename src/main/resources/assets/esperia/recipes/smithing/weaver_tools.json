@@ -1,0 +1,27 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:tanned_leather"
+        },
+        {
+            "item": "minecraft:shears"  
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "nugget"
+        },
+        {
+            "item": "esperia:pliers",
+            "data": 32767
+        }
+    ],
+    "result": {
+        "item": "esperia:weaver_tools",
+        "count": 1
+    }
+}

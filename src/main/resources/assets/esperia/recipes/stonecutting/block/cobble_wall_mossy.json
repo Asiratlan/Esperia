@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:vine"
+        },
+        {
+            "item": "minecraft:cobblestone_wall",
+            "data": 0
+        }
+    ],
+    "result": {
+        "item": "minecraft:cobblestone_wall",
+        "data": 1,
+        "count": 1
+    }
+}

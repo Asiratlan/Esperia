@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "knifeTool"
+        }
+    ],
+    "result": {
+        "item": "esperia:dice_6f",
+        "count": 1
+    }
+}

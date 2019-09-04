@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "//E",
+        "/ E",
+        "//E"
+    ],
+    "key": {
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "E": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "esperia:longbow",
+        "count": 1
+    }
+}

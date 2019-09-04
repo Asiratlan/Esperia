@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "E/O"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:stone_brick"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:sign_stone",
+        "count": 3
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:coal",
+            "data": 0
+        },
+        {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+        {
+            "item": "esperia:alun_shard"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dye",
+        "data": 0,
+        "count": 4
+    }
+}

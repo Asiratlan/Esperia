@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " H ",
+        "PED",
+		"   "
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"E": {
+            "item": "esperia:iron_mace_head"
+        },
+        "P": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+		"D": {
+            "item": "esperia:iron_spear_head"
+        }
+    },
+    "result": {
+        "item": "esperia:iron_halberd_head",
+        "count": 1
+    }
+}

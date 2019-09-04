@@ -1,0 +1,7 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "esperia:blocks/agriculture/chestnut_bloom7"
+    }
+}
+

@@ -1,0 +1,6 @@
+﻿{
+    "parent": "esperia:block/showcaseleft",
+    "textures": {
+        "0": "esperia:blocks/showcase_black"
+    }
+}

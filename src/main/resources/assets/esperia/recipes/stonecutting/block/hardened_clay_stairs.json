@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [  
+        "#  ",
+        "##J",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:hardened_clay"
+        },
+        "J": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:hardened_clay_stairs",
+        "count": 8
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "esperia:jungle_stool"
+        },
+        "facing=south": {
+            "model": "esperia:jungle_stool",
+            "y": 180
+        },
+        "facing=east": {
+            "model": "esperia:jungle_stool",
+            "y": 90
+        },
+        "facing=west": {
+            "model": "esperia:jungle_stool",
+            "y": 270
+        }
+    }
+}

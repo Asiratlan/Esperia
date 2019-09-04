@@ -1,0 +1,17 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:hempen_thread"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_sheet_white",
+        "count": 4
+    }
+}

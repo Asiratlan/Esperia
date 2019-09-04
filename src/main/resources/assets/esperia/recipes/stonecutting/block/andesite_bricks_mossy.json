@@ -1,0 +1,15 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:vine"
+        },
+        {
+            "item": "esperia:stonebrick_andesite"
+        }
+    ],
+    "result": {
+        "item": "esperia:stonebrick_andesite_mossy",
+        "count": 1
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "EMP",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "M": {
+            "item": "esperia:timber_block"
+        },
+        "P": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:timber_block_horizontal",
+        "count": 1
+    }
+}

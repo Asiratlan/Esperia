@@ -1,0 +1,45 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle1"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle2"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle3"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle4"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle5"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle6"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle7"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle8"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle9"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle10"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle11"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle12"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle13"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle14"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle15"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle16"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle17"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle18"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle19"
+            }, {
+                "model": "esperia:decal_mud_puddle/decal_mud_puddle20"
+            }]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"S",
+		"P"
+	],
+	"key": {
+      "P": {
+            "type": "forge:ore_dict",
+            "ore": "pestle_mortarTool"
+        },
+      "S": {
+            "item": "esperia:salt_shard"
+        }
+    },
+    "result": {
+        "item": "esperia:salt",
+        "count": 3
+    }
+}

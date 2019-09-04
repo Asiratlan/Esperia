@@ -1,0 +1,22 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "E#E",
+        " E "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        }
+    },
+    "result": {
+        "item": "esperia:wooden_pestle_mortar",
+        "count": 1
+    }
+}

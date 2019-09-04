@@ -1,0 +1,9 @@
+{
+    "parent": "block/stairs",
+    "tintindex": 1,
+    "textures": {
+        "bottom": "minecraft:blocks/leaves_acacia",
+        "top": "minecraft:blocks/leaves_acacia",
+        "side": "minecraft:blocks/leaves_acacia"
+    }
+}

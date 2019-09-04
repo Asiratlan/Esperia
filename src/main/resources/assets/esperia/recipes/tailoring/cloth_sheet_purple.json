@@ -1,0 +1,37 @@
+{
+    "type": "forge:ore_shapeless",
+    "ingredients": [
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "esperia:cloth_sheet_white"
+        },
+        {
+            "item": "minecraft:dye",
+            "data": 5
+        }
+    ],
+    "result": {
+        "item": "esperia:cloth_sheet_purple",
+        "count": 8
+    }
+}

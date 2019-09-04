@@ -1,0 +1,21 @@
+{
+    "type": "forge:ore_shaped",
+  "pattern": [
+    "###",
+    "###",
+    " | "
+  ],
+  "key": {
+    "#": {
+      "item": "esperia:cloth_sheet_silver"
+    },
+    "|": {
+      "type": "forge:ore_dict",
+	  "ore": "stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:banner",
+    "data": 7
+  }
+}

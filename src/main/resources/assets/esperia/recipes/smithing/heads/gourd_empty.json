@@ -1,0 +1,26 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EP",
+        "W W",
+        "WWW"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:leather_scrap"
+        },
+        "E": {
+            "item": "esperia:wax"
+        },
+        "P": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "W": {
+            "item": "esperia:tanned_leather"
+        }
+    },
+    "result": {
+        "item": "esperia:gourd_empty",
+        "count": 1
+    }
+}

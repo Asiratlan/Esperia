@@ -1,0 +1,31 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E ",
+        "AEL",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:bronze_axe_head"
+        },
+        "A": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "L": {
+            "item": "esperia:nails"
+        },
+        "/": {
+            "item": "esperia:shaft"
+        }
+    },
+    "result": {
+        "item": "esperia:bronze_battleaxe",
+        "count": 1
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EH",
+        "ZRB",
+        "eVW"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "H": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "Z": {
+            "type": "forge:ore_dict",
+            "ore": "rod"
+        },
+        "R": {
+            "item": "esperia:big_lantern_off"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "e": {
+            "type": "forge:ore_dict",
+            "ore": "ingot"
+        },
+        "V": {
+            "item": "esperia:sophisticated_mecanism"
+        },
+        "W": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "minecraft:redstone_lamp",
+        "count": 1
+    }
+}

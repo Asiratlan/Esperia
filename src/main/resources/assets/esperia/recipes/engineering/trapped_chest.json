@@ -1,0 +1,35 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EB",
+        " LO",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "B": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "L": {
+            "item": "esperia:simple_mecanism"
+        },
+        "O": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "minecraft:trapped_chest",
+        "count": 1
+    }
+}

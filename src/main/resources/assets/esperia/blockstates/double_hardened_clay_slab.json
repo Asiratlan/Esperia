@@ -1,0 +1,11 @@
+
+{
+    "variants": {
+        "variant=false": {
+            "model": "esperia:half_slab_hardened_clay"
+        },
+        "variant=true": {
+            "model": "esperia:half_slab_hardened_clay"
+        }
+    }
+}

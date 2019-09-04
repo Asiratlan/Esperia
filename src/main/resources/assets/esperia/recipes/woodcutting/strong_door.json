@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "##I",
+        "##H",
+        "##i"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+        "I": {
+            "item": "esperia:plate_iron"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "i": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:door_strong",
+        "count": 1
+    }
+}

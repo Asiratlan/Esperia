@@ -1,0 +1,35 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "HNL",
+        "PVP",
+        "PTP"
+    ],
+    "key": {
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+		"V": {
+            "item": "minecraft:glass_pane"
+        },
+		"L": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+		"P": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        },
+		"T": {
+            "item": "esperia:cloth_sheet_blue"
+        },
+		"N": {
+            "item": "esperia:nails"
+        }
+    },
+    "result": {
+        "item": "esperia:showcase_blue",
+        "count": 1
+    }
+}

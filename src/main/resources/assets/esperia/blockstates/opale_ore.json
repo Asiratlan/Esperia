@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [{
+                "model": "esperia:opale_ore/opale_ore1"
+            }, {
+                "model": "esperia:opale_ore/opale_ore2"
+            }, {
+                "model": "esperia:opale_ore/opale_ore3"
+            }, {
+                "model": "esperia:opale_ore/opale_ore4"
+            }, {
+                "model": "esperia:opale_ore/opale_ore5"
+            }, {
+                "model": "esperia:opale_ore/opale_ore6"
+            }]
+    }
+}

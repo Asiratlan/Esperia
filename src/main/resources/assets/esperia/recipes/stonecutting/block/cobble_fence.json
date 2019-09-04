@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " # ",
+        "E/E",
+        "E/E"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "rock_hammerTool"
+        },
+        "E": {
+            "item": "esperia:stone_pebble"
+        },
+        "/": {
+            "type": "forge:ore_dict",
+            "ore": "stick"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_fence",
+        "count": 2
+    }
+}

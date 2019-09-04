@@ -1,0 +1,28 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        " ##",
+        "E H",
+        "  /"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "brick"
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "pebble"
+        },
+        "H": {
+            "item": "esperia:handle"
+        },
+        "/": {
+            "item": "esperia:pole"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_scythe",
+        "count": 1
+    }
+}

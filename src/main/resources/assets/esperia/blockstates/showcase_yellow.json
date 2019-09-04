@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "facing=west,left=false,right=false": { 
+            "model": "esperia:showcase_yellow",
+            "y" : 90
+        },
+        "facing=west,left=true,right=false": { 
+            "model": "esperia:showcase_yellow_end_1",
+            "y" : 90
+        },
+        "facing=west,left=false,right=true": { 
+            "model": "esperia:showcase_yellow_end_2",
+            "y" : 90
+        },
+        "facing=west,left=true,right=true": { 
+            "model": "esperia:showcase_yellow_middle",
+            "y" : 90
+        },
+        "facing=north,left=false,right=false": { 
+            "model": "esperia:showcase_yellow",
+            "y": 180
+        },
+        "facing=north,left=true,right=false": { 
+            "model": "esperia:showcase_yellow_end_1",
+            "y": 180
+        },
+        "facing=north,left=false,right=true": { 
+            "model": "esperia:showcase_yellow_end_2",
+            "y": 180
+        },
+        "facing=north,left=true,right=true": { 
+            "model": "esperia:showcase_yellow_middle",
+            "y": 180
+        },
+        "facing=east,left=false,right=false": { 
+            "model": "esperia:showcase_yellow",
+            "y": 270
+        },
+        "facing=east,left=true,right=false": { 
+            "model": "esperia:showcase_yellow_end_1",
+            "y": 270
+        },
+        "facing=east,left=false,right=true": { 
+            "model": "esperia:showcase_yellow_end_2",
+            "y": 270
+        },
+        "facing=east,left=true,right=true": { 
+            "model": "esperia:showcase_yellow_middle",
+            "y": 270
+        },
+        "facing=south,left=false,right=false": { 
+            "model": "esperia:showcase_yellow"
+        },
+        "facing=south,left=true,right=false": { 
+            "model": "esperia:showcase_yellow_end_1"
+        },
+        "facing=south,left=false,right=true": { 
+            "model": "esperia:showcase_yellow_end_2"
+        },
+        "facing=south,left=true,right=true": { 
+            "model": "esperia:showcase_yellow_middle"
+        }
+    }
+}

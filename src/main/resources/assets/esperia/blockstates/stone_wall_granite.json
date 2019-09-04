@@ -1,0 +1,108 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "up": "true",
+                "variant": "normal"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_post"
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "variant": "normal"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "east": "true",
+                "variant": "normal"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "y": 90,
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "south": "true",
+                "variant": "normal"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "y": 180,
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "west": "true",
+                "variant": "normal"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "y": 270,
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "up": "true",
+                "variant": "sub"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_post"
+            }
+        },
+        {
+            "when": {
+                "north": "true",
+                "variant": "sub"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "east": "true",
+                "variant": "sub"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "y": 90,
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "south": "true",
+                "variant": "sub"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "y": 180,
+                "uvlock": true
+            }
+        },
+        {
+            "when": {
+                "west": "true",
+                "variant": "sub"
+            },
+            "apply": {
+                "model": "esperia:stone_wall_granite_normal_side",
+                "y": 270,
+                "uvlock": true
+            }
+        }
+    ]
+}

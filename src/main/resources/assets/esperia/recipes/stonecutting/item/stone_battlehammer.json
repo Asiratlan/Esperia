@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#S#",
+        "#S#",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "brick"
+        },
+        "S": {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        "/": {
+            "item": "esperia:pole"
+        }
+    },
+    "result": {
+        "item": "esperia:stone_battlehammer",
+        "count": 1
+    }
+}

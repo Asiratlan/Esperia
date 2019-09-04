@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#E#",
+        "Q Q",
+        "JLJ"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:leather_scrap"
+        },
+        "E": {
+                      "item": "esperia:weaver_tools",
+            "data": 32767        },
+        "Q": {
+            "item": "esperia:cloth_sheet_white"
+        },
+        "J": {
+            "item": "esperia:nails"
+        },
+        "L": {
+            "type": "forge:ore_dict",
+            "ore": "plank"
+        }
+    },
+    "result": {
+        "item": "esperia:cloth_boots",
+        "count": 1
+    }
+}

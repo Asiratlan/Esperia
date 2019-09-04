@@ -1,0 +1,35 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EH",
+        "ZZJ",
+        "  R"
+    ],
+    "key": {
+        "#": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "E": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "H": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "Z": {
+            "item": "esperia:stick_iron"
+        },
+        "J": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "R": {
+            "item": "esperia:tanned_leather"
+        }
+    },
+    "result": {
+        "item": "esperia:lockpick_iron",
+        "count": 1
+    }
+}

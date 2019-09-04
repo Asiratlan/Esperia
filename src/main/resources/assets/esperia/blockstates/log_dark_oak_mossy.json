@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "axis=y": {
+            "model": "esperia:log_dark_oak_mossy"
+        },
+        "axis=z": {
+            "model": "esperia:log_dark_oak_mossy",
+            "x": 90
+        },
+        "axis=x": {
+            "model": "esperia:log_dark_oak_mossy",
+            "x": 90,
+            "y": 90
+        },
+        "axis=none": {
+            "model": "dark_oak_bark"
+        }
+    }
+}

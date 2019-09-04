@@ -1,0 +1,23 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "Y"
+  ],
+  "key": {
+    "#": {
+      "type": "forge:ore_dict","ore": "stick"
+    },
+    "X": {
+      "item": "esperia:steel_nugget"
+    },
+    "Y": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "minecraft:arrow",
+    "count": 8
+  }
+}

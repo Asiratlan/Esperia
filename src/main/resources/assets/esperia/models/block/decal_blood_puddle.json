@@ -1,0 +1,7 @@
+{
+    "parent": "esperia:block/decal",
+    "textures": {
+        "0": "esperia:blocks/decal_blood_puddle"
+    }
+}
+

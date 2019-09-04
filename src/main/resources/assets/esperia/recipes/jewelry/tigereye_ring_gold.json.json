@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+		"A B",
+		" P ",
+		" M "
+	],
+	"key": {
+      "P": {
+            "item": "esperia:tigereye_cut"
+        },
+      "M": {
+            "item": "esperia:gold_jewelry",
+			"data": 1
+        },
+       "A": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+       "B": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        }
+    },
+    "result": {
+        "item": "esperia:gold_tigereye_jewelry",
+		"data": 1,
+        "count": 1
+    }
+}

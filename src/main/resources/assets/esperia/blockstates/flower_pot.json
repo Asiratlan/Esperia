@@ -1,0 +1,136 @@
+{
+    "variants": {
+        "contents=empty": {
+            "model": "minecraft:flower_pot"
+        },
+        "contents=rose": {
+            "model": "minecraft:flower_pot_rose"
+        },
+        "contents=blue_orchid": {
+            "model": "minecraft:flower_pot_orchid"
+        },
+        "contents=allium": {
+            "model": "minecraft:flower_pot_allium"
+        },
+        "contents=houstonia": {
+            "model": "minecraft:flower_pot_houstonia"
+        },
+        "contents=red_tulip": {
+            "model": "minecraft:flower_pot_tulip_red"
+        },
+        "contents=orange_tulip": {
+            "model": "minecraft:flower_pot_tulip_orange"
+        },
+        "contents=white_tulip": {
+            "model": "minecraft:flower_pot_tulip_white"
+        },
+        "contents=pink_tulip": {
+            "model": "minecraft:flower_pot_tulip_pink"
+        },
+        "contents=oxeye_daisy": {
+            "model": "minecraft:flower_pot_daisy"
+        },
+        "contents=dandelion": {
+            "model": "minecraft:flower_pot_dandelion"
+        },
+        "contents=oak_sapling": {
+            "model": "minecraft:flower_pot_oak"
+        },
+        "contents=spruce_sapling": {
+            "model": "minecraft:flower_pot_spruce"
+        },
+        "contents=birch_sapling": {
+            "model": "minecraft:flower_pot_birch"
+        },
+        "contents=jungle_sapling": {
+            "model": "minecraft:flower_pot_jungle"
+        },
+        "contents=acacia_sapling": {
+            "model": "minecraft:flower_pot_acacia"
+        },
+        "contents=dark_oak_sapling": {
+            "model": "minecraft:flower_pot_dark_oak"
+        },
+        "contents=mushroom_red": {
+            "model": "minecraft:flower_pot_mushroom_red"
+        },
+        "contents=mushroom_brown": {
+            "model": "minecraft:flower_pot_mushroom_brown"
+        },
+        "contents=dead_bush": {
+            "model": "minecraft:flower_pot_dead_bush"
+        },
+        "contents=fern": {
+            "model": "minecraft:flower_pot_fern"
+        },
+        "contents=cactus": {
+            "model": "minecraft:flower_pot_cactus"
+        },
+        "contents=blue_hydrangea": {
+            "model": "esperia:flower_pot_blue_hydrangea"
+        },
+        "contents=bluebells": {
+            "model": "esperia:flower_pot_bluebells"
+        },
+        "contents=bromeliad": {
+            "model": "esperia:flower_pot_bromeliad"
+        },
+        "contents=daisy": {
+            "model": "esperia:flower_pot_daisy"
+        },
+        "contents=esp_dandelion": {
+            "model": "esperia:flower_pot_dandelion"
+        },
+        "contents=goldenrod": {
+            "model": "esperia:flower_pot_goldenrod"
+        },
+        "contents=iris": {
+            "model": "esperia:flower_pot_iris"
+        },
+        "contents=lavender": {
+            "model": "esperia:flower_pot_lavender"
+        },
+        "contents=lily": {
+            "model": "esperia:flower_pot_lily"
+        },
+        "contents=orange_cosmos": {
+            "model": "esperia:flower_pot_orange_cosmos"
+        },
+        "contents=pink_daffodil": {
+            "model": "esperia:flower_pot_pink_daffodil"
+        },
+        "contents=pink_hibiscus": {
+            "model": "esperia:flower_pot_pink_hibiscus"
+        },
+        "contents=swampflower": {
+            "model": "esperia:flower_pot_swampflower"
+        },
+        "contents=swampviolets": {
+            "model": "esperia:flower_pot_swampviolets"
+        },
+        "contents=violets": {
+            "model": "esperia:flower_pot_violets"
+        },
+        "contents=wildflower": {
+            "model": "esperia:flower_pot_wildflower"
+        },
+        "contents=blue_milk_cap": {
+            "model": "esperia:flower_pot_blue_milk_cap"
+        },
+        "contents=flat": {
+            "model": "esperia:flower_pot_flat"
+        },
+        "contents=portobello": {
+            "model": "esperia:flower_pot_portobello"
+        },
+        "contents=toadstool": {
+            "model": "esperia:flower_pot_toadstool"
+        },
+        "contents=strange": {
+            "model": "esperia:flower_pot_strange"
+        },
+        "contents=plant_tea": {
+            "model": "esperia:flower_pot_plant_tea"
+        }
+    }
+}

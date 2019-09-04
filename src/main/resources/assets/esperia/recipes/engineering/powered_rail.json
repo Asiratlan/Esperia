@@ -1,0 +1,45 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "#EM",
+        "RFX",
+        "SWC"
+    ],
+    "key": {
+        "#": {
+            "item": "esperia:pliers",
+            "data": 32767
+        },
+        "E": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "M": {
+            "item": "esperia:magnifying_glass",
+ "data": 32767        },
+        "R": {
+            "item": "minecraft:rail"
+        },
+        "F": {
+            "item": "esperia:sophisticated_mecanism"
+        },
+        "X": {
+            "type": "forge:ore_dict",
+            "ore": "limeTool"
+        },
+        "S": {
+            "item": "esperia:nails"
+        },
+        "W": {
+            "type": "forge:ore_dict",
+            "ore": "rod"
+        },
+        "C": {
+            "item": "esperia:cog"
+        }
+    },
+    "result": {
+        "item": "minecraft:golden_rail",
+        "count": 1
+    }
+}

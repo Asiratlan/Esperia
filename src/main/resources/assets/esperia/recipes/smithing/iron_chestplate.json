@@ -1,0 +1,30 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+        "PHP",
+        "SBS",
+        "NSN"
+    ],
+    "key": {
+        "P": {
+            "item": "esperia:plate_iron"
+        },
+        "H": {
+            "type": "forge:ore_dict",
+            "ore": "hammerTool"
+        },
+        "S": {
+            "item": "esperia:leather_scrap"
+        },
+        "N": {
+            "item": "esperia:nails"
+        },
+        "B": {
+            "item": "minecraft:iron_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_chestplate",
+        "count": 1
+    }
+}
